@@ -686,3 +686,6 @@ html .buttonInvertedPurple-15OGid { color: #fff; }
 .Select-value .icon-3_ICKH { margin-top: 6px; }
 .theme-dark .themed-popout .footer { border-top: 2px solid #1e2124; }
 .theme-dark .select-3JqNgs .Select-control .Select-placeholder { padding-left: 5px; }
+#bd-customcss-detach-container { width: 29.85%; }
+.content-region #bd-customcss-attach-controls, #bd-customcss-detach-container #bd-customcss-attach-controls { box-shadow: none; border-top: 2px solid #1e2124; }
+#bd-customcss-detach-editor { border-top: 2px solid #1e2124 }
