@@ -1,5 +1,5 @@
 //META{"name":"MinimalImprovement","description":"REQUIRES MINIMAL MODE. Dark mode, made geometric and sleek. Message me if you have a plugin/theme that you need compatibility for or if you found something not themed.","author":"Juicysteak117#1835","version":"2.71"}*//{}
-
+/* Shoutout to all the boys in #css-and-themes in BD2 for all the help they've given. */
 .avatarSpeaking-3teDH6 {
     box-shadow: none;
 }
@@ -164,8 +164,8 @@ div[class="scrollerWrap-2uBjct scrollerThemed-19vinI themeGhost-10fio9 scrollerF
 .theme-dark .theme-light .ui-calendar-picker .react-datepicker { background-color: #36393f; border-radius: 0; padding: 20px;}
 .theme-dark .theme-light .calendarPicker-16Q6sl .react-datepicker__day, .theme-light .calendarPicker-16Q6sl .react-datepicker__day { color: #f6f6f7; background-color: #27292d; border-radius: 0 !important; }
 .theme-dark .theme-light .calendarPicker-16Q6sl .react-datepicker__day.react-datepicker__day--disabled, .theme-dark .theme-light .calendarPicker-16Q6sl .react-datepicker__day.react-datepicker__day--disabled:hover, .theme-light .calendarPicker-16Q6sl .react-datepicker__day.react-datepicker__day--disabled, .theme-light .calendarPicker-16Q6sl .react-datepicker__day.react-datepicker__day--disabled:hover {color: rgba(246, 246, 247, 0.2); background-color: rgba(0,0,0,.05); border-radius: 0 !important; }
-.theme-dark .theme-light .calendarPicker-16Q6sl .react-datepicker, .theme-light .calendarPicker-16Q6sl .react-datepicker { background-color: #36393f; border-radius: 0; border-top: 2px solid #1e2124; }
-.calendarPicker-16Q6sl { height: 356px !important; }
+.theme-dark .theme-light .calendarPicker-16Q6sl .react-datepicker, .theme-light .calendarPicker-16Q6sl .react-datepicker { background-color: #36393f; border-radius: 0; }
+.calendarPicker-16Q6sl { height: 354px !important; }
 .theme-dark .theme-light .calendarPicker-16Q6sl .react-datepicker__current-month, .theme-light .calendarPicker-16Q6sl .react-datepicker__current-month { color: #f6f6f7;  }
 .theme-dark .theme-light .calendarPicker-16Q6sl .react-datepicker__day-name, .theme-light .calendarPicker-16Q6sl .react-datepicker__day-name { color: #cfcfd1; }
 .calendarPicker-16Q6sl .react-datepicker__navigation.react-datepicker__navigation--next, .calendarPicker-16Q6sl .react-datepicker__navigation.react-datepicker__navigation--previous { border-radius: 0; }
@@ -226,7 +226,7 @@ div[class="innerDisabled-1hSPu_ inner-3if5cm flex-3B1Tl4 innerNoAutocomplete-kaU
 .theme-dark .search-results-wrap .search-result.expanded .search-result-message.hit {border-top: 2px solid #1e2124; border-bottom: 2px solid #1e2124; border-left: 0; border-right: 0;} 
 .theme-dark .search-results-wrap .search-result .search-result-message.hit .message-group .comment .image { max-width: 163px; max-height: 163px}
 .theme-dark .search-results-wrap .search-result .search-result-message.hit .message-group .comment  { margin: 0!important; }
-.messages-popout .message-group .avatar-large {margin: 0 10px 0 0; }
+.messages-popout .message-group .avatar-large {margin: 0 5px 0 0; }
 .messages-popout {padding: 13px 0 13px 14px; }
 .innerAutocomplete-2qsvzH {border-radius: 0; }
 .searchFilter-1fJ0cd {border-radius: 0;}
@@ -402,7 +402,9 @@ div[class="avatar-1BXaQj large-3yh-62 listAvatar-MpHQ5z"] { max-width: 20px; max
 div[class="listRow-1wEi-U flex-3B1Tl4 weightMedium-13x9Y8"] { height: 29px ; }
 .listRow-1wEi-U { padding: 0px 20px 5px 20px; }
 .theme-dark .listRow-1wEi-U:hover { background: hsla(0,0%,100%,.05); }
-.status-3jUEha { border: 2px solid #2f3136; right: -2px; bottom: -2px;}
+.status-3jUEha { border: 2px solid #35393e; right: -2px; bottom: -2px; box-shadow: none; }
+.theme-dark .selectorSelected-2M0IGv .status-3jUEha { border: 2px solid #36393f; }
+.theme-dark .userPopout-4pfA0d .status-3jUEha { border: 3px solid #35393e; }
 .ui-color-picker-swatch { border-radius: 0; }
 .ui-color-picker-swatch.custom, .ui-color-picker-swatch.default { border-radius: 0; }
 .saturation-QX6a9n>div, .saturation-QX6a9n>div>div { border-radius: 0; }
@@ -444,20 +446,20 @@ div[class="listRow-1wEi-U flex-3B1Tl4 weightMedium-13x9Y8"] { height: 29px ; }
 .theme-dark .wrapper-VSYYTS .instantInviteModal-5L33Qh .form-header{border-radius:0;padding:20px 20px 0px 20px;text-align:left;background:#36393f;}
 .theme-dark .wrapper-VSYYTS { border-radius: 0; }
 .theme-dark .wrapper-VSYYTS .instantInviteModal-5L33Qh .expireText-NeAc7v { margin-top: 15px; }
-.theme-dark .wrapper-VSYYTS .instantInviteModal-5L33Qh .form-actions .btn-default{border-bottom:0;border-radius:0px;}
-.theme-dark .wrapper-VSYYTS .instantInviteModal-5L33Qh .form-actions .btn.btn-primary{margin:0;}
+.theme-dark .wrapper-VSYYTS .instantInviteModal-5L33Qh .form-actions .btn-default { border-bottom:0;border-radius:0px; }
+.theme-dark .wrapper-VSYYTS .instantInviteModal-5L33Qh .form-actions .btn.btn-primary { margin:0; }
 .theme-dark .wrapper-VSYYTS .instantInviteModal-5L33Qh .form-actions{border-radius:0 0 0px 0px;padding:20px;border-top: 2px solid #1e2124;}
 .clipboardInputInner-oj8y-S button { border-left: 2px solid #1e2124; }
 .clipboardInputInner-oj8y-S button:first-of-type:before { display: none; }
-.wrapper-VSYYTS .instantInviteModal-5L33Qh .blurb-ArHxCz{color:#b9bbbe;}
-.theme-dark .wrapper-VSYYTS .instantInviteModal-5L33Qh .clipboardInputInner-dxVheg input{color:#fff; background-color: #2d2d32;}
-.theme-dark .wrapper-VSYYTS .instantInviteModal-5L33Qh .clipboardInputInner-dxVheg{height: 40px}
+.wrapper-VSYYTS .instantInviteModal-5L33Qh .blurb-ArHxCz { color:#b9bbbe; }
+.theme-dark .wrapper-VSYYTS .instantInviteModal-5L33Qh .clipboardInputInner-dxVheg input { color:#fff; background-color: #2d2d32; }
+.theme-dark .wrapper-VSYYTS .instantInviteModal-5L33Qh .clipboardInputInner-dxVheg { height: 40px }
 .clipboardInputInner-oj8y-S { border: 2px solid #1e2124; border-radius: 0; }
-.checkbox .checkbox-inner+span{color:#fff;}
-.theme-dark .wrapper-VSYYTS .instantInviteModal-5L33Qh .form-actions{background-color:#2f3136;}
-.theme-dark .wrapper-VSYYTS .instantInviteModal-5L33Qh .form-header header{color:#f6f6f7;}
-.theme-dark .wrapper-VSYYTS .instantInviteModal-5L33Qh .form-header{background-color:transparent;}
-.wrapper-VSYYTS .instantInviteModal-5L33Qh .form-inner{background-color:#36393f; padding: 10px;}
+.checkbox .checkbox-inner+span { color:#fff; }
+.theme-dark .wrapper-VSYYTS .instantInviteModal-5L33Qh .form-actions { background-color:#2f3136; }
+.theme-dark .wrapper-VSYYTS .instantInviteModal-5L33Qh .form-header header { color:#f6f6f7;}
+.theme-dark .wrapper-VSYYTS .instantInviteModal-5L33Qh .form-header { background-color:transparent; }
+.wrapper-VSYYTS .instantInviteModal-5L33Qh .form-inner { background-color:#36393f; padding: 10px; }
 .form-deprecated .form-inner:first-child, .form.deprecated .form-inner:first-child { border-radius: 0; }
 .form-deprecated .form-inner { background-color: #36393f; }
 .wrapper-VSYYTS .instantInviteModalAdvanced-38f2M0 .form-actions { background-color:#2f3136; padding: 0 40px 0px 40px; border-radius: 0; border-top: 2px solid #1e2124; }
@@ -466,7 +468,7 @@ div[class="listRow-1wEi-U flex-3B1Tl4 weightMedium-13x9Y8"] { height: 29px ; }
 .form-deprecated .Select-option, .form.deprecated .Select-option { background-color: #36393f; color: #fff; }
 .form-deprecated .Select-option.is-focused, .form.deprecated .Select-option.is-focused { background-color:#2f3136; color: #fff; }
 .Select.is-open .Select-control { border-radius: 0; }
-.Select-menu-outer { max-height: 204px; margin-top: -2px;}
+.Select-menu-outer { max-height: 204px; margin-top: -2px; }
 .wrapper-VSYYTS .instantInviteModalAdvanced-38f2M0 .form-actions .btn-default { color: #959595; }
 .wrapper-VSYYTS .instantInviteModalAdvanced-38f2M0 .form-actions .btn.btn-primary { border-left: 2px solid #1e2124; border-right: 2px solid #1e2124; }
 .theme-dark .input-MwQhcX  { box-shadow: none; border-radius: 0; border: 2px solid #1e2124; }
@@ -485,7 +487,7 @@ div[class="listRow-1wEi-U flex-3B1Tl4 weightMedium-13x9Y8"] { height: 29px ; }
 .need-help-modal.deprecated .form-inner { min-width:186px; padding: 20px; min-height: unset; background-color: transparent; }
 .need-help-modal.deprecated .header h1 { font-weight:600; letter-spacing:.3px; margin:0; font-size:16px; line-height:20px; }
 .need-help-modal.deprecated .header input[type=text]:focus { margin:20px 0 0; }
-.need-help-modal.deprecated .header input[type=text]{border-radius:0px;box-shadow:0 0;margin:20px 0 0;width:100%;border:1px solid;transition:200ms ease; }
+.need-help-modal.deprecated .header input[type=text] { border-radius:0px;box-shadow:0 0;margin:20px 0 0;width:100%;border:1px solid;transition:200ms ease; }
 .need-help-modal.deprecated .header { align-items: initial; border-radius: 0; height: auto; padding: 20px; padding-bottom: 0; background-color:transparent; }
 .need-help-modal.deprecated a:hover { text-decoration:underline; }
 .need-help-modal.deprecated ul li+li { margin-top:10px; }
@@ -679,3 +681,9 @@ html .buttonInvertedPurple-15OGid { color: #fff; }
 .theme-dark .channel-members-loading { border-left: 2px solid #1e2124; }
 .replyer { border-radius: 0; background: #1e2124; }
 .create-guild-container.deprecated .join-server .link-container input { border-radius: 0; }
+.form-deprecated .form-actions, .form.deprecated .form-actions { border-top: 2px solid #1e2124; }
+.Select .Select-control div { padding: 0; height: 28px; line-height: 30px; }
+.Select--single>.Select-control .Select-value, .Select-placeholder { padding: 0 10px; }
+.Select-value .icon-3_ICKH { margin-top: 6px; }
+.theme-dark .themed-popout .footer { border-top: 2px solid #1e2124; }
+.theme-dark .select-3JqNgs .Select-control .Select-placeholder { padding-left: 5px; }
