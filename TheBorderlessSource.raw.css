@@ -310,7 +310,7 @@ div[class="headerTextNormal-3zWFIS headerText-2CVBxK marginBottom8-1mABJ4 small-
 .bda-dark #bda-qem { border: none !important; display: none;}
 .popout.popout-top-right.no-arrow { margin-top: -11px !important; }
 #bda-qem-favourite { display: none; }
-.small-popout-box { border-radius: 0;   background: #35393e; padding: 0;}
+.small-popout-box { border-radius: 0;   background: #35393e; padding: 0; border-color: #1e2124; }
 .option-popout .btn-item { color: #FFF; }
 .bot-tag { border-radius: 0; }
 .option-popout .btn-item:hover { color: #fff; background-color: rgba(0,0,0,.1); }
