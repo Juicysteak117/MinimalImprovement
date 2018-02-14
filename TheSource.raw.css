@@ -689,4 +689,5 @@ html .buttonInvertedPurple-15OGid { color: #fff; }
 #bd-customcss-detach-container { width: 29.85%; }
 .content-region #bd-customcss-attach-controls, #bd-customcss-detach-container #bd-customcss-attach-controls { box-shadow: none; border-top: 2px solid #1e2124; }
 #bd-customcss-detach-editor { border-top: 2px solid #1e2124 }
-
+.channels-3g2vYe .scroller-NXV0-d { height: calc(100vh - 76px); }
+.scrolling-1GMXnh>* { pointer-events: auto; }
