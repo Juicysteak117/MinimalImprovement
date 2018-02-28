@@ -86,7 +86,7 @@ html, span:not(.spinner-item)
 .guilds-wrapper .guilds-error { height: 20px; width: 20px; font-size: 15px; line-height: 15px; }
 .content-2mSKOj { margin: 0; border-radius: 0; }
 .popout.popout-bottom-left, .popout.popout-bottom-right { margin-top: 0; box-shadow: none;}
-.menu-3BZuDT { background: #282b30; border-radius: 0; border: 2px solid #1e2124; box-shadow: 0;}
+.menu-3BZuDT { background: #282b30; border-radius: 0; border: 2px solid #1e2124; box-shadow: 0; border-bottom: 1px solid #1e2124; }
 .item-rK1j5B { color: rgba(255,255,255,0.6); }
 .item-rK1j5B:hover { background-color: #25282d; color: #fff; opacity: 1}
 .unread-mentions-indicator-top { display: none; }
@@ -262,8 +262,7 @@ div[class="item-1XYaYf itemSubMenu-3ZgIw-"] .contextMenu-uoJTbz { height: 280px;
 .quickswitcher-2NdiGJ { border-radius: 0; box-shadow: none; border: 2px solid #1e2124; }
 .theme-dark .footer-2wFs91 { border-radius: 0; box-shadow: none;  border-top: none; padding: 0; }
 .theme-dark .modal-3HOjGZ { box-shadow: none; border-radius: 0; }
-.header-3sp3cE { border-top: 2px solid #1e2124; border-left: 2px solid #1e2124; border-right: 2px solid #1e2124; }
-.content-1Cut5s { border-left: 2px solid #1e2124; border-right: 2px solid #1e2124; border-radius: 0;}
+.content-1Cut5s { border-radius: 0; }
 .theme-dark .message-25xg43 { border-radius: 0; box-shadow: none; border: 2px solid #1e2124; }
 .uploadModal-2KN6Mm .inner-1-09ZV .channelTextAreaUpload-10Oncb { border: 2px solid #1e2124; }
 .theme-dark .uploadModal-2KN6Mm { border: 2px solid #1e2124; }
@@ -691,5 +690,11 @@ html .buttonInvertedPurple-15OGid { color: #fff; }
 #bd-customcss-detach-container { width: 29.85%; }
 .content-region #bd-customcss-attach-controls, #bd-customcss-detach-container #bd-customcss-attach-controls { box-shadow: none; border-top: 2px solid #1e2124; }
 #bd-customcss-detach-editor { border-top: 2px solid #1e2124; }
-.channels-3g2vYe .scroller-NXV0-d { height: calc(100vh - 76px); }
+.channels-3g2vYe .scroller-NXV0-d { height: calc(100vh - 112px); }
 .scrolling-1GMXnh>* { pointer-events: auto; }
+.userSettingsVoice-TvPQ80 .previewOverlay-2vHj3H { border-radius: 0; }
+.ui-standard-sidebar-view .content-column.minimal .input-2YozMi.disabled-3-J0Hk { border: 2px solid #1e2124 !important; }
+.roleInner-3mfsVE { height: 16px; }
+.layer-kosS71 {transform: none !important; }
+.video-3ihULu, .wrapper-GhVnpx, .vip-2RT5DH:after { border-radius: 0; }
+.theme-dark .embedPill-3sYS1X { background-color: #4f545c !important; }
