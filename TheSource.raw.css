@@ -255,7 +255,7 @@ div[class="innerDisabled-1hSPu_ inner-3if5cm flex-3B1Tl4 innerNoAutocomplete-kaU
 .search .search-bar {width: 244px; }
 svg[name="PersonPlus"] { order: -1; }
 .search-popout .search-query .search-for strong { color: #99aab5; }
-.theme-dark .contextMenu-uoJTbz { box-shadow: none; border-radius: 0; border: 2px solid #1e2124; }
+.theme-dark.contextMenu-uoJTbz { box-shadow: none; border-radius: 0; border: 2px solid #1e2124; }
 div[class="item-1XYaYf itemSubMenu-3ZgIw-"] .contextMenu-uoJTbz { height: 280px; }
 .theme-dark .itemGroup-oViAgA:not(:first-child):not(:empty) { border-top: 1px solid #c73b3b; }
 .theme-dark .itemGroup-oViAgA {border-radius: 0; margin: 0; }
@@ -698,3 +698,7 @@ html .buttonInvertedPurple-15OGid { color: #fff; }
 .layer-kosS71 {transform: none !important; }
 .video-3ihULu, .wrapper-GhVnpx, .vip-2RT5DH:after { border-radius: 0; }
 .theme-dark .embedPill-3sYS1X { background-color: #4f545c !important; }
+.inviteModal-1di4Hk { border-radius: 0; }
+.inviteModal-1di4Hk .scroller { background: #2f3136; }
+.inviteModal-1di4Hk .inviteBody-1kVhyx, .inviteModal-1di4Hk .inviteTitle-2yNtkC { color: #ccc; }
+.note-3rIr6P textarea { border-radius: 0; }
