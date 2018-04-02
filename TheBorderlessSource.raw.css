@@ -47,7 +47,7 @@ html, span:not(.spinner-item)
     align-items: left;
     padding: 0 0 0 6px;
 	height: 34px ;
-	background-color: #2a2c31;
+	background-color: #2a2c31;z-index: 1000;
 }
 .guilds .friends-online {
 	display: none !important;
@@ -71,12 +71,12 @@ html, span:not(.spinner-item)
 .private-channels>.search-bar {   height: 40px; padding: 0 0; align-items: stretch; box-shadow: none; background-color: rgb(42,44,49); color: #fff; opacity: 1 !important;}
 .search-bar>.search-bar-inner { border-radius: 0; align-items: center; border: 0; background-color: rgb(42,44,49); color: #fff; opacity: 1 !important;}
 .search-bar input{ height: 40px; background-color: rgb(42,44,49); color: #fff; opacity: 1 !important;}
-.channel-members {   width: 240px; min-width: 240px; max-width: 240px;}
+.channel-members {   width: 240px; min-width: 240px; max-width: 240px; height: 140% !important;}
 .private-channels header{ margin-top: 0; padding: 4px 20px; color: rgba(246,246,247,0.3); opacity: 1 !important;}
 .private-channels .channel a{margin: 0; border-radius: 0;  }
 #friends .friends-table {   margin: 0;}
 .theme-dark .headerBar-cxbhPD { height: 40px;     box-shadow: none;}
-.container-3lnMWU { border-bottom: 0;   padding-left: 6px; padding-top: 0; padding-bottom: 0; padding-right: 0; height: 34px; }
+.container-3lnMWU { border-bottom: 0;   padding-left: 6px; padding-top: 0; padding-bottom: 0; padding-right: 0; height: 34px; background: #2a2c31; z-index: 1000}
 .button-3WJ5FX { height: 34px; width: 18px; border-radius: 0; }
 .inner-ptMwR- .rtc-connection-status { display: inline; }
 .inner-ptMwR- .channel-3YGMy1 { margin-right: 0; }
@@ -123,7 +123,7 @@ div[class="scrollerWrap-2uBjct scrollerThemed-19vinI themeGhost-10fio9 scrollerF
 .channel-members .old-h2 { margin: 0; padding-left: 30px; padding-right: 0}
 .channel-members h2 { margin-top: 6px !important; margin-bottom: 6px !important; margin-left: 0 !important; margin-right: 0 !important; font-size: 13px !important; }
 .avatar-small .status { bottom: -2px; }
-.channel-members .member { height: 30px;}
+.theme-dark .memberOnline-1xn3V8 { height: 30px;}
 .guild-role {height: 26px }
 .item-3879bf { border-radius: 0;}
 .ui-settings-notice { border-radius: 0; padding-left: 10px; padding-top: 0; padding-bottom: 0; padding-right: 0;}
@@ -619,7 +619,7 @@ html .buttonInvertedPurple-15OGid { color: #fff; }
 .inner-21BDhs, .connectionDelete-1E0cwj { border-radius: 0; }
 .connectionHeader-2neBI0 {   padding: 10px; margin-bottom: 10px; }
 .connectionOptionSwitch-1M4MMm { margin-bottom: 10px; }
-.listeningAlong-13-Udx { margin: 0;   padding: 0 0 0 6px; }
+.listeningAlong-13-Udx { margin: 0;   padding: 0 0 0 6px; z-index: 1000; }
 .actionIcon-JJUStF{ border-radius: 0; padding: 0; height: 34px; width: 18px; }
 .listeningAlong-13-Udx .subtitle-2BzAeG { display: none; }
 .user-settings-games .game-name-input { border-radius: 0; }
@@ -662,7 +662,7 @@ html .buttonInvertedPurple-15OGid { color: #fff; }
 .theme-dark .select-3JqNgs .Select-control .Select-placeholder { padding-left: 5px; }
 #bd-customcss-detach-container { width: 29.85%; }
 .content-region #bd-customcss-attach-controls, #bd-customcss-detach-container #bd-customcss-attach-controls { box-shadow: none;   }
-.channels-3g2vYe .scroller-NXV0-d { height: calc(100vh - 112px); }
+.channels-3g2vYe .scroller-NXV0-d { height: 112vh; }
 .scrolling-1GMXnh>* { pointer-events: auto; }
 .container-3NvGrL .header-1tSljs, .theme-dark .title-qAcLxz { background-color: #2a2c31; }
 .userSettingsVoice-TvPQ80 .previewOverlay-2vHj3H { border-radius: 0; }
@@ -674,7 +674,19 @@ html .buttonInvertedPurple-15OGid { color: #fff; }
 .inviteModal-1di4Hk .scroller { background: #2f3136; }
 .inviteModal-1di4Hk .inviteBody-1kVhyx, .inviteModal-1di4Hk .inviteTitle-2yNtkC { color: #ccc; }
 .note-3rIr6P textarea { border-radius: 0; }
+.moreUsers-3NykMh { display: none; }
 .scroller-fzNley div[class="container-3dgtdN"] .avatar-1BXaQj { display: none; }
 .scroller-fzNley div[class="container-3dgtdN"] div[class="voiceUserSummaryItem-9OrlHw container-3IULEB flex-3B1Tl4 alignCenter-3VxkQP"]:after { content: 'Collapsed VC'; color: #72767d; font-weight: 500; font-size: 16px; }
 .icon-1i6UVf { height: 14px; width: 14px; }
 .scroller-fzNley div[class="container-3dgtdN"] .iconContainer-xPwUnA { height: 14px; width: 14px; }
+.content-3JzEqq { padding: 0; border-radius: 0; margin: 0 0 0 6px; }
+.small-TEeAkX { height: 20px; width: 20px; }
+.status-2Devx1 { height: 6px; width: 6px; right: -3px; bottom: -4px; }
+.small-TEeAkX .statusTyping-lRly31 { height: 6px; width: 22px; right: -3px; }
+.memberInner-3XUq9K { width: 190px; }
+.nameTag-3F0z_i { line-height: 15px; font-size: 14px; }
+.activity-1PAe08 { line-height: 11px; }
+.avatarWrapper-3E-a5I { margin-right: 6px; }
+.theme-dark .memberOffline-lvMbAs { height: 30px; }
+div[class="scroller-fzNley scroller-NXV0-d"] div[style*="width: 100%;"]:last-of-type  { height: 300px !important; }
+div[class="scroller-fzNley scroller-NXV0-d scrolling-1GMXnh"] div[style*="width: 100%;"]:last-of-type { height: 300px !important; }
