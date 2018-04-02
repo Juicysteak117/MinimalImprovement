@@ -378,7 +378,6 @@ div[class="headerTextNormal-3zWFIS headerText-2CVBxK marginBottom8-1mABJ4 small-
 div[class="scrollerWrap-2uBjct scrollerThemed-19vinI themeGhost-10fio9 scrollerTrack-3hhmU0"] { height: 100%; }
 div[class="scrollerWrap-2uBjct scrollerThemed-19vinI themeGhostHairline-2H8SiW scrollerFade-28dRsO"] { height: 100%; }
 .listAvatar-MpHQ5z { margin-right: 5px; border-radius: 0; }
-div[class="image-EVRGPw mask-2vyqAW"] { border-radius: 0 !important; max-width: 20px; max-height: 20px; }
 .listRow-1wEi-U { line-height: 29px; }
 .mask-2vyqAW { -webkit-mask: none; }
 div[class="avatar-1BXaQj large-3yh-62 listAvatar-MpHQ5z"] { max-width: 20px; max-height: 20px; }
@@ -619,7 +618,7 @@ html .buttonInvertedPurple-15OGid { color: #fff; }
 .inner-21BDhs, .connectionDelete-1E0cwj { border-radius: 0; }
 .connectionHeader-2neBI0 {   padding: 10px; margin-bottom: 10px; }
 .connectionOptionSwitch-1M4MMm { margin-bottom: 10px; }
-.listeningAlong-13-Udx { margin: 0;   padding: 0 0 0 6px; z-index: 1000; }
+.listeningAlong-13-Udx { margin: 0;   padding: 0 0 0 6px; z-index: 1000;  background-color: #2a2c31; }
 .actionIcon-JJUStF{ border-radius: 0; padding: 0; height: 34px; width: 18px; }
 .listeningAlong-13-Udx .subtitle-2BzAeG { display: none; }
 .user-settings-games .game-name-input { border-radius: 0; }
