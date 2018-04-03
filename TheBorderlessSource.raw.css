@@ -71,7 +71,7 @@ html, span:not(.spinner-item)
 .private-channels>.search-bar {   height: 40px; padding: 0 0; align-items: stretch; box-shadow: none; background-color: rgb(42,44,49); color: #fff; opacity: 1 !important;}
 .search-bar>.search-bar-inner { border-radius: 0; align-items: center; border: 0; background-color: rgb(42,44,49); color: #fff; opacity: 1 !important;}
 .search-bar input{ height: 40px; background-color: rgb(42,44,49); color: #fff; opacity: 1 !important;}
-.channel-members {   width: 240px; min-width: 240px; max-width: 240px; height: 140% !important;}
+.channel-members {   width: 240px; min-width: 240px; max-width: 240px; height: 150% !important;}
 .private-channels header{ margin-top: 0; padding: 4px 20px; color: rgba(246,246,247,0.3); opacity: 1 !important;}
 .private-channels .channel a{margin: 0; border-radius: 0;  }
 #friends .friends-table {   margin: 0;}
@@ -690,3 +690,5 @@ html .buttonInvertedPurple-15OGid { color: #fff; }
 div[class="scroller-fzNley scroller-NXV0-d"] div[style*="width: 100%;"]:last-of-type  { height: 300px !important; }
 div[class="scroller-fzNley scroller-NXV0-d scrolling-1GMXnh"] div[style*="width: 100%;"]:last-of-type { height: 300px !important; }
 .appMount-14L89u { background-color: #1e2124; }
+div[class="scroller-fzNley channel-members"] div[style*="width: 100%;"]:last-of-type  { height: 600px !important; }
+div[class="scroller-fzNley channel-members scrolling-1GMXnh"] div[style*="width: 100%;"]:last-of-type { height: 600px !important; }
