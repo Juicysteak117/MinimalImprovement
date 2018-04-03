@@ -7,7 +7,7 @@ Don't expect a change log, but I will list one important change: Changed the the
 Preview:
 
 Borders
-![](https://i.imgur.com/Rq2AG4O.png)
+![](https://i.imgur.com/CuTlQ23.png)
 
 Borderless
-![](https://i.imgur.com/vdU6lww.png)
+![](https://i.imgur.com/bkvW2ZI.png)
