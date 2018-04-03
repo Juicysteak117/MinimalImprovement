@@ -187,7 +187,7 @@ div[class="messages-popout-wrap themed-popout undefined"] { margin-right: -333px
 .typing-3eiiL_ .ellipsis--nKTEd { margin-top: 0; margin-left: 2px}
 .themed-popout.messages-popout-wrap { max-height: calc(100vh - 103px) !important; min-height: calc(100vh - 103px) !important; }
 .message-group { margin-left: 19px; }
-.attachButtonDivider-3tknGJ { width: 2px; }
+.attachButtonDivider-3tknGJ { width: 2px; margin: 7px 12px; height: calc(100% - 14px);}
 .autocomplete-1TnWNR { border-radius: 0;     }
 .selector-nbyEfM { border-radius: 0; padding: 5px 8px; }
 .ui-video-background { background-color: #1e2124; }
@@ -215,7 +215,7 @@ div[class="messages-popout-wrap themed-popout undefined"] { margin-right: -333px
 div[class="innerDisabled-1hSPu_ inner-3if5cm flex-3B1Tl4 innerNoAutocomplete-kaUXJZ"] { background-color: #323438 !important; }
 .theme-dark .search-results-wrap .search-header {box-shadow: none;   height: 32px; padding: 0px 14px; }
 .search-results-wrap { width: 238px; }
-.search-results-wrap .results-wrapper { padding-left: 8px; }
+.search-results-wrap .results-wrapper { padding-left: 4px; padding-right: 4px; }
 .theme-dark .search-popout { box-shadow: none; left: -81px !important; }
 .theme-dark .search-results-wrap .search-result .search-result-message.hit {  border-radius: 0; }
 .theme-dark .search-results-wrap .search-result.expanded {  border-radius: 0; }
@@ -498,9 +498,9 @@ div[class="listRow-1wEi-U flex-3B1Tl4 weightMedium-13x9Y8"] { height: 29px ; }
 .edit-container-inner .inner-3if5cm {   }
 .container-0 div[style="height: 16px;"] { display: none !important; }
 .container-0 .containerDefault-7RImuF { border-top: none; }
-.wrapperCollapsed-18mf-c, .wrapperDefault-1Dl4SS, .wrapperHovered-1KDCyZ, .wrapperHoveredCollapsed-25KVVp, .wrapperMuted-PmsxPn, .wrapperUnread-450E16  { max-width: 134px; padding-right: 0; margin: 0; box-sizing: content-box; display: block;}
+.wrapperCollapsed-18mf-c, .wrapperDefault-1Dl4SS, .wrapperHovered-1KDCyZ, .wrapperHoveredCollapsed-25KVVp, .wrapperMuted-PmsxPn, .wrapperUnread-450E16  { max-width: 144px; padding-right: 0; margin: 0; box-sizing: content-box; display: block;}
 .horizontal-2BEEBe>.flex-lFgbSz.margin-reset { display: block; }
-.icon-2WU8ha { transform: none; position: relative; left: 124px; top: -19px; }
+.icon-2WU8ha { transform: none; position: relative; left: 134px; top: -19px; }
 .autocompleteInner-N7OQf1 { padding: 0; }
 .lock-gq8oMQ { top: -1px; }
 .role-3-cErg { height: 26px; }
@@ -561,7 +561,7 @@ form.deprecated.auth-form  {   background: #36393f; }
 .inner-1_1f7b .content-1Cut5s {   }
 .containerDragAfter-3rB7mB:after,.containerDragBefore-12YyA9:before, .containerUserOver-2YhVL6:after  { border-radius: 0 !important; box-shadow: none !important; }
 .containerDragBefore-12YyA9:before { width: 180px; left: -10px; }
-.toast { border-radius: 0; box-shadow: none; background-color: #2a2c31; }
+.toast { border-radius: 0 !important; box-shadow: none !important; background-color: #2a2c31 !important; }
 div[class="spacingTop-2SN8O3 marginTop20-3UscxH block-3bMcN6"] { display: none; }
 .theme-dark .primary-2giqSn { margin-bottom: 10px; }
 .status.status-typing { width: 24px !important; right: -9px !important; }
@@ -692,3 +692,10 @@ div[class="scroller-fzNley scroller-NXV0-d scrolling-1GMXnh"] div[style*="width:
 .appMount-14L89u { background-color: #1e2124; }
 div[class="scroller-fzNley channel-members"] div[style*="width: 100%;"]:last-of-type  { height: 600px !important; }
 div[class="scroller-fzNley channel-members scrolling-1GMXnh"] div[style*="width: 100%;"]:last-of-type { height: 600px !important; }
+.attachButton-Di6YUh { margin: 0; padding: 13px 0 13px 10px; }
+.textArea-20yzAH { margin: 4px 2px 6px 0; padding: 10px 38px 0 0; }
+.popout header { border-radius: 0; background-color: #4f545c; }
+.container-1WaXoH section { border-radius: 0; background: #2a2c31; }
+.container-1WaXoH hr { border: none; }
+.popout.popout-top-right section:after, .popout.popout-top section:after, .popout.popout-top-right section:before, .popout.popout-top section:before { border-top-color: #2a2c31; }
+.channelTextAreaDisabled-TBtxS6 .textArea-20yzAH { margin: 0; padding: 15px 38px 15px 10px; }
