@@ -120,7 +120,7 @@ div[class="scrollerWrap-2uBjct scrollerThemed-19vinI themeGhost-10fio9 scrollerF
 .itemBrand-mC9YR4 { display: none; }
 #bd-settings-sidebar .ui-tab-bar-item {margin: 0; line-height: 14px; }
 .members-1bid1J .member .member-inner {width: 190px; }
-.membersGroup-3_dP5E { margin: 6px 0 6px 0 !important; font-size: 13px !important; padding: 0 0 0 38px; height: 13px; line-height: 13px; }
+.membersGroup-3_dP5E { margin: 3px 0 0 0 !important; font-size: 13px !important; padding: 0 0 0 38px; height: 13px; line-height: 13px; overflow: visible; text-overflow: clip; display: flex; flex-wrap: wrap; flex-direction: column; white-space: normal; max-width: 220px; flex: 0 1 auto; }
 .avatar-small .status { bottom: -2px; }
 .theme-dark .memberOnline-1xn3V8 { height: 30px;}
 .guild-role {height: 26px }
@@ -726,3 +726,5 @@ div[class="scroller-fzNley members-1bid1J scrolling-1GMXnh"] div[style*="width: 
 .container-1WaXoH { border: 2px solid #1e2124; }
 .channelTextAreaDisabled-TBtxS6 .textArea-20yzAH { margin: 0; padding: 14px 38px 6px 10px; }
 .member-2FrNV0 { margin: 1px 0 1px 6px; }
+.membersGroup-3_dP5E+.member-2FrNV0 { margin-top: 9px; }
+.theme-dark .activityIconForeground-1o4t0w, .memberInner-3XUq9K .activityIcon-3-h2jl, .private-channels .channel .channel-activity-icon, .private-channels .channel .channel-activity-icon { display: none; }
