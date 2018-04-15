@@ -717,3 +717,5 @@ body.bd-minimal:after { display: none !important; }
 .theme-dark .themed-popout {  border-radius: 0; box-shadow: none; margin-top: -1px; border-top: none; }
 .theme-dark .themed-popout .header{ box-shadow: none; border-radius: 0; }
 .popout .themed-popout .footer { box-shadow: none; border-radius: 0; }
+#dv-mount {  height: 68px; }
+#dv-main { border: none; }
