@@ -254,6 +254,7 @@ svg[name="PersonPlus"] { order: -1; }
 .theme-dark.contextMenu-uoJTbz { box-shadow: none; border-radius: 0; border: 2px solid #1e2124; }
 div[class="item-1XYaYf itemSubMenu-3ZgIw-"] .contextMenu-uoJTbz { height: 280px; }
 .theme-dark .itemGroup-oViAgA:not(:first-child):not(:empty) { border-top: 1px solid #c73b3b; }
+.itemGroup-oViAgA:empty+.itemGroup-oViAgA:not(:empty) { border-top: none; }
 .theme-dark .itemGroup-oViAgA {border-radius: 0; margin: 0; }
 .quickswitcher-2NdiGJ { border-radius: 0; box-shadow: none; border: 2px solid #1e2124; }
 .theme-dark .footer-2wFs91 { border-radius: 0; box-shadow: none;  border-top: none; padding: 0; }
