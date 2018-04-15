@@ -4,6 +4,9 @@ I don't use GitHub much, but the source code for my theme is here. Not sure how 
 
 Don't expect a change log, but I will list one important change: Changed the theme to import from TheSource so now it only needs to be downloaded once and then it is forever updated. Hooray!
 
+Download:
+[Borders](https://betterdiscord.net/ghdl?id=1348) OR [Borderless](https://betterdiscord.net/ghdl?id=1349)
+
 Preview:
 
 Borders
