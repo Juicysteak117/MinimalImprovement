@@ -169,7 +169,7 @@ div[class="scrollerWrap-2uBjct scrollerThemed-19vinI themeGhost-10fio9 scrollerF
 .popout.popout-top-left { margin-top: -3px; margin-left: -8px; }
 .guilds-wrapper { background-color: #1e2124; }
 .popout.popout-bottom { margin-top: -2px;  }
-.theme-dark .popout .messages-popout-wrap { box-shadow: none;   border-radius: 0; margin-top: -2px; height: ; border-top-color: #2a2c31; }
+.theme-dark .popout .messages-popout-wrap { box-shadow: none;   border-radius: 0; margin-top: -1px; height: ; border: none; }
 .theme-dark .popout .messages-popout-wrap .header { box-shadow: none; border-radius: 0;   }
 .messages-popout .message-group { border-radius: 0; }
 .theme-dark .messages-popout-wrap .messages-popout .message-group {   }
@@ -181,7 +181,7 @@ div[class="messages-popout-wrap themed-popout undefined"] { margin-right: -333px
 .theme-dark .chat form {box-shadow: none;   margin: 0; }
 .theme-dark .inner-3if5cm { background-color: #474b51; }
 .typing-3eiiL_ .ellipsis--nKTEd { margin-top: 0; margin-left: 2px}
-.themed-popout.messages-popout-wrap { max-height: calc(100vh - 109px) !important; min-height: calc(100vh - 109px) !important; }
+.themed-popout.messages-popout-wrap { max-height: calc(100vh - 110px) !important; min-height: calc(100vh - 110px) !important; }
 .message-group { margin-left: 19px; }
 .attachButtonDivider-3tknGJ { width: 2px; margin: 7px 2px 7px 12px; height: calc(100% - 14px);}
 .autocomplete-1TnWNR { border-radius: 0;     }
@@ -212,7 +212,7 @@ div[class="innerDisabled-1hSPu_ inner-3if5cm flex-3B1Tl4 innerNoAutocomplete-kaU
 .theme-dark .search-results-wrap .search-header {box-shadow: none;   height: 32px; padding: 0px 14px; }
 .search-results-wrap { width: 238px; }
 .search-results-wrap .results-wrapper { padding-left: 4px; padding-right: 4px; }
-.theme-dark .theme-dark .searchPopout-38pRYh { box-shadow: none; left: -81px !important; }
+.theme-dark .searchPopout-38pRYh { box-shadow: none; left: -80px !important; top: 9px; border: none;  }
 .theme-dark .search-results-wrap .search-result .search-result-message.hit {  border-radius: 0; }
 .theme-dark .search-results-wrap .search-result.expanded {  border-radius: 0; }
 .theme-dark .search-results-wrap .search-result.expanded .search-result-message.hit {    border-left: 0; border-right: 0;} 
@@ -734,3 +734,6 @@ img[src="/assets/4662875160dc4c56954003ebda995414.png"] ~ .connectedAccountNameI
 img[src="/assets/806953fe1cc616477175cbcdf90d5cd3.png"] ~ .connectedAccountNameInner-5SSb62:before { content: ""; height: 46px; width: 262px; background: #bb871c; display: block; position: absolute; opacity: .6; margin-left: -38px; }
 img[src="/assets/8d8f815f3d81a33b1e70ec7c22e1b6fe.png"] ~ .connectedAccountNameInner-5SSb62:before { content: ""; height: 46px; width: 262px; background: #10156b; display: block; position: absolute; opacity: .6; margin-left: -38px; }
 img[src="/assets/f0655521c19c08c4ea4e508044ec7d8c.png"] ~ .connectedAccountNameInner-5SSb62:before { content: ""; height: 46px; width: 262px; background: #179645; display: block; position: absolute; opacity: .6; margin-left: -38px; }
+.search.focused .search-bar, .search.open .search-bar, .search.popout-open .search-bar { width: 248px; }
+.option-popout .btn-item { color: #ddd; }
+.option-popout .btn-item:hover { color: #fff; background-color: rgba(0,0,0,.1); }
