@@ -671,6 +671,7 @@ html .buttonInvertedPurple-15OGid { color: #fff; }
 .videoHeight-iWOJGF.normal-3QpMz4 { border-bottom: 2px solid #1e2124; }
 .theme-dark .pictureInPictureVideo-2w62Uz, .overlay-3hR73C { border: 2px solid #1e2124; }
 .theme-dark .members-1bid1J-loading { border-left: 2px solid #1e2124; }
+.container-3NvGrL .header-1tSljs, .theme-dark .title-qAcLxz { background-color: #2a2c31; }
 .replyer { border-radius: 0; background: #1e2124; }
 .create-guild-container.deprecated .join-server .link-container input { border-radius: 0; }
 .form-deprecated .form-actions, .form.deprecated .form-actions { border-top: 2px solid #1e2124; }
@@ -747,3 +748,5 @@ body.bd-minimal:after { display: none !important; }
 .theme-dark .themed-popout { border: 2px solid #1e2124; border-radius: 0; box-shadow: none; margin-top: -2px; }
 .theme-dark .themed-popout .header{ box-shadow: none; border-radius: 0; border-bottom: 2px solid #1e2124; }
 .popout .themed-popout .footer { box-shadow: none; border-radius: 0; }
+#dv-mount { border-top: 2px solid #1e2124; border-left: 2px solid #1e2124; height: 72px; }
+#dv-main { border: none; }
