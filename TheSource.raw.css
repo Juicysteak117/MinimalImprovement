@@ -744,3 +744,6 @@ body.bd-minimal:after { display: none !important; }
 .resultsGroup-2qzvNj { padding-top: 0; }
 .theme-dark .resultsGroup-2qzvNj .header-1pJ5N1:first-of-type { padding: 10px 10px 15px 10px; }
 .footer-1PYmcw { border-radius: 0; box-shadow: none; padding: 10px; } 
+.theme-dark .themed-popout { border: 2px solid #1e2124; border-radius: 0; box-shadow: none; margin-top: -2px; }
+.theme-dark .themed-popout .header{ box-shadow: none; border-radius: 0; border-bottom: 2px solid #1e2124; }
+.popout .themed-popout .footer { box-shadow: none; border-radius: 0; }
