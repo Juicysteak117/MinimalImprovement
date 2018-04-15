@@ -279,6 +279,7 @@ div[class="avatar-large listAvatar-MpHQ5z"] { margin-right: 5px !important; }
 .activity-1Sr8Y2 { padding: 10px 0px 10px 20px;   box-shadow: none;}
 .header-2Lg0Oe { padding: 20px 20px 10px 20px; }
 .tabBar-2z50ux { height: 40px; box-shadow: none; } 
+.theme-dark .body-3_tdh6 { height: 100%; }
 div[class="headerTextNormal-3zWFIS headerText-2CVBxK marginBottom8-1mABJ4 small-3-03j1 size12-1IGJl9 height16-1qXrGy weightBold-2qbcng"] { font-weight: normal; }
 .lookInverted-2lPGe7.colorBrand-3PmwCE, .buttonInvertedPurple-15OGid { background-color: #43b581; color: #fff;}
 .theme-dark .topSectionNormal-2LlRG1 { background-color: #35393e; }
@@ -719,3 +720,17 @@ body.bd-minimal:after { display: none !important; }
 .popout .themed-popout .footer { box-shadow: none; border-radius: 0; }
 #dv-mount {  height: 68px; }
 #dv-main { border: none; }
+.note-39NEdV textarea { border-radius: 0; }
+.connectedAccountVerifiedIcon-1Ms4J8 { display: none; }
+.connectedAccountIcon-2nYV8J, .connectedAccountName-3EFj01, .userInfoSection-2WJxMm a { z-index: 1000; color: #ddd; }
+.userInfoSection-2WJxMm:last-of-type { padding-bottom: 20px; }
+img[src="/assets/3abe9ce5a00cc24bd8aae04bf5968f4c.png"] ~ .connectedAccountNameInner-5SSb62:before { content: ""; height: 46px; width: 262px; background: #dc430a; display: block; position: absolute; opacity: .6; margin-left: -38px; }
+img[src="/assets/edbbf6107b2cd4334d582b26e1ac786d.png"] ~ .connectedAccountNameInner-5SSb62:before { content: ""; height: 46px; width: 262px; background: #3e2a5f; display: block; position: absolute; opacity: .6; margin-left: -38px; }
+img[src="/assets/5be6cc17e596c02e7506f2776cfb1622.png"] ~ .connectedAccountNameInner-5SSb62:before { content: ""; height: 46px; width: 262px; background: #1d72b5; display: block; position: absolute; opacity: .6; margin-left: -38px; }
+img[src="/assets/ff3516ac66b71ef616b1df63e20fee65.png"] ~ .connectedAccountNameInner-5SSb62:before { content: ""; height: 46px; width: 262px; background: #c30303; display: block; position: absolute; opacity: .6; margin-left: -38px; }
+img[src="/assets/f09c1c70a67ceaaeb455d163f3f9cbb8.png"] ~ .connectedAccountNameInner-5SSb62:before { content: ""; height: 46px; width: 262px; background: #232323; display: block; position: absolute; opacity: .6; margin-left: -38px; }
+img[src="/assets/8c289d499232cd8e9582b4a5639d9d1d.png"] ~ .connectedAccountNameInner-5SSb62:before { content: ""; height: 46px; width: 262px; background: #0d6490; display: block; position: absolute; opacity: .6; margin-left: -38px; }
+img[src="/assets/4662875160dc4c56954003ebda995414.png"] ~ .connectedAccountNameInner-5SSb62:before { content: ""; height: 46px; width: 262px; background: #0091ea; display: block; position: absolute; opacity: .6; margin-left: -38px; }
+img[src="/assets/806953fe1cc616477175cbcdf90d5cd3.png"] ~ .connectedAccountNameInner-5SSb62:before { content: ""; height: 46px; width: 262px; background: #bb871c; display: block; position: absolute; opacity: .6; margin-left: -38px; }
+img[src="/assets/8d8f815f3d81a33b1e70ec7c22e1b6fe.png"] ~ .connectedAccountNameInner-5SSb62:before { content: ""; height: 46px; width: 262px; background: #10156b; display: block; position: absolute; opacity: .6; margin-left: -38px; }
+img[src="/assets/f0655521c19c08c4ea4e508044ec7d8c.png"] ~ .connectedAccountNameInner-5SSb62:before { content: ""; height: 46px; width: 262px; background: #179645; display: block; position: absolute; opacity: .6; margin-left: -38px; }
