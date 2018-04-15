@@ -1,8 +1,8 @@
 # MinimalImprovement
 
-I don't use GitHub much, but the source code for my theme is here. Not sure how much I'll actually update, other than when stuff breaks of course. It's as complete as I can get it, save for maybe a few things here or there. Message me on Discord at Juicysteak117#1835 if you have any issues, suggestions, or requests. I'm in the BD1 and BD2 server.
+This theme is designed around minimal mode and dark mode, combining the two to fix the faults in both. The idea is to minimize the wasted space in order to maximize the usable area, while still keeping the feel of basic Discord. 
 
-Don't expect a change log, but I will list one important change: Changed the theme to import from TheSource so now it only needs to be downloaded once and then it is forever updated. Hooray!
+Message me on Discord at Juicysteak117#1835 if you have any issues, suggestions, or requests. I'm in the BD1 and BD2 server.
 
 Download:
 [Borders](https://betterdiscord.net/ghdl?id=1348) OR [Borderless](https://betterdiscord.net/ghdl?id=1349)
