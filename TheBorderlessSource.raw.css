@@ -139,7 +139,7 @@ div[class="scrollerWrap-2lJEkd scrollerThemed-2oenus themeGhost-28MSn0 scrollerF
 .container-1qJFPO { overflow: hidden; }
 .listCollapse-3hmWwX { padding: 0; overflow: hidden; display: one; }
 .containerDefault-1ZnADq div[class="flex-1xMQg5 flex-1O1GKY horizontal-1ae9ci horizontal-2EEEnY flex-1O1GKY directionRow-3v3tfG justifyStart-2NDFzi alignStart-H-X2h- wrap-ZIn9Iy listCollapse-3hmWwX"] { border: 4px solid #43b581}
-.theme-dark .searchPopout-1vUlP3 { border-radius: 0; background-color: #282b30; top: 6px; }
+.theme-dark .searchPopout-1vUlP3 { border-radius: 0; background-color: #282b30; }
 .theme-dark .searchPopout-1vUlP3 .results-group:first-of-type { border-top: none; }
 .theme-dark .searchPopout-1vUlP3 .results-group .header { color: #cacbce; padding: 0 10px 0; }
 .theme-dark .searchPopout-1vUlP3 .option-96V44q { border-radius: 0; height: 32px; padding: 0; }
@@ -212,7 +212,7 @@ div[class="innerDisabled-2mc-iF inner-zqa7da flex-1O1GKY innerNoAutocomplete-1Wp
 .theme-dark .search-results-wrap .search-header {box-shadow: none;   height: 32px; padding: 0px 14px; }
 .search-results-wrap { width: 238px; }
 .search-results-wrap .results-wrapper { padding-left: 4px; padding-right: 4px; }
-.theme-dark .searchPopout-1vUlP3 { box-shadow: none; left: -80px !important; top: 9px; border: none;  }
+.theme-dark .searchPopout-1vUlP3 { box-shadow: none; left: -80px !important; top: -7px; border: none;  }
 .theme-dark .search-results-wrap .search-result .search-result-message.hit {  border-radius: 0; }
 .theme-dark .search-results-wrap .search-result.expanded {  border-radius: 0; }
 .theme-dark .search-results-wrap .search-result.expanded .search-result-message.hit {    border-left: 0; border-right: 0;} 
@@ -737,4 +737,3 @@ img[src="/assets/8d8f815f3d81a33b1e70ec7c22e1b6fe.png"] ~ .connectedAccountNameI
 img[src="/assets/f0655521c19c08c4ea4e508044ec7d8c.png"] ~ .connectedAccountNameInner-1phBvE:before { content: ""; height: 46px; width: 262px; background: #179645; display: block; position: absolute; opacity: .6; margin-left: -38px; }
 .search.focused .search-bar, .search.open .search-bar, .search.popout-open .search-bar { width: 248px; }
 .option-popout .btn-item { color: #ddd; }
-.option-popout .btn-item:hover { color: #fff; background-color: rgba(0,0,0,.1); }
