@@ -172,11 +172,12 @@ div[class="scrollerWrap-2lJEkd scrollerThemed-2oenus themeGhost-28MSn0 scrollerF
 .popout.popout-top-left { margin-top: -3px; margin-left: -8px; }
 .guilds-wrapper { background-color: #1e2124; }
 .popout.popout-bottom { margin-top: -2px; }
-.theme-dark .popout .messages-popout-wrap{ box-shadow: none; border: 2px solid #1e2124; border-radius: 0; margin-top: -2px; height: ;}
-.theme-dark .popout .messages-popout-wrap .header { box-shadow: none; border-radius: 0; border-bottom: 2px solid #1e2124; }
-.messages-popout .message-group { border-radius: 0; }
-.theme-dark .popout .messages-popout-wrap .messages-popout .message-group { border: 2px solid #1e2124; }
-.theme-dark .popout .messages-popout-wrap .messages-popout .message-group:hover { border: 2px solid #0f1012; }
+.theme-dark .messagesPopoutWrap-1MQ1bW{ box-shadow: none; border: 2px solid #1e2124; border-radius: 0; margin-top: -2px; max-height: calc(100vh - 110px) !important; min-height: calc(100vh - 110px) !important; margin-top: 8px; }
+.theme-dark .messagesPopoutWrap-1MQ1bW .header-ykumBX { box-shadow: none; border-radius: 0; border-bottom: 2px solid #1e2124; }
+.themedPopout-25DgLi .footer-SRC48P { border-radius: 0; border-top: 2px solid #1e2124; }
+.messagesPopout-24nkyi .message-group { border-radius: 0; }
+.messagesPopout-24nkyi .message-group { border: 2px solid #1e2124; }
+.messagesPopout-24nkyi .message-group:hover { border: 2px solid #0f1012; }
 .messages-popout .channel-separator:first-of-type { margin-top: -3px;}
 .messages-popout .channel-separator { margin-top: 10px; }
 .popout.popout-bottom-right.no-arrow { margin-left: -95px; }
@@ -184,7 +185,6 @@ div[class="messages-popout-wrap themed-popout undefined"] { margin-right: -333px
 .theme-dark .chat form {box-shadow: none; border-top: 2px solid #1e2124; margin: 0; }
 .theme-dark .inner-zqa7da { background-color: #474b51; }
 .typing-2GQL18 .ellipsis-19qdx6 { margin-top: 0; margin-left: 2px}
-.themed-popout.messages-popout-wrap { max-height: calc(100vh - 110px) !important; min-height: calc(100vh - 110px) !important; }
 .message-group { margin-left: 19px; }
 .attachButtonDivider-3Glu60 { width: 2px; margin: 7px 2px 7px 12px; height: calc(100% - 14px); }
 .autocomplete-1vrmpx { border-radius: 0; border-top: 2px solid #1e2124; border-bottom: 2px solid #1e2124; }
@@ -408,7 +408,7 @@ div[class="listRow-hutiT_ flex-1O1GKY weightMedium-2iZe9B"] { height: 29px ; }
 .theme-dark .searchPopout-1vUlP3 .results-group:before { border: none; }
 .theme-dark .searchPopout-1vUlP3 .results-group { border-top: 2px solid #1e2124; margin-top: 0; }
 .messages-popout .message-group .action-buttons .jump-button { border-radius: 0; border: 2px solid #0f1012; }
-.theme-dark .popout .messages-popout-wrap .messages-popout .message-group:hover .action-buttons { box-shadow: none; }
+.theme-dark .popout .messagesPopoutWrap-1MQ1bW .messages-popout .message-group:hover .action-buttons { box-shadow: none; }
 .search-results-wrap .action-buttons .jump-button { border-radius: 0; border: 2px solid #1e2124; }
 .search-results-wrap .action-buttons { box-shadow: none; }
 .theme-dark .themed-popout .header .subtitle, .theme-dark .themed-popout .text { color: #fff; }
@@ -711,8 +711,8 @@ html .buttonInvertedPurple-WtBglX { color: #fff; }
 .avatarWrapper-3B0ndJ { margin-right: 6px; }
 .theme-dark .memberOffline-2lN7gt { height: 30px; }
 .appMount-3VJmYg { background-color: #1e2124; }
-div[class="scroller-2FKFPG scroller-2v3d_F"] div[style*="width: 100%;"]:last-of-type  { height: 300px !important; }
-div[class="scroller-2FKFPG scroller-2v3d_F scrolling-CehiO2"] div[style*="width: 100%;"]:last-of-type { height: 300px !important; }
+div[class="scroller-2FKFPG scroller-2v3d_F"] div[style*="width: 100%;"]:last-of-type  { height: 400px !important; }
+div[class="scroller-2FKFPG scroller-2v3d_F scrolling-CehiO2"] div[style*="width: 100%;"]:last-of-type { height: 400px !important; }
 div[class="scroller-2FKFPG members-1998pB"] div[style*="width: 100%;"]:last-of-type  { height: 600px !important; }
 div[class="scroller-2FKFPG members-1998pB scrolling-CehiO2"] div[style*="width: 100%;"]:last-of-type { height: 600px !important; }
 .channels-Ie2l6A .scroller-2v3d_F { height: 112vh; }
@@ -777,3 +777,4 @@ div[class="input-cIJ7To size16-14cGz5 flexCenter-3_1bcw flex-1O1GKY justifyCente
 .lookFilled-1Gx00P.colorGreen-29iAKY:hover { background-color: #43b581; }
 .theme-dark .input-cIJ7To.success-2-F980 .inputDefault-_djjkz { border-color: #43b581; }
 .inviteRow-2poi6Q { border-radius: 0; }
+.titleCall-_b9o8P { height: 40px; }
