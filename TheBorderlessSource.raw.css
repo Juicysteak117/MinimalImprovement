@@ -392,7 +392,7 @@ div[class="listRow-hutiT_ flex-1O1GKY weightMedium-2iZe9B"] { height: 29px ; }
 .theme-dark .searchPopout-1vUlP3 .search-query { border-bottom: none; }
 .theme-dark .searchPopout-1vUlP3 .results-group:before { border: none; }
 .theme-dark .searchPopout-1vUlP3 .results-group {   margin-top: 0; }
-.messages-popout .message-group .action-buttons .jump-button { border-radius: 0;   }
+.actionButtons-1sUUug .jumpButton-3DTcS_ { border-radius: 0;   }
 .theme-dark .popout .messagesPopoutWrap-1MQ1bW .messages-popout .message-group:hover .action-buttons { box-shadow: none; }
 .search-results-wrap .action-buttons .jump-button { border-radius: 0;   }
 .search-results-wrap .action-buttons { box-shadow: none; }
@@ -748,3 +748,6 @@ div[class="input-cIJ7To size16-14cGz5 flexCenter-3_1bcw flex-1O1GKY justifyCente
 .theme-dark .input-cIJ7To.success-2-F980 .inputDefault-_djjkz { border-color: #43b581; }
 .inviteRow-2poi6Q { border-radius: 0; }
 .titleCall-_b9o8P { height: 40px; }
+div[class="messagesPopoutWrap-1MQ1bW themedPopout-25DgLi"] { margin-right: -236px; }
+div[class="messagesPopoutWrap-1MQ1bW themedPopout-25DgLi recentMentionsPopout-2fmau1"] { margin-right: 97px; }
+.theme-dark .everyonePopout-nEbJY3 { box-shadow: none; border-radius: 0; top: 2px; right: -6px; position: relative; }
