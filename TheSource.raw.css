@@ -186,7 +186,7 @@ div[class="messages-popout-wrap themed-popout undefined"] { margin-right: -333px
 .theme-dark .inner-zqa7da { background-color: #474b51; }
 .typing-2GQL18 .ellipsis-19qdx6 { margin-top: 0; margin-left: 2px}
 .message-group { margin-left: 19px; }
-.attachButtonDivider-3Glu60 { width: 2px; margin: 7px 2px 7px 12px; height: calc(100% - 14px); }
+.attachButtonDivider-3Glu60 { width: 2px; margin: 0px 2px 8px 12px; }
 .autocomplete-1vrmpx { border-radius: 0; border-top: 2px solid #1e2124; border-bottom: 2px solid #1e2124; }
 .selector-2IcQBU { border-radius: 0; padding: 5px 8px; }
 .ui-video-background { background-color: #1e2124; }
@@ -781,3 +781,9 @@ div[class="messagesPopoutWrap-1MQ1bW themedPopout-25DgLi recentMentionsPopout-2f
 .theme-dark .everyonePopout-nEbJY3 { box-shadow: none; border-radius: 0; border: 2px solid #17191b; top: 2px; right: -6px; position: relative; }
 .theme-dark .everyonePopout-nEbJY3 .footer-2aTx0s { border-top: 2px solid #17191b; }
 .theme-dark .messagesPopoutWrap-1MQ1bW .messagesPopout-24nkyi .message-group:hover .actionButtons-1sUUug { box-shadow: none; background-color: transparent; }
+.wumpusShown-2xKVn_, .wumpusWrapper-yrvoR3 { display: none; }
+.emojiPicker-3m1S-j .no-search-results { border-bottom: 2px solid #1e2124; }
+.emojiPicker-3m1S-j .categories-1feg4n { border: none; }
+.wrapper-39oAo3 button { border-radius: 0; }
+.theme-dark .messagesPopoutWrap-1MQ1bW .message-group .accessory .imageWrapper-2p5ogY img { max-width: 320px !important; }
+.guild-inner .iconSizeLarge-161qtT { width: 20px; height: 20px; background-size: 100%; font-size: 15px; line-height: 20px; }
