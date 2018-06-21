@@ -205,7 +205,7 @@ div[class="messages-popout-wrap themed-popout undefined"] { margin-right: -333px
 .popout.popout-top-left { width: 182px !important; }
 .status-picker .popout-menu-item .helper {display: none; }
 .menu-Sp6bN1 { width: 180px; }
-.container-2Thooq .avatar-small { margin: 0 8px 0 0; }
+.container-2Thooq .avatar-small { margin: 0 8px 0 0;}
 .userHovered-2_fT4Z:active {border-radius: 0; }
 .channelTextAreaDisabled-rZtG8r { opacity: 1; }
 div[class="innerDisabled-2mc-iF inner-zqa7da flex-1O1GKY innerNoAutocomplete-1WpcVO"] { background-color: #323438 !important; }
@@ -673,7 +673,6 @@ html .buttonInvertedPurple-WtBglX { color: #fff; }
 .icon-2s94H- { height: 14px; width: 14px; }
 .scroller-2FKFPG div[class="container-2duXBh"] .iconContainer-1dtWOo { height: 14px; width: 14px; }
 .content-OzHfo4 { padding: 0; border-radius: 0; margin: 0 0 0 6px; }
-.small-5Os1Bb { height: 20px; width: 20px; }
 .status-2s6iDp { height: 6px; width: 6px; right: -3px; bottom: -4px; }
 .small-5Os1Bb .statusTyping-2ed9jJ { height: 6px; width: 22px; right: -3px; }
 .memberInner-2CPc3V { width: 190px; }
@@ -754,3 +753,11 @@ div[class="messagesPopoutWrap-1MQ1bW themedPopout-25DgLi recentMentionsPopout-2f
 .wrapper-39oAo3 button { border-radius: 0; }
 .theme-dark .messagesPopoutWrap-1MQ1bW .message-group .accessory .imageWrapper-2p5ogY img { max-width: 320px !important; }
 .guild-inner .iconSizeLarge-161qtT { width: 20px; height: 20px; background-size: 100%; font-size: 15px; line-height: 20px; }
+.theme-dark .body-3ND3kc .listAvatar-1NlAhb { height: 20px; width: 20px; }
+.avatar-small .status { bottom: -2px; right: -3px; }
+.accountDetails-3k9g4n { margin-left: 8px; }
+.feed-1o0xmF { padding-top: 20px; }
+.paginationItem-3-MBTL:after, .paginationItem-3-MBTL, .article-FleDq5, .carousel-JbsNzL, .dockItem-2kQDqg, .card-7JP0BX, .twitchImageContainer-hVw_dv, .news-2GDtLJ, .gameIcon-gg34Dz { border-radius: 0; }
+.chat [class*='titleWrapper-'] [class*='flex-'] [class*='flex-']:after, #friends [class*='flex-'] [class*='flex-']:last-of-type:after, [class*='activityFeed-'] [class*='flex-'] [class*='flex-']:last-of-type:after { display: none; }
+.dock-10JPBX .lookFilled-1Gx00P.colorBrand-3pXr91, .dock-10JPBX .lookFilled-1Gx00P.colorGreen-29iAKY { height: 20px; }
+.sizeMedium-1AC_Sl { height: 30px; min-height: 0px; min-width: 0px; width: 90px; }
