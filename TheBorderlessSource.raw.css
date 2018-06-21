@@ -760,5 +760,7 @@ div[class="messagesPopoutWrap-1MQ1bW themedPopout-25DgLi recentMentionsPopout-2f
 .paginationItem-3-MBTL:after, .paginationItem-3-MBTL, .article-FleDq5, .carousel-JbsNzL, .dockItem-2kQDqg, .card-7JP0BX, .twitchImageContainer-hVw_dv, .news-2GDtLJ, .gameIcon-gg34Dz { border-radius: 0; }
 .chat [class*='titleWrapper-'] [class*='flex-'] [class*='flex-']:after, #friends [class*='flex-'] [class*='flex-']:last-of-type:after, [class*='activityFeed-'] [class*='flex-'] [class*='flex-']:last-of-type:after { display: none; }
 .dock-10JPBX .lookFilled-1Gx00P.colorBrand-3pXr91, .dock-10JPBX .lookFilled-1Gx00P.colorGreen-29iAKY { height: 20px; }
-.sizeMedium-1AC_Sl { height: 30px; min-height: 0px; min-width: 0px; width: 90px; }
+.activityFeed-28jde9 .sizeMedium-1AC_Sl { height: 30px; min-height: 0px; min-width: 0px; width: 90px; }
 .theme-dark .body-3ND3kc .mask-3OgeRz { height: 20px; width: 20px; }
+.membersWrap-2h-GB4 .small-5Os1Bb { height: 20px; width: 20px; }
+.membersWrap-2h-GB4 .status-oxiHuE { height: 6px; width: 6px; }
