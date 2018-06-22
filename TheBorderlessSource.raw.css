@@ -764,3 +764,6 @@ div[class="messagesPopoutWrap-1MQ1bW themedPopout-25DgLi recentMentionsPopout-2f
 .theme-dark .body-3ND3kc .mask-3OgeRz { height: 20px; width: 20px; }
 .membersWrap-2h-GB4 .small-5Os1Bb { height: 20px; width: 20px; }
 .membersWrap-2h-GB4 .status-oxiHuE { height: 6px; width: 6px; }
+.guilds-wrapper .guilds .guild .guild-inner a { height: 20px; width: 20px; }
+.guilds-wrapper .guilds .home-icon { padding: 0; margin-bottom: 20px; } 
+.chat [class*='titleWrapper-'] [class*='flex-'] [class*='flex-'], #friends [class*='flex-'] [class*='flex-']:last-of-type, [class*='activityFeed-'] [class*='flex-'] [class*='flex-']:last-of-type { margin-right: 0; }
