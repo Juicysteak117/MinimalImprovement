@@ -737,7 +737,7 @@ img[src="/assets/f0655521c19c08c4ea4e508044ec7d8c.png"] ~ .connectedAccountNameI
 .popoutTopLeft-b5Eb3O { margin-top: -2px; margin-left: -6px; }
 .popoutBottom-1YbShG {margin-top: -2px; }
 .popoutTopRight-3BzFIE.noArrow-3BYQ0Z { margin-top: -11px; margin-left: 12px; }
-.pulsingEllipsis-3YiXRF { width: 24px; }
+.pulsingEllipsis-3YiXRF { width: 28px; }
 div[class="input-cIJ7To size16-14cGz5 flexCenter-3_1bcw flex-1O1GKY justifyCenter-3D2jYp alignCenter-1dQNNs"] .input-cIJ7To { border-top: 0; border-left: 0; border-bottom: 0; padding: 10px; }
 .theme-dark .input-cIJ7To:hover.inputDefault-_djjkz { border-color: #040405 }
 .lookFilled-1Gx00P.colorBrand-3pXr91, .lookFilled-1Gx00P.colorGreen-29iAKY { height: 40px; margin: 0; }
@@ -758,7 +758,7 @@ div[class="messagesPopoutWrap-1MQ1bW themedPopout-25DgLi recentMentionsPopout-2f
 .accountDetails-3k9g4n { margin-left: 8px; }
 .feed-1o0xmF { padding-top: 20px; }
 .paginationItem-3-MBTL:after, .paginationItem-3-MBTL, .article-FleDq5, .carousel-JbsNzL, .dockItem-2kQDqg, .card-7JP0BX, .twitchImageContainer-hVw_dv, .news-2GDtLJ, .gameIcon-gg34Dz { border-radius: 0; }
-.chat [class*='titleWrapper-'] [class*='flex-'] [class*='flex-']:after, #friends [class*='flex-'] [class*='flex-']:last-of-type:after, [class*='activityFeed-'] [class*='flex-'] [class*='flex-']:last-of-type:after { display: none; }
+.feed-1o0xmF [class*='activityFeed-'] [class*='flex-'] [class*='flex-']:last-of-type:after { display: none; }
 .dock-10JPBX .lookFilled-1Gx00P.colorBrand-3pXr91, .dock-10JPBX .lookFilled-1Gx00P.colorGreen-29iAKY { height: 20px; }
 .activityFeed-28jde9 .sizeMedium-1AC_Sl { height: 30px; min-height: 0px; min-width: 0px; width: 90px; }
 .theme-dark .body-3ND3kc .mask-3OgeRz { height: 20px; width: 20px; }
@@ -769,3 +769,5 @@ div[class="messagesPopoutWrap-1MQ1bW themedPopout-25DgLi recentMentionsPopout-2f
 .chat [class*='titleWrapper-'] [class*='flex-'] [class*='flex-'], #friends [class*='flex-'] [class*='flex-']:last-of-type, [class*='activityFeed-'] [class*='flex-'] [class*='flex-']:last-of-type { margin-right: 0; }
 .guilds-wrapper .scroller-wrap { width: 39px; }
 .guilds-wrapper .guilds::-webkit-scrollbar { display: none; }
+.typing-1KJk_j { right: -5px !important; width: 26px !important; }
+.container-2duXBh .xsmall-3afG_L { display: none; }
