@@ -669,7 +669,7 @@ html .buttonInvertedPurple-WtBglX { color: #fff; }
 .note-3HfJZ5 textarea { border-radius: 0; }
 .moreUsers-1s5Her { display: none; }
 .scroller-2FKFPG div[class="container-2duXBh"] .avatar-16XVId { display: none; }
-.scroller-2FKFPG div[class="container-2duXBh"] div[class="voiceUserSummaryItem-BDt0rD container-1qJFPO flex-1O1GKY alignCenter-1dQNNs"]:after { content: 'Collapsed VC'; color: #72767d; font-weight: 500; font-size: 16px; }
+.scroller-2FKFPG div[class="container-2duXBh da-container"] div[class="voiceUserSummaryItem-BDt0rD container-1qJFPO flex-1O1GKY alignCenter-1dQNNs da-voiceUserSummaryItem da-container da-flex da-alignCenter"]:after { content: 'Collapsed VC'; color: #72767d; font-weight: 500; font-size: 16px; }
 .icon-2s94H- { height: 14px; width: 14px; }
 .scroller-2FKFPG div[class="container-2duXBh"] .iconContainer-1dtWOo { height: 14px; width: 14px; }
 .content-OzHfo4 { padding: 0; border-radius: 0; margin: 0 0 0 6px; }
@@ -758,7 +758,7 @@ div[class="messagesPopoutWrap-1MQ1bW themedPopout-25DgLi recentMentionsPopout-2f
 .feed-1o0xmF { padding-top: 20px; }
 .paginationItem-3-MBTL:after, .paginationItem-3-MBTL, .article-FleDq5, .carousel-JbsNzL, .dockItem-2kQDqg, .card-7JP0BX, .twitchImageContainer-hVw_dv, .news-2GDtLJ, .gameIcon-gg34Dz { border-radius: 0; }
 [class*='activityFeed-'] [class*='flex-'] [class*='flex-']:last-of-type:after { display: none; }
-[class*='activityFeed-'] [class*='flex-'] [class*='flex-']:last-of-type { margin: 0; }
+[class*='activityFeed-'] [class*='flex-'] [class*='flex-']:last-of-type { margin-right: 0 !important; }
 .feed-1o0xmF [class*='activityFeed-'] [class*='flex-'] [class*='flex-']:last-of-type:after { display: none; }
 .dock-10JPBX .lookFilled-1Gx00P.colorBrand-3pXr91, .dock-10JPBX .lookFilled-1Gx00P.colorGreen-29iAKY { height: 20px; }
 .activityFeed-28jde9 .sizeMedium-1AC_Sl { height: 30px; min-height: 0px; min-width: 0px; width: 90px; }
@@ -771,3 +771,4 @@ div[class="messagesPopoutWrap-1MQ1bW themedPopout-25DgLi recentMentionsPopout-2f
 .guilds-wrapper .guilds::-webkit-scrollbar { display: none; }
 .typing-1KJk_j { right: -5px !important; width: 26px !important; }
 .container-2duXBh .xsmall-3afG_L { display: none; }
+.popoutTopLeft-b5Eb3O.noArrow-3BYQ0Z { margin-left: 12px; margin-top: 10px; }
