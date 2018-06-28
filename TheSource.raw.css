@@ -250,7 +250,8 @@ div[class="innerDisabled-2mc-iF inner-zqa7da flex-1O1GKY innerNoAutocomplete-1Wp
 .search .search-bar {width: 244px; }
 svg[name="PersonPlus"] { order: -1; }
 .theme-dark .searchPopout-1vUlP3 .search-query .search-for strong { color: #99aab5; }
-.theme-dark.contextMenu-HLZMGh { box-shadow: none; border-radius: 0; border: 2px solid #1e2124; }
+.theme-dark.contextMenu-HLZMGh { box-shadow: none; border-radius: 0; border: 2px solid #1e2124; background: #2f3136; }
+.theme-dark .item-1Yvehc:hover { background: #232528 }
 div[class="item-1Yvehc itemSubMenu-1vN_Yn"] .contextMenu-HLZMGh { height: 280px; }
 .theme-dark .itemGroup-1tL0uz:not(:first-child):not(:empty) { border-top: 1px solid #c73b3b; }
 .itemGroup-1tL0uz:empty+.itemGroup-1tL0uz:not(:empty) { border-top: none; }
