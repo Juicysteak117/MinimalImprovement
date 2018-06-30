@@ -208,7 +208,7 @@ div[class="messages-popout-wrap themed-popout undefined"] { margin-right: -333px
 .container-2Thooq .avatar-small { margin: 0 8px 0 0;}
 .userHovered-2_fT4Z:active {border-radius: 0; }
 .channelTextAreaDisabled-rZtG8r { opacity: 1; }
-div[class="innerDisabled-2mc-iF inner-zqa7da flex-1O1GKY innerNoAutocomplete-1WpcVO"] { background-color: #323438 !important; }
+div[class="innerDisabled-2mc-iF inner-zqa7da flex-1O1GKY innerNoAutocomplete-1WpcVO da-innerDisabled da-inner da-flex da-innerNoAutocomplete"] { background: #323438 !important; }
 .theme-dark .search-results-wrap .search-header {box-shadow: none;   height: 32px; padding: 0px 14px; }
 .search-results-wrap { width: 238px; }
 .search-results-wrap .results-wrapper { padding-left: 4px; padding-right: 4px; }
