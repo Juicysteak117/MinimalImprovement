@@ -466,7 +466,7 @@ div[class="listRow-hutiT_ flex-1O1GKY weightMedium-2iZe9B"] { height: 29px ; }
 .wrapper-O5i5-0 .instantInviteModalAdvanced-3qJETM .form-actions .btn.btn-primary { border-left: 2px solid #1e2124; border-right: 2px solid #1e2124; }
 .theme-dark .input-2VB9rf  { box-shadow: none; border-radius: 0; border: 2px solid #1e2124; }
 .result-oB0z--  { box-shadow: none; border-radius: 0; height: 32px;}
-.theme-brand .autocomplete-1vrmpx { background-color: #2f3136; width: 480px; left: -2px;}
+.theme-brand .autocomplete-1vrmpx { background-color: #2f3136; width: 480px; left: -2px; border: 2px solid #1e2124; }
 .theme-brand .contentTitle-2tG_sM { color: #fff; }
 .theme-brand .content-Qb0rXO { color: #fff; }
 .theme-brand .selectorSelected-1_M1WV { background-color: #36393f; }
@@ -777,7 +777,7 @@ div[class="input-cIJ7To size16-14cGz5 flexCenter-3_1bcw flex-1O1GKY justifyCente
 .titleCall-_b9o8P { height: 40px; }
 div[class="messagesPopoutWrap-1MQ1bW themedPopout-25DgLi"] { margin-right: -238px; }
 div[class="messagesPopoutWrap-1MQ1bW themedPopout-25DgLi recentMentionsPopout-2fmau1"] { margin-right: 95px; }
-.theme-dark .everyonePopout-nEbJY3 { box-shadow: none; border-radius: 0; border: 2px solid #17191b; top: 2px; right: -6px; position: relative; }
+.theme-dark .everyonePopout-nEbJY3 { box-shadow: none; border-radius: 0; border: 2px solid #17191b; top: -10px; right: 12px; position: relative; }
 .theme-dark .everyonePopout-nEbJY3 .footer-2aTx0s { border-top: 2px solid #17191b; }
 .theme-dark .messagesPopoutWrap-1MQ1bW .messagesPopout-24nkyi .message-group:hover .actionButtons-1sUUug { box-shadow: none; background-color: transparent; }
 .wumpusShown-2xKVn_, .wumpusWrapper-yrvoR3 { display: none; }
@@ -810,3 +810,9 @@ div[class="messagesPopoutWrap-1MQ1bW themedPopout-25DgLi recentMentionsPopout-2f
 .popoutTopLeft-b5Eb3O.noArrow-3BYQ0Z { margin-left: 10px; margin-top: 10px; }
 .scroller-2FKFPG div[class="container-2duXBh da-container"] { border-bottom: 0; }
 .bd-minimal .content-20Aix8, .bd-minimal .containerDefault-3GGEv_ { transform: inherit; }
+.popoutRight-2ZVwL-.noArrow-3BYQ0Z { margin-left: 8px; }
+.contentWrapper-3WC1ID, .pill-1dHPfk { border-radius: 0 !important; }
+.theme-dark .container-1rPqdX { box-shadow: none; border-radius: 0; border: 2px solid #1e2124; background: #2f3136; padding: 0; color: #fff; }
+.theme-dark .button-1ZXqCA:active, .theme-dark .button-1ZXqCA:hover { background: #232528; }
+.headerXbox-3G-4PF { background-color: #35393e; } 
+.headerXbox-3G-4PF .button-1Pkqso:hover { border-color: #107c10; background-color: rgba(16, 124, 16, .2); }
