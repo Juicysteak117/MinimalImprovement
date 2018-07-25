@@ -119,7 +119,7 @@ div[class="scrollerWrap-2lJEkd scrollerThemed-2oenus themeGhost-28MSn0 scrollerF
 .itemBrand-mC9YR4 { display: none; }
 #bd-settings-sidebar .ui-tab-bar-item {margin: 0; line-height: 14px; }
 .members-1998pB .member .member-inner {width: 190px; }
-.membersGroup-v9BXpm { margin: 3px 0 0 0 !important; font-size: 13px !important; padding: 0 0 0 38px; height: 13px; line-height: 13px; overflow: visible; text-overflow: clip; display: flex; flex-wrap: wrap; flex-direction: column; white-space: normal; max-width: 220px; flex: 0 1 auto; }
+.membersGroup-v9BXpm { margin: 3px 0 2px 0 !important; font-size: 13px !important; padding: 0 0 0 38px; height: auto; line-height: 13px; overflow: visible; text-overflow: clip; display: block; white-space: normal; max-width: 240px; }
 .avatar-small .status { bottom: -2px; }
 .theme-dark .memberOnline-1CIh-0 { height: 30px;}
 .guild-role {height: 26px }
@@ -696,7 +696,6 @@ div[class="scroller-2FKFPG scroller-2v3d_F scrolling-CehiO2"] div[style*="width:
 .popout.popout-top-right section:after, .popout.popout-top section:after, .popout.popout-top-right section:before, .popout.popout-top section:before { border-top-color: #2a2c31; }
 .channelTextAreaDisabled-rZtG8r .textArea-2Spzkt { margin: 0; padding: 14px 38px 6px 10px; }
 .member-3W1lQa { margin: 1px 0 1px 6px; }
-.membersGroup-v9BXpm+.member-3W1lQa { margin-top: 9px; }
 .theme-dark .activityIconForeground-qYIPPg, .memberInner-2CPc3V .activityIcon-S3CciC, .private-channels .channel .channel-activity-icon, .private-channels .channel .channel-activity-icon { display: none; }
 #pubslayer .ui-tab-bar-item { border-radius: 0; }
 #pubslayer button { border-radius: 0; }
@@ -816,3 +815,5 @@ div[class="messagesPopoutWrap-1MQ1bW themedPopout-25DgLi recentMentionsPopout-2f
 .containerCompact-3V0ioj:last-of-type, .containerCozy-jafyvG:last-of-type { padding-bottom: 2px; }
 .buttonContainer-KtQ8wc>* { margin-right: 10px; }
 .chat .divider.divider-red { margin-bottom: 3px;  }
+.emoji { margin: -.1em .05em -.1em .1em; }
+.message-group-blocked { margin-bottom: 6px; }
