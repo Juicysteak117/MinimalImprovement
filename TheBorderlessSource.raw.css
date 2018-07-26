@@ -165,7 +165,7 @@ div[class="scrollerWrap-2lJEkd scrollerThemed-2oenus themeGhost-28MSn0 scrollerF
 .theme-dark .theme-light .calendarPicker-2yf6Ci .react-datepicker__day-name, .theme-light .calendarPicker-2yf6Ci .react-datepicker__day-name { color: #cfcfd1; }
 .calendarPicker-2yf6Ci .react-datepicker__navigation.react-datepicker__navigation--next, .calendarPicker-2yf6Ci .react-datepicker__navigation.react-datepicker__navigation--previous { border-radius: 0; }
 .theme-dark .searchPopout-1vUlP3 .date-picker .date-picker-hint { display: none; }
-.theme-dark .searchPopout-1vUlP3 .date-picker { border-top: 0}
+.theme-dark .searchPopout-1vUlP3 .date-picker { border-top: 0; }
 .theme-dark .theme-light .calendarPicker-2yf6Ci .react-datepicker__header, .theme-light .calendarPicker-2yf6Ci .react-datepicker__header { background-color: transparent; }
 .popout { -webkit-box-shadow: 0; box-shadow: none;}
 .popout.popout-top-left { margin-top: -3px; margin-left: -8px; }
@@ -212,9 +212,9 @@ div[class="messages-popout-wrap themed-popout undefined"] { margin-right: -333px
 .channelTextAreaDisabled-rZtG8r { opacity: 1; }
 div[class="innerDisabled-2mc-iF inner-zqa7da flex-1O1GKY innerNoAutocomplete-1WpcVO da-innerDisabled da-inner da-flex da-innerNoAutocomplete"] { background: #323438 !important; }
 .theme-dark .search-results-wrap .search-header {box-shadow: none;   height: 32px; padding: 0px 14px; }
-.search-results-wrap { width: 238px; }
+.search-results-wrap { width: 240px; }
 .search-results-wrap .results-wrapper { padding-left: 4px; padding-right: 4px; }
-.theme-dark .searchPopout-1vUlP3 { box-shadow: none; left: -80px !important; top: 9px; border: none;  }
+.theme-dark .searchPopout-1vUlP3 { box-shadow: none; left: -80px !important; top: 9px; border: none; border-left: 1px solid rgba(28,36,42,.6); border-bottom: 1px solid rgba(28,36,42,.6); }
 .theme-dark .search-results-wrap .search-result .search-result-message.hit {  border-radius: 0; }
 .theme-dark .search-results-wrap .search-result.expanded {  border-radius: 0; }
 .theme-dark .search-results-wrap .search-result.expanded .search-result-message.hit {    border-left: 0; border-right: 0;} 
@@ -256,8 +256,8 @@ div[class="item-1Yvehc itemSubMenu-1vN_Yn"] .contextMenu-HLZMGh { height: 280px;
 .itemGroup-1tL0uz:empty+.itemGroup-1tL0uz:not(:empty) { border-top: none; }
 .theme-dark .itemGroup-1tL0uz {border-radius: 0; margin: 0; }
 .quickswitcher-3JagVE { border-radius: 0; box-shadow: none;   }
-.theme-dark .footer-1fjuF6 {border-radius: 0; box-shadow: none;   border-top: none; padding: 0; }
-.theme-dark .modal-3HD5ck { box-shadow: none; border-radius: 0; }
+.theme-dark .footer-1fjuF6 { border-radius: 0; box-shadow: none;   border-top: none; padding: 0; }
+.theme-dark .modal-3HD5ck { border-radius: 0; }
 .content-2BXhLs {     border-radius: 0;}
 .theme-dark .message-2qRu38 { border-radius: 0; box-shadow: none;   }
 .theme-dark .upload-modal .footer {border-radius: 0; box-shadow: 0;   }
@@ -628,7 +628,7 @@ html .buttonInvertedPurple-WtBglX { color: #fff; }
 .theme-dark .guildSettingsBaseSection-3XBkfG .avatar-uploader .avatar-uploader-inner, .theme-dark .guildSettingsSplashSection-2ilKBA .avatar-uploader .avatar-uploader-inner { box-shadow: none; border-radius: 0; }
 .prefixInput-14nUik, .title-3qD0b- .input-autosize-input, .titleCall-_b9o8P .input-autosize-input, .remove-3V-yj8, .attachment-33OFj0 { border-radius: 0; }
 .theme-dark .count-1vzEyg { margin: 0; }
-.theme-dark .modal-3HD5ck { box-shadow: none; border-radius: 0;   }
+.theme-dark .modal-3HD5ck {  border-radius: 0;   }
 .phoneVerificationModal-OzcDc3 .field-wKpjTl { box-shadow: none; border-radius: 0;   padding: 0; }
 .phoneField-38N1bJ .countryButton-3xq3Ts { border-radius: 0;   height: 40px; padding: 0; }
 .phoneVerificationModal-OzcDc3 .divider-faSUbd { display: none; }
@@ -701,12 +701,12 @@ div[class="scroller-2FKFPG scroller-2v3d_F scrolling-CehiO2"] div[style*="width:
 #pubslayer button { border-radius: 0; }
 #pubslayer input { border-radius: 0; }
 #bd-pub-button { display: none; }
-body:after { display: block; width: 200px; height: 200px; color: #000; background: #fff; border: 4px solid #000; content: "TURN ON MINIMAL MODE!\a IT'S IN THE SETTINGS: \a BETTER DISCORD-> \a CORE-> \a 'MINIMAL MODE'. THE THEME NEEDS IT TO BE ON. EVENTUALLY I'LL FIX THIS BUT IT'S A LOT OF WORK AND I'M LAZY. THANKS!"; z-index: 10000; top: 100px; position: absolute; left: 10%; font-size: 20px; padding: 5px; }
-body.bd-minimal:after { display: none !important; }
+body.bd-minimal:after { display: block !important; width: 200px; height: 220px; color: #000; background: #fff; border: 4px solid #000; content: "GOOD NEWS EVERYONE!\a TURN OFF MINIMAL MODE! THE THEME NO LONGER RELIES ON IT AND WORKS BETTER WITHOUT IT! IT'S IN THE SETTINGS: \a BETTER DISCORD-> \a CORE-> \a 'MINIMAL MODE'. "; z-index: 10000; top: 100px; position: absolute; left: 10%; font-size: 20px; padding: 5px; }
+body:after { display: none ; }
 .theme-dark .searchQuery-1B7rtx { padding: 20px 20px 10px 20px; }
 .theme-dark .datePicker--XZbmJ .datePickerHint-3Q1Udw .hintValue-29ny8Z, .react-datepicker { border-radius: 0; }
 .theme-dark .datePicker--XZbmJ .datePickerHint-3Q1Udw { border-top: none; }
-.theme-dark .datePicker--XZbmJ { width: 319px !important; }
+.theme-dark .datePicker--XZbmJ { width: 320px !important; }
 .calendarPicker-2yf6Ci .react-datepicker__week:first-of-type>.react-datepicker__day:first-of-type, .calendarPicker-2yf6Ci .react-datepicker__week:first-of-type>.react-datepicker__day:last-of-type, .calendarPicker-2yf6Ci .react-datepicker__week:last-of-type>.react-datepicker__day:first-of-type, .calendarPicker-2yf6Ci .react-datepicker__week:last-of-type>.react-datepicker__day:last-of-type { border-radius: 0; }
 .resultsGroup-r_nuzN .header-2N-gMV { padding: 5px 10px 10px 10px; }
 .theme-dark .searchQuery-1B7rtx { padding: 10px !important; }
@@ -818,3 +818,8 @@ div[class="messagesPopoutWrap-1MQ1bW themedPopout-25DgLi recentMentionsPopout-2f
 .emoji { margin: -.1em .05em -.1em .1em; }
 .message-group-blocked { margin-bottom: 6px; }
 .containerCompact-3V0ioj .divider-32i8lo { margin: 0px 20px -7px; }
+.containerCozy-jafyvG { margin-bottom: 0; }
+.guilds-wrapper .guilds .guild { width: 20px; height: 20px; background-size: 100%; font-size: 15px; line-height: 20px; }
+.guilds-wrapper .guild-separator { margin-left: -15px; }
+.guilds-wrapper .guilds .guild .guild-inner { width: 20px; height: 20px; }
+.popoutBottomRight-2JrySt.noArrow-3BYQ0Z { margin-top: 7px; }
