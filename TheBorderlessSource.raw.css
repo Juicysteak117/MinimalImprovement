@@ -795,7 +795,7 @@ div[class="messagesPopoutWrap-1MQ1bW themedPopout-25DgLi recentMentionsPopout-2f
 .isCompact-1hsne1 { margin-left: 6.5ch; }
 .headerCozy-2N9HOL { height: 20px; }
 .isMentionedCozy-3isp7y:after { border-radius: 0; border-left: 2px solid #faa61a; left: 0; background: none; width: 0; }
-.chat .divider { margin-top: -3px; margin-bottom: 6px; }
+.chat .divider { margin-top: -2px; margin-bottom: 6px; }
 .containerCozy-B4noqO>* { margin-top: 2px; }
 .containerCozy-B4noqO:not(:empty) { margin-bottom: 2px; }
 .theme-dark .markup-2BOw-j { font-size: 14.8px; color: #ccc; }
@@ -824,7 +824,8 @@ div[class="messagesPopoutWrap-1MQ1bW themedPopout-25DgLi recentMentionsPopout-2f
 .guilds-wrapper .guilds .guild .guild-inner { width: 20px; height: 20px; }
 .popoutBottomRight-2JrySt.noArrow-3BYQ0Z { margin-top: 7px; }
 .wrapper-1cBijl { border-radius: 0; }
-.emoji.jumboable { margin-top: -.2em; margin-bottom: 0; }
+.emoji.jumboable { margin-top: 0; margin-bottom: 0; }
 .item-2J1YMK { margin: 0; width: 100%; }
 div[style="border-radius: 2px; background-color: rgba(114, 137, 218, 0.2);"] { border-radius: 0 !important; }
 .guilds-wrapper .guilds .guild.selected:before { height: 20px; margin-top: -10px; }
+.containerCompact-3V0ioj ~ .divider { margin: 6px 0 6px 0; }
