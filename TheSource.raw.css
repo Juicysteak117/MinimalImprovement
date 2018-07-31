@@ -869,3 +869,4 @@ div[style="border-radius: 2px; background-color: rgba(114, 137, 218, 0.2);"] { b
 .guilds-wrapper .guilds .guild.selected:before { height: 20px; margin-top: -10px; }
 .containerCompact-3V0ioj .autocomplete-1vrmpx, .containerCozy-jafyvG .autocomplete-1vrmpx { border: 2px solid #1e2124; width: 100%; left: -2px; }
 .containerCompact-3V0ioj ~ .divider { margin: 6px 0 6px 0; }
+.containerCozy-jafyvG .status-oxiHuE { height: 6px; width: 6px; right: -11px; bottom: -3px }
