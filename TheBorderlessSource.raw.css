@@ -48,7 +48,7 @@ display: none;
 height: 34px ;
 background-color: #2a2c31;z-index: 1000;
 }
-.guilds .friends-online {
+.friendsOnline-_wi_fM {
 display: none !important;
 }
 .separator-2zcjq8 {
@@ -68,7 +68,7 @@ right: 0;
 .theme-dark .title-3qD0b- {   height: 42px; box-shadow: none;}
 .chat {   }
 .private-channels>.search-bar {   height: 42px; padding: 0 0; align-items: stretch; box-shadow: none; background-color: rgb(42,44,49); color: #fff; opacity: 1 !important;}
-.search-bar>.search-bar-inner { border-radius: 0; align-items: center; border: 0; background-color: rgb(42,44,49); color: #fff; opacity: 1 !important;}
+.searchBarInner-1_Tg2R { border-radius: 0; align-items: center; border: 0; background-color: rgb(42,44,49); color: #fff; opacity: 1 !important;}
 .search-bar input{ height: 42px; background-color: rgb(42,44,49); color: #fff; opacity: 1 !important; border-radius: 0; }
 .members-1998pB {   width: 240px; min-width: 240px; max-width: 240px; height: 120vh !important;}
 .private-channels header{ margin-top: 0; padding: 4px 20px; color: rgba(246,246,247,0.3); opacity: 1 !important;}
@@ -94,7 +94,7 @@ div[class="scrollerWrap-2lJEkd scrollerThemed-2oenus themeGhost-28MSn0 scrollerF
 .wrapper-KpKNwI { height: 32px; }
 .channelTextArea-rNsIhG { margin: 0px 0px 18px;   }
 .typing-2GQL18 { height: 17px; line-height: 18px; }
-.guilds-wrapper { width: 39px !important; }
+.guildsWrapper-5TJh6A { width: 39px; }
 .base-3dtUhz { border-radius: 0; }
 #user-profile-modal .guilds .guild .guild-inner { width: 526px; height: 40px; }
 #user-profile-modal { background-color: #323232 }
@@ -169,7 +169,7 @@ div[class="scrollerWrap-2lJEkd scrollerThemed-2oenus themeGhost-28MSn0 scrollerF
 .theme-dark .theme-light .calendarPicker-2yf6Ci .react-datepicker__header, .theme-light .calendarPicker-2yf6Ci .react-datepicker__header { background-color: transparent; }
 .popout { -webkit-box-shadow: 0; box-shadow: none;}
 .popout.popout-top-left { margin-top: -3px; margin-left: -8px; }
-.guilds-wrapper { background-color: #1e2124; }
+.theme-dark .guildsWrapper-5TJh6A { background-color: #1e2124; }
 .popout.popout-bottom { margin-top: -2px;  }
 .theme-dark .messagesPopoutWrap-1MQ1bW { box-shadow: none;   border-radius: 0; margin-top: 1px; height: ; border: none; max-height: calc(100vh - 110px) !important; min-height: calc(100vh - 110px) !important;}
 .theme-dark .messagesPopoutWrap-1MQ1bW .header-ykumBX { box-shadow: none; border-radius: 0;   }
@@ -249,7 +249,7 @@ div[class="innerDisabled-2mc-iF inner-zqa7da flex-1O1GKY innerNoAutocomplete-1Wp
 .search .search-bar {width: 248px; }
 svg[name="PersonPlus"] { order: -1; }
 .theme-dark .searchPopout-1vUlP3 .search-query .search-for strong { color: #99aab5; }
-.theme-dark .container-3cGP6G, .theme-dark.contextMenu-HLZMGh { box-shadow: none; border-radius: 0; background: #2f3136; padding: 0; }
+.theme-dark .container-3cGP6G, .theme-dark.contextMenu-HLZMGh { border-radius: 0; background: #2f3136; padding: 0; }
 .theme-dark .item-2J1YMK:active, .theme-dark .item-2J1YMK:hover, .theme-dark .item-1Yvehc:hover { background: #232528; }
 div[class="item-1Yvehc itemSubMenu-1vN_Yn"] .contextMenu-HLZMGh { height: 280px; }
 .theme-dark .itemGroup-1tL0uz:not(:first-child):not(:empty) { border-top: 1px solid #c73b3b; }
@@ -403,7 +403,7 @@ div[class="listRow-hutiT_ flex-1O1GKY weightMedium-2iZe9B"] { height: 29px ; }
 .theme-dark .search-results-wrap .action-buttons .jump-button { color: #fff; }
 .create-guild-container.deprecated { border-radius: 0;   background: #36393e; }
 .create-guild-container.deprecated .action {   border-radius: 0; box-shadow: none; background: #36393e; }
-.create-guild-container.deprecated .create-or-join .form-inner { border-radius: 0; background: #36393e; }
+.create-guild-container.deprecated .create-or-join .form-inner { border-radius: 0; background: #232528; }
 .create-guild-container.deprecated .create-or-join .actions .or { display: none; }
 .emoji-picker .sticky-header { width: 320px; }
 .members-1998pB .avatar-small { margin: 0 10px 0 0 !important; }
@@ -819,14 +819,17 @@ div[class="messagesPopoutWrap-1MQ1bW themedPopout-25DgLi recentMentionsPopout-2f
 .message-group-blocked { margin-bottom: 6px; }
 .containerCompact-3V0ioj .divider-32i8lo { margin: 0px 20px -7px; }
 .containerCozy-jafyvG { margin-bottom: 0; }
-.guilds-wrapper .guilds .guild { width: 20px; height: 20px; background-size: 100%; font-size: 15px; line-height: 20px; }
-.guilds-wrapper .guild-separator { margin-left: -15px; }
-.guilds-wrapper .guilds .guild .guild-inner { width: 20px; height: 20px; }
+.theme-dark .homeIcon-1FoKUJ, .theme-dark .guild-1EfMGQ .guildIcon-CT-ZDq, .guild-1EfMGQ .guildInner-3DSoA4, .guild-1EfMGQ { width: 20px; height: 20px; background-size: 100%; font-size: 15px; line-height: 20px; }
+.guild-1EfMGQ .guildInner-3DSoA4 a, .theme-dark .homeIcon-1FoKUJ { width: 20px; height: 20px; padding: 0; }
+.guild-1EfMGQ.selected-ML3OIq:before { margin-left: -15px; height: 20px; margin-top: -10px; }
 .popoutBottomRight-2JrySt.noArrow-3BYQ0Z { margin-top: 7px; }
 .wrapper-1cBijl { border-radius: 0; }
 .emoji.jumboable { margin-top: 0; margin-bottom: 0; }
 .item-2J1YMK { margin: 0; width: 100%; }
 div[style="border-radius: 2px; background-color: rgba(114, 137, 218, 0.2);"] { border-radius: 0 !important; }
-.guilds-wrapper .guilds .guild.selected:before { height: 20px; margin-top: -10px; }
 .containerCompact-3V0ioj ~ .divider { margin: 6px 0 6px 0; }
-.containerCozy-jafyvG .status-oxiHuE { height: 6px; width: 6px; right: -11px; bottom: -3px }
+.containerCozy-jafyvG .status-oxiHuE { height: 6px; width: 6px; right: -11px; bottom: -3px; }
+.guildsWrapper-5TJh6A .scrollerWrap-1IAIlv { width: 60px; }
+.guildSeparator-1X4GQ1:after { width: 20px; left: 0; right: 0; }
+.serverfolders-modal .ui-icon-picker-icon, .serverfolders-modal .ui-icon-picker-icon .ui-picker-inner, .DevilBro-modal [class^="ui-color-picker-swatch"].large, .DevilBro-modal [class^="ui-color-picker-swatch"] { border-radius: 0; }
+.guildsWrapper-5TJh6A.folderopen, .guildsWrapper-5TJh6A.folderopen .scroller-wrap, .guildsWrapper-5TJh6A.folderopen .guilds-1q_RqH { animation: none; }
