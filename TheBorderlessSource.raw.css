@@ -583,7 +583,8 @@ div[class="spacingTop-3Dhr0L marginTop20-3TxNs6 block-2RXqH9"] { display: none; 
 .headerSpotify-zpWxgT { background-color: #35393e; } 
 .headerSpotify-zpWxgT .button-1Pkqso:hover { border-color: #1db954; background-color: rgba(29,185,84,.2); }
 .artwork-1vrmJ_ { border-radius: 0; }
-.topSectionSpotify-1lI0-P { background: #35393e; }
+.topSectionSpotify-1lI0-P, .topSectionXbox-3fWLjS { background: #35393e; }
+.topSectionXbox-3fWLjS .button-1Pkqso:hover { border-color: #107c10; background-color: rgba(16,124,16,.2); }
 .topSectionSpotify-1lI0-P .button-1Pkqso:hover { border-color: #1db954; background-color: rgba(29,185,84,.2); }
 .lookInverted-2D7oAl.colorGreen-29iAKY { background: #43b581; color: #fff; }
 .actionsProfile-1QS4n-, .listeningActionsProfile-1fYwru { margin-right: 30px; margin-left: 10px; }
@@ -852,3 +853,4 @@ div[style="border-radius: 2px; background-color: rgba(114, 137, 218, 0.2);"] { b
 .theme-dark .popoutList-T9CKZQ .divider-3573oO { display: none; }
 .theme-dark .popoutList-T9CKZQ .scroller-2CvAgC { padding: 0; }
 .theme-dark .popoutList-T9CKZQ .selectableItemLabel-1RKQjD { top: 0; padding: 1px 0 1px 2px; }
+.xboxAssets-aGhVw8 { max-width: 60px; }
