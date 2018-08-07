@@ -284,7 +284,7 @@ div[class="item-1Yvehc itemSubMenu-1vN_Yn"] .contextMenu-HLZMGh { height: 280px;
 .connectedAccount-36nQx7 { border-radius: 0; }
 div[class="avatar-large listAvatar-1NlAhb"] { margin-right: 5px !important; }
 .userInfoSection-2acyCx { padding: 20px 0 0 0; }
-.topSectionPlaying-1J5E4n { background: #35393e; }
+.topSectionPlaying-1J5E4n, .topSectionXbox-3fWLjS { background: #35393e; }
 .activity-1ythUs { padding: 10px 0px 10px 20px; border-top: 2px solid #1e2124; box-shadow: none;}
 .header-QKLPzZ { padding: 20px 20px 10px 20px; }
 .tabBar-2MuP6- { height: 40px; box-shadow: none; } 
@@ -609,6 +609,7 @@ div[class="spacingTop-3Dhr0L marginTop20-3TxNs6 block-2RXqH9"] { display: none; 
 .artwork-1vrmJ_ { border-radius: 0; }
 .topSectionSpotify-1lI0-P { background: #35393e; }
 .topSectionSpotify-1lI0-P .button-1Pkqso:hover { border-color: #1db954; background-color: rgba(29,185,84,.2); }
+.topSectionXbox-3fWLjS .button-1Pkqso:hover { border-color: #107c10; background-color: rgba(16,124,16,.2); }
 .lookInverted-2D7oAl.colorGreen-29iAKY { background: #43b581; color: #fff; }
 .actionsProfile-1QS4n-, .listeningActionsProfile-1fYwru { margin-right: 30px; margin-left: 10px; }
 .headerStreaming-2FjmGz { background: #35393e; } 
@@ -898,3 +899,4 @@ div[style="border-radius: 2px; background-color: rgba(114, 137, 218, 0.2);"] { b
 .theme-dark .popoutList-T9CKZQ .scroller-2CvAgC { padding: 0; }
 .theme-dark .popoutList-T9CKZQ .selectableItemLabel-1RKQjD { top: 0; padding: 1px 0 1px 2px; }
 .searchBarIcon-18QaPq .icon-1S6UIr { top: 3px; }
+.xboxAssets-aGhVw8 { max-width: 60px; }
