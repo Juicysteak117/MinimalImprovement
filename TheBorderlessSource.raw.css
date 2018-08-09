@@ -552,7 +552,7 @@ form.deprecated.auth-form  {   background: #36393f; }
 .messages-popout .message-group .message { max-width: 350px !important; }
 .messages-popout .message-group .comment { padding-left: 2px; }
 .messages-popout .message-group .action-buttons { top: 3px; }
-.inner-3wn6Q5 { padding: 0 10px 0 10px;  }
+.inner-3wn6Q5 { padding: 5px 10px 5px 10px;  }
 .selectable-x8iAUj { padding-bottom: 0 !important; }
 .inner-1JeGVc .header-1R_AjF { padding: 10px 20px 10px 20px; }
 .containerDragAfter-1F4fgZ:after,.containerDragBefore-31UGCO:before, .containerUserOver-1U5YnL:after  { border-radius: 0 !important; box-shadow: none !important; }
@@ -681,8 +681,8 @@ html .buttonInvertedPurple-WtBglX { color: #fff; }
 .avatarWrapper-3B0ndJ { margin-right: 6px; }
 .theme-dark .memberOffline-2lN7gt { height: 30px; }
 .appMount-3VJmYg { background-color: #1e2124; }
-div[class="scroller-2FKFPG scroller-2wx7Hm"] div[style*="width: 100%;"]:last-of-type  { height: 400px !important; }
-div[class="scroller-2FKFPG scroller-2wx7Hm scrolling-CehiO2"] div[style*="width: 100%;"]:last-of-type { height: 400px !important; }
+div[class*="scroller-2FKFPG scroller-2wx7Hm"] div[style*="width: 100%;"]:last-of-type  { height: 400px !important; }
+div[class*="scroller-2FKFPG scroller-2wx7Hm scrolling-CehiO2"] div[style*="width: 100%;"]:last-of-type { height: 400px !important; }
 .channels-Ie2l6A .scroller-2wx7Hm { height: 112vh; }
 .scroller-2FKFPG::-webkit-scrollbar { width: 0px !important; height: 0 !important; }
 .attachButton-1UjEWA { margin: 0; padding: 13px 0 13px 10px; }
