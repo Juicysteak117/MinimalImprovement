@@ -393,7 +393,7 @@ div[class="listRow-hutiT_ flex-1O1GKY weightMedium-2iZe9B"] { height: 29px ; }
 .theme-dark .searchPopout-1vUlP3 .search-query { border-bottom: none; }
 .theme-dark .searchPopout-1vUlP3 .results-group:before { border: none; }
 .theme-dark .searchPopout-1vUlP3 .results-group {   margin-top: 0; }
-.actionButtons-1sUUug .jumpButton-3DTcS_ { border-radius: 0;   }
+.actionButtons-1sUUug .jumpButton-3DTcS_ { border-radius: 0;  z-index: 3;  }
 .theme-dark .popout .messagesPopoutWrap-1MQ1bW .messages-popout .message-group:hover .action-buttons { box-shadow: none; }
 .search-results-wrap .action-buttons .jump-button { border-radius: 0;   }
 .search-results-wrap .action-buttons { box-shadow: none; }
@@ -843,7 +843,7 @@ div[style="border-radius: 2px; background-color: rgba(114, 137, 218, 0.2);"] { b
 .popoutBottomRight-2JrySt.noArrow-3BYQ0Z .lookFilled-1Gx00P.colorBrand-3pXr91 { border: none; }
 .popoutBottomRight-2JrySt.noArrow-3BYQ0Z .defaultColor-1_ajX0, .popoutBottomRight-2JrySt.noArrow-3BYQ0Z .subtitle-2iWJ5y { text-align: center; }
 .popoutBottomRight-2JrySt.noArrow-3BYQ0Z .marginTop20-3TxNs6, .popoutBottomRight-2JrySt.noArrow-3BYQ0Z .defaultColor-1_ajX0 { margin-top: 10px; }
-.popoutBottomRight-2JrySt.noArrow-3BYQ0Z .scroller-2FKFPG { max-height: 480px; }
+.popoutBottomRight-2JrySt.noArrow-3BYQ0Z .scroller-aV2LkH { max-height: 480px; }
 .divider-3gKybi>span { border-radius: 0; padding: 0; line-height: 15px; }
 .guild-1EfMGQ .avatar-small { height: 20px; width: 20px; }
 .theme-dark .divider-3gKybi.dividerRed-MKoLlr>span { height: 15px; margin-top: -4px; }
@@ -867,3 +867,5 @@ div[style="border-radius: 2px; background-color: rgba(114, 137, 218, 0.2);"] { b
 .theme-dark .measurement-36xDqs .select-2TCrqx .Select-control .Select-placeholder { padding-left: 10px; }
 .lookGhost-2Fn_0- .contents-18-Yxp .text-2sI5Sd, .container-CpszHS, .container-CpszHS .base-96ewKC, .lookGhost-2Fn_0- .contents-18-Yxp .editIcon-13gaox { transition: none; }
 .reactionCount-2ddRoS { font-family: inherit; }
+.inner-1JeGVc .message-1PNnaP { margin-top: 3px; }
+.theme-dark .messagesPopoutWrap-1MQ1bW .isMentioned-N-h9aa { z-index: 2; }
