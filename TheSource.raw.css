@@ -407,7 +407,7 @@ div[class="listRow-hutiT_ flex-1O1GKY weightMedium-2iZe9B"] { height: 29px ; }
 .theme-dark .searchPopout-1vUlP3 .search-query { border-bottom: none; }
 .theme-dark .searchPopout-1vUlP3 .results-group:before { border: none; }
 .theme-dark .searchPopout-1vUlP3 .results-group { border-top: 2px solid #1e2124; margin-top: 0; }
-.actionButtons-1sUUug .jumpButton-3DTcS_  { border-radius: 0; border: 2px solid #1e2124; }
+.actionButtons-1sUUug .jumpButton-3DTcS_  { border-radius: 0; border: 2px solid #1e2124; z-index: 3; }
 .theme-dark .popout .messagesPopoutWrap-1MQ1bW .messages-popout .message-group:hover .action-buttons { box-shadow: none; }
 .search-results-wrap .action-buttons .jump-button { border-radius: 0; border: 2px solid #1e2124; }
 .search-results-wrap .action-buttons { box-shadow: none; }
@@ -889,7 +889,7 @@ div[style="border-radius: 2px; background-color: rgba(114, 137, 218, 0.2);"] { b
 .popoutBottomRight-2JrySt.noArrow-3BYQ0Z .searchBarInner-1_Tg2R { border-top: 2px solid #1e2124; }
 .popoutBottomRight-2JrySt.noArrow-3BYQ0Z .defaultColor-1_ajX0, .popoutBottomRight-2JrySt.noArrow-3BYQ0Z .subtitle-2iWJ5y { text-align: center; }
 .popoutBottomRight-2JrySt.noArrow-3BYQ0Z .marginTop20-3TxNs6, .popoutBottomRight-2JrySt.noArrow-3BYQ0Z .defaultColor-1_ajX0 { margin-top: 10px; }
-.popoutBottomRight-2JrySt.noArrow-3BYQ0Z .scroller-2FKFPG { max-height: 480px; }
+.popoutBottomRight-2JrySt.noArrow-3BYQ0Z .scroller-aV2LkH { max-height: 480px; }
 .divider-3gKybi>span { border-radius: 0; padding: 0; line-height: 15px; }
 .guild-1EfMGQ .avatar-small { height: 20px; width: 20px; }
 .ui-standard-sidebar-view .content-column .input-cIJ7To.disabled-2BKQFm, .app .da-guildSettingsSplashSection .lookOutlined-3sRXeN.colorPrimary-3b3xI6, .theme-dark .container-QYD8zO .lookOutlined-3sRXeN.colorPrimary-3b3xI6 { border: 2px solid #1e2124; }
@@ -921,3 +921,5 @@ div[style="border-radius: 2px; background-color: rgba(114, 137, 218, 0.2);"] { b
 .container-CpszHS.hasValue-3pdcdm:not(.disabled-29eJ21):hover .button-34kXw5 { border-color: rgba(240,71,71,.3); }
 .lookGhost-2Fn_0- .contents-18-Yxp .text-2sI5Sd, .container-CpszHS, .container-CpszHS .base-96ewKC, .lookGhost-2Fn_0- .contents-18-Yxp .editIcon-13gaox { transition: none; }
 .reactionCount-2ddRoS { font-family: inherit; }
+.inner-1JeGVc .message-1PNnaP { margin-top: 3px; }
+.theme-dark .messagesPopoutWrap-1MQ1bW .isMentioned-N-h9aa { z-index: 2; }
