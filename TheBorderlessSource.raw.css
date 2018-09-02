@@ -71,7 +71,7 @@ right: 0;
 .search-bar input{ height: 42px; background-color: transparent; color: #fff; opacity: 1 !important; border-radius: 0; }
 .members-1998pB {   width: 240px; min-width: 240px; max-width: 240px; height: 120vh !important;}
 .private-channels header{ margin-top: 0; padding: 4px 20px; color: rgba(246,246,247,0.3); opacity: 1 !important;}
-.private-channels .channel a{margin: 0; border-radius: 0; height: 42px; }
+.private-channels .channel a{margin: 0; border-radius: 0; height: 32px; }
 #friends .friends-table {   margin: 0;}
 .theme-dark .headerBar-UHpsPw { height: 40px;     box-shadow: none;}
 .container-1UB9sr { border-bottom: 0;   padding-left: 6px; padding-top: 0; padding-bottom: 0; padding-right: 0; height: 34px; background: #2a2c31; z-index: 1000}
@@ -869,3 +869,28 @@ div[style="border-radius: 2px; background-color: rgba(114, 137, 218, 0.2);"] { b
 .reactionCount-2ddRoS { font-family: inherit; }
 .inner-1JeGVc .message-1PNnaP { margin-top: 3px; }
 .theme-dark .messagesPopoutWrap-1MQ1bW .isMentioned-N-h9aa { z-index: 2; }
+.autocompleteRow-2OthDa .status-oxiHuE { right: -3px; }
+.autocompleteRow-2OthDa .marginLeft8-1YseBe { margin-left: 5px; }.appMount-3VJmYg .guildsWrapper-5TJh6A.DSAC-styled .guildSeparator-1X4GQ1 ~ .guild-1EfMGQ .guildInner-3DSoA4 { width: 180px; }
+.appMount-3VJmYg .guildsWrapper-5TJh6A.DSAC-styled .guildSeparator-1X4GQ1 ~ .guild-1EfMGQ .icon-3o6xvg { font-size: 15px !important; }
+.appMount-3VJmYg .guildsWrapper-5TJh6A.DSAC-styled .guildSeparator-1X4GQ1 ~ .guild-1EfMGQ { width: 180px; }
+.appMount-3VJmYg .guildsWrapper-5TJh6A.DSAC-styled, .guildsWrapper-5TJh6A.DSAC-styled .scroller-wrap, .guildsWrapper-5TJh6A.DSAC-styled .guilds-1q_RqH { width: 180px; }
+.appMount-3VJmYg .guildsWrapper-5TJh6A.DSAC-styled .guildSeparator-1X4GQ1, .appMount-3VJmYg .guildsWrapper-5TJh6A.DSAC-styled .guildSeparator-1X4GQ1 ~ .guild-1EfMGQ, .appMount-3VJmYg .guildsWrapper-5TJh6A.DSAC-styled .guildSeparator-1X4GQ1 ~ .guild-1EfMGQ .guildsError-3cFMtY { padding: 0; border-radius: 0; }
+.appMount-3VJmYg .guildsWrapper-5TJh6A.DSAC-styled .guildSeparator-1X4GQ1 ~ .guild-1EfMGQ.selected-ML3OIq, .appMount-3VJmYg .guildsWrapper-5TJh6A.DSAC-styled .guildSeparator-1X4GQ1 ~ .guild-1EfMGQ { margin-left: -10px; }
+.appMount-3VJmYg .guildsWrapper-5TJh6A.DSAC-styled .guildSeparator-1X4GQ1 ~ .guild-1EfMGQ.selected-ML3OIq:before, .appMount-3VJmYg .guildsWrapper-5TJh6A.DSAC-styled .guildSeparator-1X4GQ1 ~ .guild-1EfMGQ:before { margin-left: 10px; }
+.appMount-3VJmYg .guildsWrapper-5TJh6A.DSAC-styled .guildSeparator-1X4GQ1 ~ .guild-1EfMGQ .guildInner-3DSoA4, .appMount-3VJmYg .guildsWrapper-5TJh6A.DSAC-styled .guildSeparator-1X4GQ1 ~ .guild-1EfMGQ .guildsError-3cFMtY { margin-left: 10px; }
+.appMount-3VJmYg .guildsWrapper-5TJh6A.DSAC-styled .scroller-wrap .scroller::-webkit-scrollbar { display: none; }
+.appMount-3VJmYg .guildsWrapper-5TJh6A.DSAC-styled .guilds-1q_RqH { padding-top: 0;  }
+.appMount-3VJmYg .guildsWrapper-5TJh6A.DSAC-styled { background-color: ; }
+.appMount-3VJmYg .guildsWrapper-5TJh6A.DSAC-styled .guildSeparator-1X4GQ1 { display: none !important; }
+.appMount-3VJmYg .guildsWrapper-5TJh6A.DSAC-styled .guild-1EfMGQ+.guild-1EfMGQ { margin-top: 0; }
+.appMount-3VJmYg .guildsWrapper-5TJh6A.DSAC-styled .guild-1EfMGQ { margin-left: 0; }
+.appMount-3VJmYg .guildsWrapper-5TJh6A.DSAC-styled { border-radius: 0; }
+.appMount-3VJmYg .guildsWrapper-5TJh6A.DSAC-styled .homeIcon-1FoKUJ { width: 180px; margin-left: -9820px; height: 40px; }
+.appMount-3VJmYg .guildsWrapper-5TJh6A.DSAC-styled .guild-1EfMGQ .guildInner-3DSoA4  { width: 180px; border-radius: 0 !important; margin-left: -10px; }
+.appMount-3VJmYg .guildsWrapper-5TJh6A.DSAC-styled .scroller-wrap ~ .tooltip { display: none !important; }
+.appMount-3VJmYg .guildsWrapper-5TJh6A.DSAC-styled div[class="guild-1EfMGQ selected-ML3OIq"]:first-of-type:before { display: none; }
+.appMount-3VJmYg .guildsWrapper-5TJh6A.DSAC-styled a[href="/channels/@me"] { width: 10000px; height: 40px; }
+.appMount-3VJmYg .guildsWrapper-5TJh6A.DSAC-styled .dms-rcsEnV { display: none; }
+.appMount-3VJmYg .guildsWrapper-5TJh6A.DSAC-styled .guild-1EfMGQ:first-of-type .guildInner-3DSoA4, .appMount-3VJmYg .guildsWrapper-5TJh6A.DSAC-styled .guild-1EfMGQ:first-child { height: 40px; }
+.appMount-3VJmYg .guildsWrapper-5TJh6A.DSAC-styled .guildSeparator-1X4GQ1 ~ .guild-1EfMGQ.guildsAdd-21_IdK .guildsAddInner-1KMFy- { top: 0; }
+.appMount-3VJmYg .guildsWrapper-5TJh6A.DSAC-styled .guildSeparator-1X4GQ1 ~ .guild-1EfMGQ.guildsAdd-21_IdK { border-left: none; border-right: none; }
