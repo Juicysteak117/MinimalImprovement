@@ -71,8 +71,8 @@ right: 0;
 .search-bar input{ height: 42px; background-color: transparent; color: #fff; opacity: 1 !important; border-radius: 0; }
 .members-1998pB {   width: 240px; min-width: 240px; max-width: 240px; height: 120vh !important;}
 .private-channels header{ margin-top: 0; padding: 4px 20px; color: rgba(246,246,247,0.3); opacity: 1 !important;}
-.private-channels .channel a{margin: 0; border-radius: 0; height: 32px; }
-.private-channels a[href*="/channels/@me"] { height: 32px; }
+.private-channels .channel a{margin: 0; border-radius: 0; height: 42px; }
+[class*="channel btn-friends channel-2fhmY8"] a[href*="/channels/@me"] { height: 32px; }
 #friends .friends-table {   margin: 0;}
 .theme-dark .headerBar-UHpsPw { height: 40px;     box-shadow: none;}
 .container-1UB9sr { border-bottom: 0;   padding-left: 6px; padding-top: 0; padding-bottom: 0; padding-right: 0; height: 34px; background: #2a2c31; z-index: 1000}
