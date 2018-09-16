@@ -42,7 +42,7 @@ display: none;
   left: 0 !important;
   top: 0 !important; 
 }
-.container-2Thooq {
+.theme-dark .container-2Thooq {
   align-items: left;
   padding: 0 0 0 6px;
 height: 34px ;
@@ -897,3 +897,4 @@ div[style="border-radius: 2px; background-color: rgba(114, 137, 218, 0.2);"] { b
 .appMount-3VJmYg .guildsWrapper-5TJh6A.DSAC-styled .guildSeparator-1X4GQ1 ~ .guild-1EfMGQ.guildsAdd-21_IdK .guildsAddInner-1KMFy- { top: 0; }
 .appMount-3VJmYg .guildsWrapper-5TJh6A.DSAC-styled .guildSeparator-1X4GQ1 ~ .guild-1EfMGQ.guildsAdd-21_IdK, .appMount-3VJmYg .guildsWrapper-5TJh6A.DSAC-styled .guildSeparator-1X4GQ1 ~ .guild-1EfMGQ .guildsError-3cFMtY { border-left: none; border-right: none; }
 .appMount-3VJmYg .guildsWrapper-5TJh6A.DSAC-styled .guildSeparator-1X4GQ1 ~ .guild-1EfMGQ .guildsError-3cFMtY { margin: 0; }
+.activityIcon-S3CciC { display: none; }
