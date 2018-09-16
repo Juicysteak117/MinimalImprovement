@@ -33,7 +33,7 @@ html, span:not(.spinner-item)
 .container-35XQWE {
 display: none;
 }
-.container-2Thooq .button-2b6hmh {
+.theme-dark .container-2Thooq .button-2b6hmh {
   height: 34px !important;
   width: 18px !important;
   border-radius: 0 !important;
@@ -952,3 +952,4 @@ div[style="border-radius: 2px; background-color: rgba(114, 137, 218, 0.2);"] { b
 .appMount-3VJmYg .guildsWrapper-5TJh6A.DSAC-styled .guildSeparator-1X4GQ1 ~ .guild-1EfMGQ.guildsAdd-21_IdK .guildsAddInner-1KMFy- { top: 0; }
 .appMount-3VJmYg .guildsWrapper-5TJh6A.DSAC-styled .guildSeparator-1X4GQ1 ~ .guild-1EfMGQ.guildsAdd-21_IdK, .appMount-3VJmYg .guildsWrapper-5TJh6A.DSAC-styled .guildSeparator-1X4GQ1 ~ .guild-1EfMGQ .guildsError-3cFMtY { border-left: none; border-right: none; }
 .appMount-3VJmYg .guildsWrapper-5TJh6A.DSAC-styled .guildSeparator-1X4GQ1 ~ .guild-1EfMGQ .guildsError-3cFMtY { margin: 0; }
+.activityIcon-S3CciC { display: none; }
