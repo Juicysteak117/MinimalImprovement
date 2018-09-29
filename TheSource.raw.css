@@ -953,3 +953,4 @@ div[style="border-radius: 2px; background-color: rgba(114, 137, 218, 0.2);"] { b
 .appMount-3VJmYg .guildsWrapper-5TJh6A.DSAC-styled .guildSeparator-1X4GQ1 ~ .guild-1EfMGQ.guildsAdd-21_IdK, .appMount-3VJmYg .guildsWrapper-5TJh6A.DSAC-styled .guildSeparator-1X4GQ1 ~ .guild-1EfMGQ .guildsError-3cFMtY { border-left: none; border-right: none; }
 .appMount-3VJmYg .guildsWrapper-5TJh6A.DSAC-styled .guildSeparator-1X4GQ1 ~ .guild-1EfMGQ .guildsError-3cFMtY { margin: 0; }
 .activityIcon-S3CciC { display: none; }
+.guild-1EfMGQ .avatar-small { background-size: 20px 20px; }
