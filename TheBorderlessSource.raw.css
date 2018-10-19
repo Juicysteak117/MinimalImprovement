@@ -900,3 +900,23 @@ div[style="border-radius: 2px; background-color: rgba(114, 137, 218, 0.2);"] { b
 .activityIcon-S3CciC { display: none; }
 .guild-1EfMGQ .avatar-small { background-size: 20px 20px; }
 .embedImage-2W1cML, .embedThumbnail-2Y84-K, .embedVideo-3nf0O9 { border-radius: 0; }
+.theme-dark .isLocalBot-38G0P0.containerCozy-jafyvG  { padding: 0 0 6px 0; box-shadow: none; background: #2a2c31; margin-top: -7px; }
+.theme-dark .isLocalBot-38G0P0 { border: none; box-shadow: none; background: #2a2c31; }
+.localBotMessage-1cGMdw { margin: 0 0 0 50px; }
+.theme-dark .gameLibrary-TTDw4Y .emptyStateButton-ab82qi { margin-top: 20px; margin-right: 20px; height: 40px; }
+.theme-dark .gameLibrary-TTDw4Y .emptyStateButton-ab82qi:last-child { margin-right: 0; }
+.wrapper-29NfPK .iconsWrapper-1RelE3, .callAvatarBorder-1D_KaE.video-3GgX2M.selected-2esnyn:not(.speaking-oCqYMI):not(.soundsharing-102bS9), .overlappingBorder-1ysb12, .paginationItemContainer-2q8AX7, .applicationMedia-1PPJ39, .tileWrapper-2khh-w, .premium-39U29H, .tilePopoutContainer-1vD21T .popout-2xBvMR, .carousel-2WxMes, .article-3kb3qm, .paginationItem-2lUq0s:after, .paginationItem-2lUq0s, .coverArtPosition-1EkmxA, .priceSalePercentage-AqGkYF, .theme-dark .popout-2sKjHu, .overlappingBorder-1-XPGl, .storePaginationImg-2P8SMo, .item-3V15ea, .root-1bFE0x, .theme-dark .section-foaVwT, .row-1bU71H, .guildInvite-3fvAbr .content-35aVm0, .selectClosed-2un0PJ, .selectOpen-hQuR6b, .rowWrapper-2fB6P0, .installSize-1eXbBX, .gamePreview-9weYR2, .filterByTitle-1b4n21 { border-radius: 0; }
+.row-1bU71H { margin: 0; }
+.features-_IOqVv h3.title-3KTIjF { text-align: center; margin: 4px 0 4px 0; }
+.theme-dark .bodySection-jqkkIP { background-color: #2f3136; }
+.paginationItem-3-iI7C, .paginationItemContainer-2q8AX7 { opacity: 1; }
+.tilePopoutContainer-1vD21T .popout-2xBvMR { background-color: #36363c; }
+.theme-dark .tileWrapper-2khh-w { background-color: #18191c; }
+.theme-dark .tileWrapper-2khh-w:hover { background-color: #121316;  }
+.option-1mJRMP { padding: 5px; }
+.filterBackground-QanGTJ { margin-bottom: -20px; }
+.browse-3H33-E { padding-top: 20px; }
+.headerPurchase-2z_nch .lookFilled-1Gx00P.colorGreen-29iAKY { height: 32px; padding: 2px 8px; margin-left: 8px; }
+.downloadProgressCircle-neZab7 { top: 0px; right: 0px; height: 20px; width: 20px; }
+.stickyHeader-1pqx0j { margin-bottom: 5px; }
+.table-1tDS6w .actionButtonSize-1Znp1q { height: 32px; }
