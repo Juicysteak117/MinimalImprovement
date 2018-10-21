@@ -987,3 +987,9 @@ div[style="border-radius: 2px; background-color: rgba(114, 137, 218, 0.2);"] { b
 .filterByTitle-1b4n21 { box-shadow: none; border: 2px solid #1e2124; }
 .table-1tDS6w .buttonInner-1TxTsc { height: 28px; }
 .table-1tDS6w .lookFilled-1Gx00P.colorGreen-29iAKY { height: 32px; }
+.incomingCallInner-2VmFiR, .premiumPromo-yVfLiA, .thumbnail-NKY26f, .tier1Banner-1B_WXY, .videoWrapper-3YdgHH, .wrapper-3jrx9n, .theme-dark .option-n0icdO { border-radius: 0; }
+.premiumPromo-yVfLiA { background: #2c2c30; border: 2px solid #1e2124; height: calc(100% - 4px ); width: calc(100% - 4px ); }
+.premiumPromoTitle-1SQQfF { color: #fff; }
+.premiumPromoDescription-2Mn515 { color: #ccc; }
+.theme-dark #user-settings .contentRegion-3nDuYy { border-left: 2px solid #1e2124; }
+.theme-dark .option-n0icdO { box-shadow: none; }
