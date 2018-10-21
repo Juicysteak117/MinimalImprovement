@@ -920,3 +920,8 @@ div[style="border-radius: 2px; background-color: rgba(114, 137, 218, 0.2);"] { b
 .downloadProgressCircle-neZab7 { top: 0px; right: 0px; height: 20px; width: 20px; }
 .stickyHeader-1pqx0j { margin-bottom: 5px; }
 .table-1tDS6w .actionButtonSize-1Znp1q { height: 32px; }
+.incomingCallInner-2VmFiR, .premiumPromo-yVfLiA, .thumbnail-NKY26f, .tier1Banner-1B_WXY, .videoWrapper-3YdgHH, .wrapper-3jrx9n, .theme-dark .option-n0icdO { border-radius: 0; }
+.premiumPromo-yVfLiA { background: #2c2c30; }
+.premiumPromoTitle-1SQQfF { color: #fff; }
+.premiumPromoDescription-2Mn515 { color: #ccc; }
+.theme-dark .option-n0icdO { box-shadow: none; }
