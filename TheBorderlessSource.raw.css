@@ -141,7 +141,7 @@ div[class="scrollerWrap-2lJEkd scrollerThemed-2oenus themeGhost-28MSn0 scrollerF
 .container-1qJFPO { overflow: hidden; }
 .listCollapse-3hmWwX { padding: 0; overflow: hidden; }
 .containerDefault-1ZnADq .listCollapse-3hmWwX  { border: 4px solid #43b581}
-.theme-dark .elevationBorderHigh-2WYJ09 { border-radius: 0; background-color: #282b30; }
+.theme-dark .elevationBorderHigh-2WYJ09 { border-radius: 0; background-color: #282b30; margin-top: 6px; margin-right: 80px;}
 .theme-dark .elevationBorderHigh-2WYJ09 .resultsGroup-r_nuzN:first-of-type { border-top: none; }
 .theme-dark .elevationBorderHigh-2WYJ09 .resultsGroup-r_nuzN .header { color: #cacbce; padding: 0 10px 0; }
 .theme-dark .elevationBorderHigh-2WYJ09 .option-96V44q { border-radius: 0; height: 32px; margin: 0; }
@@ -157,16 +157,16 @@ div[class="scrollerWrap-2lJEkd scrollerThemed-2oenus themeGhost-28MSn0 scrollerF
 .theme-dark .elevationBorderHigh-2WYJ09 .option-96V44q.selected:before { background: 0px; }
 .theme-dark .elevationBorderHigh-2WYJ09 .option-96V44q strong { color: #99aab5; }
 .theme-dark .theme-light .ui-calendar-picker .react-datepicker { background-color: #36393f; border-radius: 0; padding: 20px;}
-.theme-dark .theme-light .calendarPicker-2yf6Ci .react-datepicker__day, .theme-light .calendarPicker-2yf6Ci .react-datepicker__day { color: #f6f6f7; background-color: #27292d; border-radius: 0 !important; }
-.theme-dark .theme-light .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled, .theme-dark .theme-light .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled:hover, .theme-light .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled, .theme-light .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled:hover {color: rgba(246, 246, 247, 0.2); background-color: rgba(0,0,0,.05); border-radius: 0 !important; }
-.theme-dark .theme-light .calendarPicker-2yf6Ci .react-datepicker, .theme-light .calendarPicker-2yf6Ci .react-datepicker { background-color: #36393f; border-radius: 0; }
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day { color: #f6f6f7; background-color: #27292d; border-radius: 0 !important; }
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled, .theme-dark .theme-light .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled:hover { color: rgba(246, 246, 247, 0.2); background-color: rgba(0,0,0,.05); border-radius: 0 !important; }
+.theme-dark .theme-light .calendarPicker-2yf6Ci .react-datepicker { background-color: #36393f; border-radius: 0; }
 .calendarPicker-2yf6Ci { height: 354px !important; }
-.theme-dark .theme-light .calendarPicker-2yf6Ci .react-datepicker__current-month, .theme-light .calendarPicker-2yf6Ci .react-datepicker__current-month { color: #f6f6f7;  }
-.theme-dark .theme-light .calendarPicker-2yf6Ci .react-datepicker__day-name, .theme-light .calendarPicker-2yf6Ci .react-datepicker__day-name { color: #cfcfd1; }
+.theme-dark .theme-light .calendarPicker-2yf6Ci .react-datepicker__current-month { color: #f6f6f7;  }
+.theme-dark .theme-light .calendarPicker-2yf6Ci .react-datepicker__day-name { color: #cfcfd1; }
 .calendarPicker-2yf6Ci .react-datepicker__navigation.react-datepicker__navigation--next, .calendarPicker-2yf6Ci .react-datepicker__navigation.react-datepicker__navigation--previous { border-radius: 0; }
 .theme-dark .elevationBorderHigh-2WYJ09 .date-picker .date-picker-hint { display: none; }
 .theme-dark .elevationBorderHigh-2WYJ09 .date-picker { border-top: 0; }
-.theme-dark .theme-light .calendarPicker-2yf6Ci .react-datepicker__header, .theme-light .calendarPicker-2yf6Ci .react-datepicker__header { background-color: transparent; }
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker__header, .theme-light .calendarPicker-2yf6Ci .react-datepicker__header { background-color: transparent; }
 .popout { -webkit-box-shadow: 0; box-shadow: none;}
 .popout.popout-top-left { margin-top: -3px; margin-left: -8px; }
 .theme-dark .guildsWrapper-5TJh6A { background-color: #1e2124; }
@@ -214,7 +214,7 @@ div[class="innerDisabled-2mc-iF inner-zqa7da flex-1O1GKY innerNoAutocomplete-1Wp
 .theme-dark .search-results-wrap .search-header {box-shadow: none;   height: 32px; padding: 0px 14px; }
 .search-results-wrap { width: 240px; }
 .search-results-wrap .results-wrapper { padding-left: 4px; padding-right: 4px; }
-.theme-dark .elevationBorderHigh-2WYJ09 { box-shadow: none; left: -80px !important; top: 9px; border: none; border-left: 1px solid rgba(28,36,42,.6); border-bottom: 1px solid rgba(28,36,42,.6); }
+.theme-dark .elevationBorderHigh-2WYJ09 { box-shadow: none; margin-left: -80px; margin-top: 7px; border: none; border-left: 1px solid rgba(28,36,42,.6); border-bottom: 1px solid rgba(28,36,42,.6); }
 .theme-dark .search-results-wrap .search-result .search-result-message.hit {  border-radius: 0; }
 .theme-dark .search-results-wrap .search-result.expanded {  border-radius: 0; }
 .theme-dark .search-results-wrap .search-result.expanded .search-result-message.hit {    border-left: 0; border-right: 0;} 
@@ -821,7 +821,7 @@ div[class="messagesPopoutWrap-1MQ1bW themedPopout-25DgLi recentMentionsPopout-2f
 .theme-dark .homeIcon-1FoKUJ, .theme-dark .guild-1EfMGQ .guildIcon-CT-ZDq, .guild-1EfMGQ .guildInner-3DSoA4, .guild-1EfMGQ { width: 20px; height: 20px; background-size: 100%; font-size: 15px; line-height: 20px; }
 .guild-1EfMGQ .guildInner-3DSoA4 a, .theme-dark .homeIcon-1FoKUJ { width: 20px; height: 20px; padding: 0; }
 .guild-1EfMGQ.selected-ML3OIq:before { height: 20px; margin-top: -10px; transition: none; }
-.popoutBottomRight-2JrySt.noArrow-3BYQ0Z { margin-top: 7px; }
+.popoutBottomRight-2JrySt.noArrow-3BYQ0Z { margin-top: 8px; }
 .wrapper-1cBijl { border-radius: 0; }
 .emoji.jumboable { margin-top: 0; margin-bottom: 0; }
 .item-2J1YMK { margin: 0; width: 100%; }
