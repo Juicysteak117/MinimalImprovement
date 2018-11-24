@@ -1004,3 +1004,7 @@ div[style="border-radius: 2px; background-color: rgba(114, 137, 218, 0.2);"] { b
 .theme-dark .quickSelectPopout-X1hvgV { background: #2a2c31; border: 2px solid #1e2124; }
 .popoutBottom-1YbShG.noArrow-3BYQ0Z { margin-top: -2px; }
 .theme-dark .messagesPopoutWrap-1MQ1bW { margin-top: 0px; }
+.header-QKLPzZ .lookFilled-1Gx00P.colorGreen-29iAKY { height: 32px; }
+.wrapper-2ZbzR9 { border-radius: 0; }
+.animator-US5i9g .size-30cdTn, .animator-US5i9g .size-1WIx1O, .animator-US5i9g .size-3BX7nn { height: calc(100% - 4px); width: calc(100% - 4px); }
+.animator-US5i9g .lookFilled-1Gx00P.colorGreen-29iAKY { border: 2px solid #1e2124; }
