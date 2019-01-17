@@ -70,7 +70,7 @@ right: 0;
 .theme-dark .title-3qD0b- { border-bottom: 2px solid #1e2124; height: 40px; box-shadow: none;}
 .chat-3bRxxu { border-left: 2px solid #1e2124; }
 .privateChannels-1nO12o>.searchBar-6Kv8R2 { border-bottom: 2px solid #1e2124; height: 40px; padding: 0 0; align-items: stretch; box-shadow: none; background-color: rgb(42,44,49); color: #fff; opacity: 1 !important;}
-.theme-dark .searchBarInner-1_Tg2R, .searchBar-6Kv8R2 .search-bar-inner { border-radius: 0 !important; align-items: center; border: 0; background-color: rgb(42,44,49); color: #fff; opacity: 1 !important; padding: 0; }
+.theme-dark .searchBarInner-1_Tg2R, .searchBar-6Kv8R2 .search-bar-inner, .emojiPicker-3m1S-j .header-1nkwgG .searchBar-2pWH0_ { border-radius: 0 !important; align-items: center; border: 0; background-color: rgb(42,44,49); color: #fff; opacity: 1 !important; padding: 0; }
 .searchBar-6Kv8R2 input{ height: 40px; background-color: transparent; color: #fff; opacity: 1 !important;}
 .members-1998pB { border-left: 2px solid #1e2124; width: 240px; min-width: 240px; max-width: 240px; height: 112vh !important; }
 .membersWrap-2h-GB4, .membersWrap-2h-GB4 .scrollerWrap-2lJEkd { height: 112vh; }
@@ -305,12 +305,15 @@ div[class="headerTextNormal-2mGWX3 headerText-1HLrL7 marginBottom8-AtZOdT small-
 #bda-qem-twitch { border-radius: 0; display: none;}
 .bda-dark #bda-qem button { border-left: 2px solid #1e2124; border-top: 2px solid #1e2124; box-shadow: none;}
 .emojiPicker-3m1S-j .header-1nkwgG { border-bottom: 2px solid #1e2124; }
-.emojiPicker-3m1S-j { border-top: 2px solid #1e2124; margin: 0;}
+.emojiPicker-3m1S-j { border-top: 2px solid #1e2124; margin: 0 6px -11px 0;}
 .emojiPicker-3m1S-j .categories-1feg4n .item-16cXuq.recent-rdY7_c { margin-left: 12px; }
+.bda-dark .emojiPicker-3m1S-j .category-2U57w6 { height: 28px; }
 .diversitySelector-tmmMv0 { display: none }
-.emojiPicker-3m1S-j .header-1nkwgG .search-bar.search-bar-light .search-bar-inner .search-bar-icon { display: none; }
+.emojiPicker-3m1S-j .searchBar-2_Yu-C.searchBarLight-1NxoDG input { color: #fff; }
+.emojiPicker-3m1S-j .searchBar-2_Yu-C.searchBarLight-1NxoDG input::-webkit-input-placeholder { color: #ccc; }
+.emojiPicker-3m1S-j .header-1nkwgG .searchBarIcon-1J6sKG .icon-3cZ1F_ { display: none; }
 .emojiPicker-3m1S-j .scrollerWrap-PyxcLY { border-bottom: 2px solid #1e2124; }
-.search-bar.search-bar-light .search-bar-inner { border-radius: 0 !important; border: 0; }
+.emojiPicker-3m1S-j .searchBar-2_Yu-C.searchBarLight-1NxoDG .searchBarInner-1_Tg2R { border-radius: 0 !important; border: 0; }
 .bda-dark #bda-qem { border: none !important; display: none;}
 .popout.popout-top-right.no-arrow { margin-top: -11px !important; }
 #bda-qem-favourite { display: none; }
@@ -426,7 +429,7 @@ div[class="listRow-hutiT_ flex-1O1GKY weightMedium-2iZe9B"] { height: 29px ; }
 .create-guild-container.deprecated .create-or-join .form-inner { border-radius: 0; background: #232528; }
 .create-guild-container.deprecated .action .btn { border: 2px solid #1e2124; }
 .create-guild-container.deprecated .create-or-join .actions .or { display: none; }
-.emoji-picker .sticky-header { width: 320px; }
+.emojiPicker-3m1S-j .stickyHeader-1SS0JU { width: 320px; }
 .members-1998pB .avatar-small { margin: 0 10px 0 0 !important; }
 .noticeInfo-3_iTE1 { border-radius: 0 !important; }
 .dismiss-SCAH9H { right: 79%; }
@@ -789,7 +792,8 @@ div[class="messagesPopoutWrap-1MQ1bW themedPopout-25DgLi recentMentionsPopout-2f
 .theme-dark .everyonePopout-nEbJY3 .footer-2aTx0s { border-top: 2px solid #17191b; }
 .theme-dark .messagesPopoutWrap-1MQ1bW .messagesPopout-24nkyi .message-group:hover .actionButtons-1sUUug { box-shadow: none; background-color: transparent; }
 .wumpusShown-2xKVn_, .wumpusWrapper-yrvoR3 { display: none; }
-.emojiPicker-3m1S-j .no-search-results { border-bottom: 2px solid #1e2124; }
+.emojiPicker-3m1S-j .noSearchResultsContainer-3Dee0U { border-bottom: 2px solid #1e2124; }
+
 .emojiPicker-3m1S-j .categories-1feg4n { border: none; }
 .wrapper-39oAo3 button { border-radius: 0; }
 .theme-dark .messagesPopoutWrap-1MQ1bW .message-group .accessory .imageWrapper-2p5ogY img { max-width: 320px !important; }
@@ -880,7 +884,7 @@ div[style="border-radius: 2px; background-color: rgba(114, 137, 218, 0.2);"] { b
 .guildSeparator-1X4GQ1:after { width: 20px; left: 0; right: 0; }
 .serverfolders-modal .ui-icon-picker-icon, .serverfolders-modal .ui-icon-picker-icon .ui-picker-inner, .DevilBro-modal [class^="ui-color-picker-swatch"].large, .DevilBro-modal [class^="ui-color-picker-swatch"] { border-radius: 0; }
 .guildsWrapper-5TJh6A.folderopen, .guildsWrapper-5TJh6A.folderopen .scroller-wrap, .guildsWrapper-5TJh6A.folderopen .guilds-1q_RqH { animation: none !important; }
-.bda-dark .emoji-picker .header .search-bar, .bda-dark .emojiPicker-3m1S-j .header-1nkwgG .search-bar { padding: 0; }
+.bda-dark .emojiPicker-3m1S-j .header-1nkwgG .searchBar-2_Yu-C { padding: 0; }
 .emojiPicker-3m1S-j .dimmer-3iH-5D { border-radius: 0; transition: none; } 
 .searchBarIcon-1J6sKG .icon-3cZ1F_ { top: 0; }
 .theme-dark .hljs { overflow-x: hidden; }
@@ -905,7 +909,7 @@ div[style="border-radius: 2px; background-color: rgba(114, 137, 218, 0.2);"] { b
 .theme-dark .popoutList-T9CKZQ .divider-3573oO { display: none; }
 .theme-dark .popoutList-T9CKZQ .scroller-2CvAgC { padding: 0; }
 .theme-dark .popoutList-T9CKZQ .selectableItemLabel-1RKQjD { top: 0; padding: 1px 0 1px 2px; }
-.searchBarIcon-18QaPq .icon-1S6UIr { top: 3px; }
+.searchBarIcon-18QaPq .icon-1S6UIr { top: -2px; }
 .xboxAssets-aGhVw8 { max-width: 60px; }
 .avatar-1j43gH { padding: 0; }
 .theme-dark .partyMemberEmpty-2iyh5g, .price-2IU94K { border-radius: 0; }
@@ -1016,3 +1020,4 @@ div[style="border-radius: 2px; background-color: rgba(114, 137, 218, 0.2);"] { b
 .buttonWrapper-1ZmCpA.da-buttonWrapper.button-38aScr.da-button.lookBlank-3eh9lL.colorBrand-3pXr91.grow-q77ONN.da-grow { display: none; }
 .channelTextAreaDisabled-rZtG8r .pickerButtons-v-PPYK, .channelTextAreaDisabled-rZtG8r .buttons-205you { padding: 0; }
 .coverImageWrapper-22d5LB { border-radius: 0; }
+.tabBarContainer-1s1u-z .top-28JiJ- .item-PXvHYJ { margin-right: 10px; }
