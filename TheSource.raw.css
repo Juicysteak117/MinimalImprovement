@@ -135,7 +135,7 @@ div[class="scrollerWrap-2lJEkd scrollerThemed-2oenus themeGhost-28MSn0 scrollerF
 .innerNoAutocomplete-1WpcVO { border-radius: 0; }
 .theme-dark .searchBar-3dMhjb { border-radius: 0 !important; box-shadow: none !important; } 
 .theme-dark .search-2oPWTC .searchBar-3dMhjb { border-radius: 0 !important; border: 2px solid #1e2124; }
-.search-2oPWTC .DraftEditor-root .public-DraftEditor-content, .search-2oPWTC .DraftEditor-root .public-DraftEditorPlaceholder-root { padding: 0 6px 20px 6px; }
+.search-2oPWTC .DraftEditor-root .public-DraftEditor-content, .search-2oPWTC .DraftEditor-root .public-DraftEditorPlaceholder-root { padding: 1px 6px 0 6px; }
 .listDefault-36Sktb { padding-bottom: 0; }
 .listCollapse-3hmWwX { padding-bottom: 0; }
 .container-2duXBh { padding-left: 8px; }
@@ -218,7 +218,7 @@ div[class="messagesPopoutWrap-1MQ1bW da-messagesPopoutWrap themedPopout-25DgLi d
 .channelTextAreaDisabled-rZtG8r { opacity: 1; }
 div[class="innerDisabled-2mc-iF inner-zqa7da flex-1O1GKY innerNoAutocomplete-1WpcVO da-innerDisabled da-inner da-flex da-innerNoAutocomplete"], .theme-dark .channelTextAreaDisabled-rZtG8r .textArea-2Spzkt { background: #323438 !important; }
 .theme-dark .searchResultsWrap-2DKFzt { border-left: 2px solid #1e2124; }
-.theme-dark .searchResultsWrap-2DKFzt .searchHeader-1l-wpR { box-shadow: none; border-bottom: 2px solid #1e2124; height: 32px; padding: 0px 14px; }
+.theme-dark .searchResultsWrap-2DKFzt .searchHeader-1l-wpR { box-shadow: none; border-bottom: 2px solid #1e2124; height: 32px; padding: 0px 10px; }
 .searchResultsWrap-2DKFzt { width: 238px; }
 .searchResultsWrap-2DKFzt .resultsWrapper-hoiXCY { padding-left: 4px; padding-right: 4px; }
 .theme-dark .theme-dark .elevationBorderHigh-2WYJ09 { box-shadow: none; left: -81px !important; }
@@ -882,7 +882,7 @@ div[style="border-radius: 2px; background-color: rgba(114, 137, 218, 0.2);"] { b
 .containerCompact-3V0ioj .autocomplete-1vrmpx, .containerCozy-jafyvG .autocomplete-1vrmpx { border: 2px solid #1e2124; width: 100%; left: -2px; }
 .containerCompact-3V0ioj ~ .divider-3gKybi { margin: 6px 0 6px 0; }
 .containerCozy-jafyvG .status-oxiHuE { height: 6px; width: 6px; right: -11px; bottom: -3px; }
-.guildsWrapper-5TJh6A .scrollerWrap-1IAIlv { width: 60px; }
+.guildsWrapper-5TJh6A .scrollerWrap-1IAIlv { width: 40px; }
 .guildSeparator-1X4GQ1:after { width: 20px; left: 0; right: 0; }
 .serverfolders-modal .ui-icon-picker-icon, .serverfolders-modal .ui-icon-picker-icon .ui-picker-inner, .DevilBro-modal [class^="ui-color-picker-swatch"].large, .DevilBro-modal [class^="ui-color-picker-swatch"] { border-radius: 0; }
 .guildsWrapper-5TJh6A.folderopen, .guildsWrapper-5TJh6A.folderopen .scroller-wrap, .guildsWrapper-5TJh6A.folderopen .guilds-1q_RqH { animation: none !important; }
@@ -1034,3 +1034,15 @@ section[class*="sectionTag-pXyto9 da-sectionTag"] div[style*="width: 100%;"]:las
 .autocompleteScroller-iInVqR { height: 400px; }
 .theme-dark .row-rrHHJU.selected-1pIgLL { background: rgba(40,43,48,.8); }
 div[class="container-VSDcQc da-container positionBottom-3oo9L9 da-positionBottom"] .autocompleteScroller-iInVqR { height: 320px; }
+.spoilerWarning-2aAZq1, .theme-dark .spoilerContainer-331r0R.hidden-HHr2R9:not(:focus), .theme-dark .tile-2OwFgW, .assetWrapper-2Qw_5D { border-radius: 0; box-shadow: none; }
+.embedPrice-Xy8zoS { margin-left: 10px; }
+.theme-dark .tile-2OwFgW { border: 2px solid #1e2124; }
+.theme-dark .description-1RsfgZ { border-right: 2px solid #1e2124; }
+.guildsDiscoverInner-wC7iEN { top: 0; height: 18px; width: 18px; }
+.card-3DjzTQ { border-radius: 0; border: 2px solid #1e2124; transition: none;}
+.theme-dark .cardHovered-15wbb-, .theme-dark .loading-17PYl_ .cardHovered-15wbb-, .theme-light .cardHovered-15wbb-, .theme-light .loading-17PYl_ .cardHovered-15wbb- { box-shadow: none; }
+.theme-dark .body-2lagau .input-cIJ7To { border: none; }
+.theme-dark .body-2lagau .searchBox-3Y2Vi7 { border-radius: 0; box-shadow: none; border: 2px solid #1e2124; }
+.wrapper-39oAo3 { border-radius: 0; margin: 0; }
+.wrapper-39oAo3 .lookFilled-1Gx00P.colorBrand-3pXr91, .wrapper-39oAo3 .lookFilled-1Gx00P.colorGreen-29iAKY { height: 32px; border: 0; margin-left: 12px; }
+.body-2lagau { border-left: 2px solid #1e2124; }
