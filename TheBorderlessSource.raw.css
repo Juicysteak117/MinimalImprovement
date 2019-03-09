@@ -81,7 +81,7 @@ right: 0;
 .inner-btChU7 .rtc-connection-status { display: inline; }
 .inner-btChU7 .channel-SEolQq { margin-right: 0; }
 .chat-3bRxxu .divider>span { line-height: 0; border-radius: 0; }
-.guildsError-3cFMtY { height: 20px; width: 20px; font-size: 15px; line-height: 15px; }
+.guildsError-b7zR5H { height: 20px; width: 20px; font-size: 15px; line-height: 15px; }
 .content-20Aix8 { margin: 0 !important; border-radius: 0; padding: 0 8px; }
 .popout.popout-bottom-left, .popout.popout-bottom-right { margin-top: 0; box-shadow: none;}
 .theme-dark .menu-Sp6bN1 { background: #282b30; border-radius: 0;   box-shadow: none; }
@@ -885,7 +885,7 @@ div[style="border-radius: 2px; background-color: rgba(114, 137, 218, 0.2);"] { b
 .appMount-3VJmYg .DSAC-styled .guildSeparator-3s64Iy ~ .container-2td-dC .icon-3o6xvg { font-size: 15px !important; }
 .appMount-3VJmYg .DSAC-styled .guildSeparator-3s64Iy ~ .container-2td-dC { width: 180px; }
 .appMount-3VJmYg .DSAC-styled .wrapper-1Rf91z, .appMount-3VJmYg .DSAC-styled .scroller-wrap, .appMount-3VJmYg .DSAC-styled .scroller-2TZvBN { width: 180px; }
-.appMount-3VJmYg .DSAC-styled .guildSeparator-3s64Iy, .appMount-3VJmYg .DSAC-styled .guildSeparator-3s64Iy ~ .container-2td-dC, .appMount-3VJmYg .DSAC-styled .guildSeparator-3s64Iy ~ .container-2td-dC .guildsError-3cFMtY { padding: 0; border-radius: 0; }
+.appMount-3VJmYg .DSAC-styled .guildSeparator-3s64Iy, .appMount-3VJmYg .DSAC-styled .guildSeparator-3s64Iy ~ .container-2td-dC, .appMount-3VJmYg .DSAC-styled .guildSeparator-3s64Iy ~ .container-2td-dC .guildsError-b7zR5H { padding: 0; border-radius: 0; }
 .appMount-3VJmYg .DSAC-styled .guildSeparator-3s64Iy ~ .container-2td-dC.selected-nT-gM3, .appMount-3VJmYg .DSAC-styled .guildSeparator-3s64Iy ~ .container-2td-dC { margin-left: -10px; }
 .appMount-3VJmYg .DSAC-styled .guildSeparator-3s64Iy ~ .container-2td-dC.selected-nT-gM3:before, .appMount-3VJmYg .DSAC-styled .guildSeparator-3s64Iy ~ .container-2td-dC:before { margin-left: 10px; }
 .appMount-3VJmYg .DSAC-styled .guildSeparator-3s64Iy ~ .container-2td-dC .wrapper-2lTRaf { margin-left: 10px; }
@@ -904,8 +904,8 @@ div[style="border-radius: 2px; background-color: rgba(114, 137, 218, 0.2);"] { b
 .appMount-3VJmYg .DSAC-styled .dms-rcsEnV { display: none; }
 .appMount-3VJmYg .DSAC-styled .container-2td-dC:first-of-type .wrapper-2lTRaf, .appMount-3VJmYg .DSAC-styled .container-2td-dC:first-child { height: 40px; width: 180px; }
 .appMount-3VJmYg .DSAC-styled .guildSeparator-3s64Iy ~ .container-2td-dC.circleIconButton-jET_ig .plus-3UqSQu { top: 0; }
-.appMount-3VJmYg .DSAC-styled .guildSeparator-3s64Iy ~ .container-2td-dC.circleIconButton-jET_ig, .appMount-3VJmYg .DSAC-styled .guildSeparator-3s64Iy ~ .container-2td-dC .guildsError-3cFMtY { border-left: none; border-right: none; }
-.appMount-3VJmYg .DSAC-styled .guildSeparator-3s64Iy ~ .container-2td-dC .guildsError-3cFMtY { margin: 0; }
+.appMount-3VJmYg .DSAC-styled .guildSeparator-3s64Iy ~ .container-2td-dC.circleIconButton-jET_ig, .appMount-3VJmYg .DSAC-styled .guildSeparator-3s64Iy ~ .container-2td-dC .guildsError-b7zR5H { border-left: none; border-right: none; }
+.appMount-3VJmYg .DSAC-styled .guildSeparator-3s64Iy ~ .container-2td-dC .guildsError-b7zR5H { margin: 0; }
 .activityIcon-S3CciC { display: none; }
 .container-2td-dC .avatar-small { background-size: 20px 20px; }
 .embedImage-2W1cML, .embedThumbnail-2Y84-K, .embedVideo-3nf0O9 { border-radius: 0; }
@@ -981,7 +981,9 @@ div[class="container-VSDcQc da-container positionBottom-3oo9L9 da-positionBottom
 .container-1ETFDs, .homeButton-2Cw51C, .avatar-3f3jk4, .scroller-2TZvBN .circleIconButton-jET_ig, .container-11WMXy { height: 20px; width: 20px; }
 div[class="wrapper-2lTRaf da-wrapper"] { border-radius: 25px !important;}
 .container-1aNBdK { height: 30px !important; width: 20px; }
-.container-1aNBdK .badge-2_fwUZ { top: 7px; }
+.container-1aNBdK .badge-2_fwUZ { top: 4px; }
 .container-1aNBdK a { transition: none; }
 .container-2td-dC, .homeButton-2Cw51C { margin-bottom: 8px; }
 .plus-3UqSQu { font-size: 20px; }
+.theme-dark .inner-2Y6JuD:hover, .theme-light .inner-2Y6JuD:hover { border-color: #ddd; }
+.dragPlaceholder-D9-haY { height: 20px; width: 20px; margin-bottom: 8px; }
