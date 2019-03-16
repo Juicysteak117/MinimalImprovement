@@ -723,8 +723,8 @@ html .buttonInvertedPurple-WtBglX { color: #fff; }
 .avatarWrapper-3B0ndJ { margin-right: 6px; }
 .theme-dark .memberOffline-2lN7gt { height: 30px; }
 .appMount-3VJmYg { background-color: #1e2124; }
-div[class*="scroller-2FKFPG firefoxFixScrollFlex-cnI2ix da-scroller da-firefoxFixScrollFlex systemPad-3UxEGl da-systemPad members-1998pB da-members"] div[style*="width: 100%;"]:last-of-type { height: 400px !important; }
-div[class*="scroller-2FKFPG firefoxFixScrollFlex-cnI2ix da-scroller da-firefoxFixScrollFlex systemPad-3UxEGl da-systemPad members-1998pB da-members scrolling-CehiO2 da-scrolling"] div[style*="width: 100%;"]:last-of-type { height: 400px !important; }
+div[class*="scroller-2FKFPG firefoxFixScrollFlex-cnI2ix da-scroller da-firefoxFixScrollFlex systemPad-3UxEGl da-systemPad members-1998pB da-members"] div[style*="width: 100%;"]:last-of-type { height: 500px !important; }
+div[class*="scroller-2FKFPG firefoxFixScrollFlex-cnI2ix da-scroller da-firefoxFixScrollFlex systemPad-3UxEGl da-systemPad members-1998pB da-members scrolling-CehiO2 da-scrolling"] div[style*="width: 100%;"]:last-of-type { height: 500px !important; }
 div[class*="scroller-2FKFPG firefoxFixScrollFlex-cnI2ix da-scroller da-firefoxFixScrollFlex systemPad-3UxEGl da-systemPad scroller-2wx7Hm da-scroller"] div[style*="width: 100%;"]:last-of-type { height: 500px !important; }
 div[class*="scroller-2FKFPG firefoxFixScrollFlex-cnI2ix da-scroller da-firefoxFixScrollFlex systemPad-3UxEGl da-systemPad scroller-2wx7Hm da-scroller scrolling-CehiO2 da-scrolling"] div[style*="width: 100%;"]:last-of-type { height: 500px !important; }
 .channels-Ie2l6A .scroller-2wx7Hm { height: 112vh; }
@@ -1068,3 +1068,6 @@ div[class="wrapper-2lTRaf da-wrapper"] { border-radius: 25px !important;}
 .theme-dark .friendsTable-133bsv .friendTableAddWrapper-nHHZtK .friendTableAddHeader-m9bzFr { border-bottom: 2px solid #1e2124; }
 .theme-dark .inner-2Y6JuD:hover, .theme-light .inner-2Y6JuD:hover { border-color: #ddd; }
 .dragPlaceholder-D9-haY { height: 20px; width: 20px; margin-bottom: 8px; }
+.header-2o-2hj.banner-1TiK82 { background: transparent; border-bottom: none; }
+.bannerImage-1jOskm, .bannerImage-1jOskm:after { width: 180px; }
+.bannerImage-1jOskm { background-position: 0%; }
