@@ -999,11 +999,10 @@ span[style="opacity: 1; height: 40px; transform: translate3d(0px, 0px, 0px);"] {
 .circleIconButton-jET_ig, .acronym-2mOFsV, .wrapper-1BJsBx { transition: none; }
 span[style="opacity: 0; height: 8px; transform: translate3d(-4px, 0px, 0px);"], span[style="opacity: -0.0145846; height: 7.74998px; transform: translate3d(-4.08334px, 0px, 0px);"] { height: 0px !important; }
 .theme-dark .homeIcon-tEMBK1 path[fill="currentColor"]{ width: 20px; height: 20px;  }
-.listItem-2P_4kh + div:not(.listItem-2P_4kh) {height: 20px !important; transform: none !important; margin-bottom: 6px; }
+.listItem-2P_4kh ~ div:not(.listItem-2P_4kh) {height: 20px !important; transform: none !important; margin-bottom: 6px; }
 .wrapper-1Rf91z .scroller-2TZvBN > .listItem-2P_4kh:first-of-type svg { height: 44px; width: 44px; }
 .wrapper-1Rf91z .scrollerWrap-1IAIlv .scroller-2TZvBN>.listItem-2P_4kh:first-of-type foreignObject[mask], .wrapper-1Rf91z .scrollerWrap-1IAIlv .scroller-2TZvBN>.listItem-2P_4kh:last-of-type foreignObject[mask], .wrapper-1Rf91z .scrollerWrap-1IAIlv .scroller-2TZvBN>.listItem-2P_4kh:nth-last-of-type(2) foreignObject[mask] { mask: none; }
-.numberBadge-2s8kKX { width: 12px !important; border-radius: 0; }
-.base-PmTxvP { line-height: 12px; min-height: 12px; min-width: 12px; }
+.numberBadge-2s8kKX { border-radius: 0; }
 div[class="circleButtonMask-2VNJsN da-circleButtonMask wrapper-25eVIn da-wrapper"] svg { height: 44px; width: 44px; }
 .theme-dark .homeIcon-tEMBK1 { margin-top: 2px; }
 .theme-dark .container-1r6BKw { height: 42px; border-radius: 0;  box-shadow: none; }
@@ -1022,3 +1021,6 @@ div[class="circleButtonMask-2VNJsN da-circleButtonMask wrapper-25eVIn da-wrapper
 .wrapper-1ucjTd { height: 32px; }
 .userSmall-2t9H7n { height: 24px; }
 .mentionsBadge-7f5lud .base-PmTxvP { height: 20px; width: 14px !important; margin-right: 8px; }
+#bd-pub-li { display: none; }
+.searchBar-6Kv8R2 .searchBarComponent-32dTOx input { height: 42px; line-height: 42px; }
+.searchBar-6Kv8R2 .searchBarComponent-32dTOx { height: 42px; border-radius: 0; }
