@@ -33,7 +33,7 @@ html, span:not(.spinner-item)
 .container-35XQWE {
 display: none;
 }
-.theme-dark .container-3baos1 .button-2JbWXs, .container-1UB9sr .button-2JbWXs {
+.theme-dark .container-3baos1 .button-2JbWXs, .container-1giJp5 .button-2JbWXs {
   height: 34px !important;
   width: 18px !important;
   border-radius: 0 !important;
@@ -82,7 +82,7 @@ right: 0;
 .friendsTable-133bsv {  margin: 0;}
 .theme-dark .headerBar-UHpsPw { height: 42px; border-bottom: 2px solid #1e2124; box-shadow: none;}
 .theme-dark .container-3gCOGc .headerBar-UHpsPw { border-left: 2px solid #1e2124; }
-.container-1UB9sr { border-bottom: 0; border-top: 2px solid #1e2124; padding-left: 6px; padding-top: 0; padding-bottom: 0; padding-right: 0; height: 34px; z-index: 1000; background: #2a2c31; }
+.container-1giJp5 { border-bottom: 0; border-top: 2px solid #1e2124; padding-left: 6px; padding-top: 0; padding-bottom: 0; padding-right: 0; height: 34px; z-index: 1000; background: #2a2c31; }
 .button-2KyEfG { height: 34px; width: 18px; border-radius: 0; }
 .inner-btChU7 .rtc-connection-status { display: flex; }
 .inner-btChU7 .channel-SEolQq { margin-right: 0; }
@@ -1108,5 +1108,5 @@ div[class="circleButtonMask-2VNJsN da-circleButtonMask wrapper-25eVIn da-wrapper
 #bd-pub-li { display: none; }
 .searchBar-6Kv8R2 .searchBarComponent-32dTOx input { height: 40px; line-height: 40px; }
 .searchBar-6Kv8R2 .searchBarComponent-32dTOx { height: 40px; border-radius: 0; }
-.inner-btChU7 .rtc-connection-status .ping.status-_2Z-j- { margin-right: 5px; padding: 4px 0 4px 0; }
+.inner-tyMogq .rtcConnectionStatus-2-jIsi .pingStatus-Jv9VGK { margin-right: 5px; padding: 4px 0 4px 0; }
 .avatarWrapper-2yR4wp { margin-right: 8px; }
