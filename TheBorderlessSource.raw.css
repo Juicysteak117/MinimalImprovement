@@ -999,7 +999,7 @@ span[style="opacity: 1; height: 40px; transform: translate3d(0px, 0px, 0px);"] {
 .circleIconButton-jET_ig, .acronym-2mOFsV, .wrapper-1BJsBx { transition: none; }
 span[style="opacity: 0; height: 8px; transform: translate3d(-4px, 0px, 0px);"], span[style="opacity: -0.0145846; height: 7.74998px; transform: translate3d(-4.08334px, 0px, 0px);"] { height: 0px !important; }
 .theme-dark .homeIcon-tEMBK1 path[fill="currentColor"]{ width: 20px; height: 20px;  }
-.listItem-2P_4kh ~ div:not(.listItem-2P_4kh) {height: 20px !important; transform: none !important; margin-bottom: 6px; }
+.listItem-2P_4kh ~ div[style*="opacity: 1"] {height: 20px !important; transform: none !important; margin-bottom: 6px; }
 .wrapper-1Rf91z .scroller-2TZvBN > .listItem-2P_4kh:first-of-type svg { height: 44px; width: 44px; }
 .wrapper-1Rf91z .scrollerWrap-1IAIlv .scroller-2TZvBN>.listItem-2P_4kh:first-of-type foreignObject[mask], .wrapper-1Rf91z .scrollerWrap-1IAIlv .scroller-2TZvBN>.listItem-2P_4kh:last-of-type foreignObject[mask], .wrapper-1Rf91z .scrollerWrap-1IAIlv .scroller-2TZvBN>.listItem-2P_4kh:nth-last-of-type(2) foreignObject[mask] { mask: none; }
 .numberBadge-2s8kKX { border-radius: 0; }
@@ -1035,3 +1035,7 @@ div[class="modal-3c3bKg da-modal"] { transform: none !important; }
 .content-1EtbQh, .modal-yWgWj- { border-radius: 0; }
 .footer-3rDWdC, .header-2tA9Os { padding: 10px 10px 10px 20px; }
 .popout-2iWAc- { box-shadow: none; border-radius: 0; }
+.privateChannels-1nO12o .channel-2QD9_O { padding: 0; height: 42px !important; }
+.folder-21wGz3, .folderIconWrapper-226oVY, .expandedFolderBackground-2sPsd- { transition: none; }
+.expandedFolderBackground-2sPsd- { left: 10px; width: 20px; }
+.wrapper-21YSNc div[class="expandedGuilds-1JMD4M da-expandedGuilds"] { height: 100% !important; }
