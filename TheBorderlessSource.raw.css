@@ -1041,3 +1041,4 @@ div[class="modal-3c3bKg da-modal"] { transform: none !important; }
 .wrapper-21YSNc div[class="expandedGuilds-1JMD4M da-expandedGuilds"] { height: 100% !important; }
 .avatar-28BJzY rect[mask], .member-3W1lQa rect[mask], .autocomplete-1vrmpx rect[mask], .avatarWrapper-3H_478 rect[mask]  { mask: url(#svg-mask-status-online); }
 .theme-dark rect[mask="url(#svg-mask-status-online-mobile)"] { mask: url(#svg-mask-status-online-mobile); }
+.theme-dark rect[mask="url(#svg-mask-status-typing)"] { mask: url(#svg-mask-status-typing); }
