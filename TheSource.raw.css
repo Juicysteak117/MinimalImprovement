@@ -1130,7 +1130,7 @@ div[class="modal-3c3bKg da-modal"] { transform: none !important; }
 .title-eS5yk3 { color: inherit; font-size: 14px; font-weight: normal; } /* 9/9 update */
 .unreadMentionsIndicatorBottom-BXS58x, .unreadMentionsIndicatorTop-gA6RCh { width: 39px; }
 .base-3dtUhz { left: 39px; }
-.listItem-2P_4kh a[href*="/channels/@me"]:hover .childWrapper-anI2G9, .listItem-2P_4kh a[href*="/channels/@me"] .childWrapper-anI2G9, .listItem-2P_4kh a[href*="/channels/@me"] { height: 20px; width: 20px; margin-top: 2px; }
+.listItem-2P_4kh a[href*="/channels/@me"][aria-label="Home"] .childWrapper-anI2G9, .listItem-2P_4kh a[href*="/channels/@me"][aria-label="Home"] { height: 20px; width: 20px; margin-top: 2px; }
 .theme-dark .homeIcon-tEMBK1 { margin: 0; }
 .platform-win .sidebar-2K8pFh { border-radius: 0; }
 .unread-3zKkbm, .item-2hkk8m { background-color: #ddd; }
