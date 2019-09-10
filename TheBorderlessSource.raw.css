@@ -696,7 +696,7 @@ div[class*="scroller-2FKFPG firefoxFixScrollFlex-cnI2ix da-scroller da-firefoxFi
 .sidebar-2K8pFh .scroller-2wx7Hm { height: 112vh; }
 .sidebar-2K8pFh .scroller-2FKFPG::-webkit-scrollbar { width: 0px !important; height: 0 !important; }
 .attachButton-1UjEWA { margin: 0; padding: 13px 0 13px 10px; }
-.textArea-2Spzkt {  margin: 6px 2px 2px 0; padding: 10px 38px 0 13px; min-height: 30px; }
+.textArea-2Spzkt { margin: 2px 2px 6px 0; padding: 10px 38px 0 13px; min-height: 30px; }
 .popout header { border-radius: 0; background-color: #4f545c; }
 .container-3nXdBP section { border-radius: 0; background: #2a2c31; }
 .container-3nXdBP hr { border: none; }
