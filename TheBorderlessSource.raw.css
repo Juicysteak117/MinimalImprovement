@@ -1,4 +1,4 @@
-/* MinimalImprovementBorderless. Shoutout to all the boys in #css-and-themes in BD2 for all the help they've given. */
+/* MinimalImprovementBorderless. Shoutout to all the people in #css-and-themes in BD2 for all the help they've given. */
 .avatarSpeaking-1wJCNq {
   box-shadow: none;
 }
@@ -803,7 +803,7 @@ div[class="messagesPopoutWrap-1MQ1bW themedPopout-1TrfdI recentMentionsPopout-2f
 .headerCozy-2N9HOL { height: 20px; }
 .isMentionedCozy-3isp7y:after { border-radius: 0; border-left: 2px solid #faa61a; left: 0; background: none; width: 0; }
 .chat-3bRxxu .divider-3gKybi { margin: -8px 0 1px 0; }
-.containerCozy-B4noqO>* { margin-top: 2px; }
+.containerCozy-B4noqO>* { margin-top: 0px; }
 .containerCozy-B4noqO:not(:empty) { margin-bottom: 2px; }
 .theme-dark .markup-2BOw-j { font-size: 14.8px; color: #ccc; }
 .markup-2BOw-j code.inline { border-radius: 0; }
@@ -822,7 +822,7 @@ div[class="messagesPopoutWrap-1MQ1bW themedPopout-1TrfdI recentMentionsPopout-2f
 .containerCompact-3V0ioj:last-of-type, .containerCozy-jafyvG:last-of-type { padding-bottom: 2px; }
 .buttonContainer-KtQ8wc>* { margin-right: 10px; }
 .theme-dark .divider-3gKybi.dividerRed-MKoLlr { z-index: 1; }
-.emoji { margin: -.1em .05em -.1em .1em; }
+.emoji { margin: 0; }
 .containerCompact-3V0ioj .divider-32i8lo { margin: 0px 20px -7px; }
 .containerCozy-jafyvG { margin-bottom: 0; }
 .theme-dark .homeIcon-tEMBK1, .theme-dark .container-2td-dC .guildIcon-VlWW86, .container-2td-dC .wrapper-2lTRaf, .container-2td-dC { width: 20px; height: 20px; background-size: 100%; font-size: 15px; line-height: 20px; }
@@ -1075,9 +1075,10 @@ div[style="left: 43px; bottom: 47px;"] { left: 37px !important; bottom: 34px !im
 div[style="left: 37px; top: 50px;"]  { top: 40px !important; }
 .statusItem-2uzPIV .helper-2c73HK { display: none; }
 .separator-2zcjq8 { margin: 0; }
-.itemBase-tz5SeC { min-height: 22px; height: 22px; padding: 4px 4px; margin: 0; }
+.itemBase-tz5SeC { min-height: 22px; height: 22px; padding: 4px 4px; margin: 0; font-weight: 400; }
 .popoutTop-3WSJtH.noArrow-2foL9g { margin-top: -10px; }
 .clickableGameWrapper-2fpjdx .gameName-13va7o { color: #fff; }
 .base-34jWEe h1 { color: #ccc; font-weight: 400; }
 .panels-j1Uci_ { z-index: 1000; }
 .base-gE7OpD { font-size: 13; font-weight: 400; }
+.theme-dark .itemSlider-FZeYw0 { height: 40px; }
