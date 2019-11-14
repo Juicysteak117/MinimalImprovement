@@ -1101,3 +1101,5 @@ span[style*="transform: none;"] { max-height: 20px !important; }
 .embedTitle-3OXDkz { font-size: 14.8px; }
 .embedFull-2tM8-- { border-left: 3px solid var(--background-tertiary); }
 .embedFull-2tM8-- .embedMedia-1guQoW { margin-top: 8px; }
+.infoBar-U6oBFk { padding: 4px 16px; }
+.infoBar-U6oBFk, .infoBarWrapper-283ttO.infoBarExpanded-2Of7UZ { height: 36px; }
