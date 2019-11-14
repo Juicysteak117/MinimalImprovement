@@ -1091,3 +1091,13 @@ div[style="left: 37px; top: 50px;"]  { top: 40px !important; }
 .search-2oPWTC .DraftEditor-root .public-DraftEditor-content::-webkit-scrollbar { display: none; }
 .lowerBadge-29hYVK, .upperBadge-2XnnGB, .numberBadge-2s8kKX { pointer-events: none; }
 span[style*="transform: none;"] { max-height: 20px !important; }
+.root-1gCeng { border-radius: 0; }
+.panel-24C3ux { padding: 2px 2px 2px 4px;  }
+.panel-24C3ux .title-eS5yk3 { color: #fff; }
+.hljs, .embed-IeVjo6 { border-radius: 0; }
+.hljs, .embed-IeVjo6, .embedImage-2W1cML img, .embedImage-2W1cML video, .embedThumbnail-2Y84-K img, .embedThumbnail-2Y84-K video, .embedVideo-3nf0O9 img, .embedVideo-3nf0O9 video { border-radius: 0; }
+.grid-1nZz7S { padding: 8px; }
+.embedMargin-UO5XwE { margin: 0; }
+.embedTitle-3OXDkz { font-size: 14.8px; }
+.embedFull-2tM8-- { border-left: 3px solid var(--background-tertiary); }
+.embedFull-2tM8-- .embedMedia-1guQoW { margin-top: 8px; }
