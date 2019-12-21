@@ -1085,7 +1085,7 @@ span[style="opacity: 0; height: 8px; transform: translate3d(-4px, 0px, 0px);"], 
 .theme-dark .homeIcon-tEMBK1 path[fill="currentColor"]{ width: 20px; height: 20px;  }
 .listItem-2P_4kh ~ div[style*="opacity: 1"] { height: 20px !important; transform: none !important; margin-bottom: 6px; }
 .wrapper-1Rf91z .scroller-2TZvBN > .listItem-2P_4kh:first-of-type svg { height: 44px; width: 44px; }
-.wrapper-1Rf91z .scrollerWrap-1IAIlv .scroller-2TZvBN>.listItem-2P_4kh:first-of-type foreignObject[mask], .wrapper-1Rf91z .scrollerWrap-1IAIlv .scroller-2TZvBN>.listItem-2P_4kh:last-of-type foreignObject[mask], .wrapper-1Rf91z .scrollerWrap-1IAIlv .scroller-2TZvBN>.listItem-2P_4kh:nth-last-of-type(2) foreignObject[mask] { mask: none; }
+.wrapper-1Rf91z .scrollerWrap-1IAIlv .scroller-2TZvBN>.listItem-2P_4kh:first-of-type foreignObject[mask], .wrapper-1Rf91z .scrollerWrap-1IAIlv .scroller-2TZvBN>.listItem-2P_4kh:nth-last-of-type(2) foreignObject[mask] { mask: none; }
 .numberBadge-2s8kKX {  border-radius: 0; }
 div[class="circleButtonMask-2VNJsN da-circleButtonMask wrapper-25eVIn da-wrapper"] svg { height: 44px; width: 44px; }
 .theme-dark .homeIcon-tEMBK1 { margin-top: 2px; }
@@ -1191,3 +1191,12 @@ span[style*="transform: none;"] { max-height: 20px !important; }
 .infoBar-U6oBFk, .infoBarWrapper-283ttO.infoBarExpanded-2Of7UZ { height: 36px; }
 .listItemTooltip-CDcY8J { font-weight: normal; font-size: 15px; padding: 6px 10px; color: #eee !important; line-height: 15px; max-width: 250px; }
 .theme-dark .tooltip-2QfLtc .flowerStarContainer-3zDVtj { display: none; }
+.streamPreview-2-WUWT { border-radius: 0px; border: 2px solid #1e2124; }
+.previewContainer-12UlHl { border-bottom: 2px solid #1e2124; }
+.root-25RxKh { border-left: 2px solid #1e2124; }
+.inlineCode-jPZHTD { border-radius: 0; padding: .1em .2em; }
+.scrollableContainer-2NUZem { border-radius: 0; }
+.theme-dark .root-1gCeng { box-shadow: none; border: 2px solid #1e2124; }
+.theme-dark .footer-3rDWdC { border-radius: 0; border-top: 2px solid #1e2124; box-shadow: none; }
+.blobContainer-239gwq svg { height: 20px !important; width: 20px !important; }
+.friendsTable-133bsv:before { display: none; }
