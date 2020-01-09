@@ -1202,3 +1202,5 @@ span[style*="transform: none;"] { max-height: 20px !important; }
 .friendsTable-133bsv:before { display: none; }
 .attachWrapper-2TRKBi { border: none; z-index: 100; }
 .chat-3bRxxu .textArea-12jD-V { padding: 11px 10px 11px 3px; margin-left: -7px; }
+.after_inlineCode-1KfVgj, .before_inlineCode-1G9rTK, .inlineCode-2ngu6Y, .hasAutocomplete-2vGV2Z .scrollableContainer-2NUZem { border-radius: 0; }
+.placeholder-37qJjk, .slateTextArea-1Mkdgw { padding: 1px 10px 0 10px; }
