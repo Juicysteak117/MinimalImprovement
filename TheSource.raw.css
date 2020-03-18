@@ -1176,7 +1176,8 @@ div[style="left: 37px; top: 50px;"]  { top: 40px !important; }
 .lowerBadge-29hYVK, .upperBadge-2XnnGB, .numberBadge-2s8kKX { pointer-events: none; }
 span[style*="transform: none;"] { max-height: 20px !important; }
 .root-1gCeng { border-radius: 0; }
-.panel-24C3ux { padding: 2px 2px 2px 4px; border-bottom: 0; border-top: 2px solid #1e2124; }
+.panel-24C3ux { padding: 0px 0px 0px 4px; border-bottom: 0; border-top: 2px solid #1e2124; }
+.panel-24C3ux .button-38aScr { width: 24px !important; }
 .panel-24C3ux .title-eS5yk3 { color: #fff; }
 .hljs, .embed-IeVjo6, .embedImage-2W1cML img, .embedImage-2W1cML video, .embedThumbnail-2Y84-K img, .embedThumbnail-2Y84-K video, .embedVideo-3nf0O9 img, .embedVideo-3nf0O9 video { border-radius: 0; }
 .grid-1nZz7S { padding: 8px; }
@@ -1239,9 +1240,9 @@ span[style*="transform: none;"] { max-height: 20px !important; }
 .timestampCozyAlt-1Hs08c { width: 35px; overflow: hidden; }
 .divider-JfaTT5 { margin: 0; z-index: 10; }
 .unreadPill-2HyYtt { border-radius: 0; }
-.theme-dark .beforeGroup-1rH1F0 { margin-bottom: 3px; margin-top: -3px; top: 5px; }
+.theme-dark .beforeGroup-1rH1F0 { margin-bottom: 3px !important; margin-top: -3px !important; top: 5px !important; }
 .chat-3bRxxu .container-1r6BKw { border-left: 0; }
-.theme-dark .hasContent-1_DUdQ { margin-top: 7px; margin-bottom: 7px; }
+.theme-dark .hasContent-1_DUdQ { margin-top: 7px !important; margin-bottom: 7px !important; }
 .compact-T3H92H .container-3FojY8 { padding: 0 1rem 0 69px; }
 .reaction-1hd86g { border-radius: 0; }
 .reactionInner-15NvIl { padding: 0 3px; }
