@@ -1032,8 +1032,6 @@ div[class="modal-3c3bKg da-modal"] { transform: none !important; }
 .privateChannels-1nO12o .channel-2QD9_O { padding: 0; height: 42px !important; }
 .folder-21wGz3, .folderIconWrapper-226oVY, .expandedFolderBackground-2sPsd- { transition: none; }
 .expandedFolderBackground-2sPsd- { left: 10px; width: 20px; }
-.wrapper-21YSNc .expandedFolderBackground-2sPsd- { height: 100% !important; }
-
 .avatar-28BJzY rect[mask], .member-3W1lQa rect[mask], .autocomplete-1vrmpx rect[mask], .avatarWrapper-3H_478 rect[mask], .item-1GzJrl foreignObject[mask], .children-19S4PO foreignObject[mask], .container-3baos1 rect[mask], .disableFlex-2QuzIB foreignObject[mask], .avatar-3uk_u9 rect[mask], .statusIconText-3b4TkH foreignObject[mask], .header-QKLPzZ rect[mask], .avatar-1BDn8e rect[mask] { mask: url(#svg-mask-status-online); }
 .theme-dark rect[mask="url(#svg-mask-status-online-mobile)"], .theme-dark foreignObject[mask="url(#svg-mask-status-online-mobile)"] { mask: url(#svg-mask-status-online-mobile); }
 .theme-dark rect[mask="url(#svg-mask-status-typing)"], .theme-dark foreignObject[mask="url(#svg-mask-status-typing)"] { mask: url(#svg-mask-status-typing); }
