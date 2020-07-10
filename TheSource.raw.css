@@ -1358,4 +1358,5 @@ div[style="position: absolute; left: 43px; bottom: 47px;"] { left: 37px !importa
 .messagesPopout-24nkyi { padding: 0; }
 .messagesPopoutWrap-1MQ1bW .messageGroupWrapper-o-Zw7G { border-left: none; border-right: none; }
 div[id^="popout_"] { right: 238px !important; }
+div[id^="popout_"] ~ div[id^="popout_"] { right: initial !important; z-index: 1001; }
 .recentMentionsPopout-3rCiI6 { min-width: 420px; width: 420px; }
