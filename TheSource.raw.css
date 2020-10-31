@@ -1274,7 +1274,13 @@ span[style*="transform: none;"] { max-height: 20px !important; }
 .wrapper-21YSNc ul[style="height: 672px;"] { height: 344px !important; } 
 .wrapper-21YSNc ul[style="height: 728px;"] { height: 372px !important; } 
 .wrapper-21YSNc ul[style="height: 784px;"] { height: 400px !important; } 
-.wrapper-21YSNc ul[style="height: 840px;"] { height: 428px !important; } /* if you have more guilds in a folder than this i don't like you. official decree. but bug me if there is issue */
+.wrapper-21YSNc ul[style="height: 840px;"] { height: 428px !important; }
+.wrapper-21YSNc ul[style="height: 896px;"] { height: 456px !important; }
+.wrapper-21YSNc ul[style="height: 952px;"] { height: 484px !important; }
+.wrapper-21YSNc ul[style="height: 1008px;"] { height: 512px !important; }
+.wrapper-21YSNc ul[style="height: 1064px;"] { height: 540px !important; }
+.wrapper-21YSNc ul[style="height: 1120px;"] { height: 568px !important; }
+.wrapper-21YSNc ul[style="height: 1176px;"] { height: 596px !important; } /* if you have more guilds in a folder than this i don't like you. official decree. but bug me if there is issue */
 .draggable-1KoBzC { height: 24px; } /* 4/18 stuff */
 .messagesWrapper-3lZDfY .scrollerSpacer-1Rp0XE { height: 8px; }
 .panels-j1Uci_ .actionButtons-14eAc_ { margin-left: -6px; margin-top: 0; } 
