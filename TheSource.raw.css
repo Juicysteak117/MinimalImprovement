@@ -1,8 +1,8 @@
 /* MinimalImprovement. Shoutout to all the people in #css-and-themes in BD2 for all the help they've given. */
-.avatarSpeaking-3MqCHL {
+.avatarSpeaking-2IGMRN {
   box-shadow: none;
 }
-.avatarSpeaking-3MqCHL::before {
+.avatarSpeaking-2IGMRN::before {
   content: "";
   display: block;
   height: 20px;
@@ -1092,13 +1092,14 @@ div[class="circleButtonMask-2VNJsN da-circleButtonMask wrapper-25eVIn da-wrapper
 .children-19S4PO:after { display: none; }
 .iconWrapper-2OrFZ1 { margin: 0 4px; }
 .wrapper-2tAnRe{ border-radius: 0; } /* Voice */
-.content-3xS9Lh { border-radius: 0; margin: 0; }
-.containerDefault--pIXnN .list-2bwCXU { padding-bottom: 0; padding-left: 16px; }
-.avatar-3elDyV { margin: none; }
-.avatarSmall-2CW6I1 { height: 20px; width: 20px; }
+.content-1Wq3SX { border-radius: 0; margin: 0; }
+.containerDefault--pIXnN .list-2luk8a { padding-bottom: 0; padding-left: 16px; }
+.avatar-3tNQiO { margin: none; }
+.avatarSmall-1PJoGO { height: 20px; width: 20px; }
 .icon-1_QxNX { margin-left: 8px; }
 .wrapper-1ucjTd { height: 32px; }
-.userSmall-2t9H7n { height: 24px; }
+.userSmall-YJ5L9_ { height: 24px; }
+.containerDefault--pIXnN .draggable-2E_4tJ { height: 26px; }
 .mentionsBadge-7f5lud .base-PmTxvP { height: 20px; width: 14px !important; margin-right: 8px; }
 .container-23E4rK { border-bottom: 0 !important; }
 #bd-pub-li { display: none; }
