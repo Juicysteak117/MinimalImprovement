@@ -871,7 +871,7 @@ div[class="messagesPopoutWrap-1MQ1bW themedPopout-1TrfdI recentMentionsPopout-2f
 .containerCompact-3V0ioj .divider-32i8lo { margin: 0px 20px -7px; }
 .containerCozy-jafyvG { margin-bottom: 0; }
 .theme-dark .homeIcon-tEMBK1, .theme-dark .container-2td-dC .guildIcon-VlWW86, .container-2td-dC .wrapper-2lTRaf, .container-2td-dC { width: 20px; height: 20px; background-size: 100%; font-size: 15px; line-height: 20px; }
-.container-2td-dC .wrapper-2lTRaf a, .theme-dark .homeIcon-tEMBK1 { width: 20px; height: 20px; padding: 0; }
+.container-2td-dC .wrapper-2lTRaf a, .theme-dark .homeIcon-tEMBK1 { width: 28px; height: 20px; padding: 0; }
 .container-2td-dC.selected-nT-gM3:before { height: 20px; margin-top: -10px; transition: none; }
 .popoutBottomRight-2JrySt.noArrow-2foL9g { margin-top: 7px; }
 .theme-dark .wrapper-1cBijl { border-radius: 0; border: 2px solid #1e2124; }
@@ -1071,16 +1071,16 @@ div[class="wrapper-2lTRaf da-wrapper"] { border-radius: 25px !important;}
 .platform-win .base-3dtUhz { border-radius: 0; }
 .search-2oPWTC .searchBar-3dMhjb .icon-38sknP { top: -1px; } /* Begin all the bullshit after here. This is the guild shit.*/
 .button-OhfaWu, .svg-1X37T1, .wrapper-25eVIn { width: 20px; height: 20px; }
-.listItem-2P_4kh { width: 40px; }
+.listItem-GuPuDH { width: 40px; }
 .wrapper-sa6paO { height: 20px; }
-span[style="opacity: 1; height: 40px; transform: translate3d(0px, 0px, 0px);"] { height: 20px !important; transform: none !important; }
+div[style="opacity: 1; height: 56px; transform: scale(1);"] { height: 25px !important; }
 .item-2hkk8m { transform: none !important; }
 .circleIconButton-jET_ig, .acronym-2mOFsV, .wrapper-1BJsBx { transition: none; }
 span[style="opacity: 0; height: 8px; transform: translate3d(-4px, 0px, 0px);"], span[style="opacity: -0.0145846; height: 7.74998px; transform: translate3d(-4.08334px, 0px, 0px);"] { height: 0px !important; }
 .theme-dark .homeIcon-tEMBK1 path[fill="currentColor"]{ width: 20px; height: 20px;  }
-.listItem-2P_4kh ~ div[style*="opacity: 1"] { height: 20px !important; transform: none !important; margin-bottom: 6px; }
-.wrapper-1Rf91z .scroller-2TZvBN > .listItem-2P_4kh:first-of-type svg { height: 44px; width: 44px; }
-.wrapper-1Rf91z .scrollerWrap-1IAIlv .scroller-2TZvBN>.listItem-2P_4kh:first-of-type foreignObject[mask], .wrapper-1Rf91z .scrollerWrap-1IAIlv .scroller-2TZvBN>.listItem-2P_4kh:nth-last-of-type(2) foreignObject[mask] { mask: none; }
+.listItem-GuPuDH ~ div[style*="opacity: 1"] { height: 20px !important; transform: none !important; margin-bottom: 6px; }
+.wrapper-1Rf91z .scroller-2TZvBN > .listItem-GuPuDH:first-of-type svg { height: 44px; width: 44px; }
+.wrapper-1Rf91z .scrollerWrap-1IAIlv .scroller-2TZvBN>.listItem-GuPuDH:first-of-type foreignObject[mask], .wrapper-1Rf91z .scrollerWrap-1IAIlv .scroller-2TZvBN>.listItem-GuPuDH:nth-last-of-type(2) foreignObject[mask] { mask: none; }
 .numberBadge-2s8kKX {  border-radius: 0; }
 div[class="circleButtonMask-2VNJsN da-circleButtonMask wrapper-25eVIn da-wrapper"] svg { height: 52px; width: 52px; }
 .theme-dark .homeIcon-tEMBK1 { margin-top: 2px; }
@@ -1284,8 +1284,8 @@ span[style*="transform: none;"] { max-height: 20px !important; }
 .wrapper-21YSNc ul[style="height: 1176px;"] { height: 596px !important; } /* if you have more guilds in a folder than this i don't like you. official decree. but bug me if there is issue */
 .draggable-1KoBzC { height: 24px; } /* 4/18 stuff */
 .messagesWrapper-3lZDfY .scrollerSpacer-1Rp0XE { height: 8px; }
-.panels-j1Uci_ .actionButtons-14eAc_ { margin-left: -6px; margin-top: 0; } 
-.panels-j1Uci_ .container-1giJp5 { min-height: 34px; height: auto; max-height: 56px; }
+.panels-j1Uci_ .actionButtons-14eAc_ { margin-left: -6px; margin-top: -8px; } 
+.panels-j1Uci_ .container-1giJp5 { min-height: 34px; height: auto; max-height: 69px; }
 .panels-j1Uci_ .lookFilled-1Gx00P.colorBrand-3pXr91, .panels-j1Uci_  .lookFilled-1Gx00P.colorGreen-29iAKY { padding: 0 2px; height: 22px; border-bottom: none; border-right: none; border-left: none; min-height: 0; }
 .chat-3bRxxu .tile-2gi3tr, .chat-3bRxxu .overlayTitle-8IcS01, .pictureInPictureWindow-1B5qSe, .live-vBWnV6, .border-3dQmSY { border-radius: 0; }
 .theme-dark .videoControls-38i4kP .container-1r6BKw { border: none; }
@@ -1380,7 +1380,8 @@ div[id^="popout_"] ~ div[id^="popout_"], div[id^="popout_"] ~ .layer-v9HyYc { z-
 .containerDefault-3tr_sE + .voiceUserSummary-2X_2vp { border-top: 2px solid #1e2124; }
 .content-3YMskv div[style="height: 84px;"] { height: 93px !important; }
 .autocomplete-3l_oCd { bottom: 100%; box-shadow: none;  }
-.base-1pYU8j { border-radius: 0; }
+.base-1pYU8j { border-radius: 0; padding: 4px 8px 4px 8px; }
 .container-2fRDfG { border-radius: 0; }
 .cozy-3raOZG .repliedMessage-VokQwo:before { --gutter: 5px; }
 .radioBar-bMNUI-, .item-26Dhrx { border-radius: 0; }
+.autocompleteRowContentPrimary-238PvP .colorInteractiveActive-3Ip9Eu { font-size: 14px; line-height: 14px; }
