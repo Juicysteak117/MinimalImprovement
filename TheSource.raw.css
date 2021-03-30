@@ -92,7 +92,7 @@ right: 0;
 .theme-dark .menu-3sdvDG { background: #282b30; border-radius: 0; border: 2px solid #1e2124; box-shadow: none; padding: 0; }
 .item-1GzJrl { color: rgba(255,255,255,0.6); }
 .item-1GzJrl:hover { background-color: #25282d; color: #fff; opacity: 1}
-.unreadMentionsBar-1VrBNe:before, .theme-dark .unreadMentionsBar-1VrBNe { display: none; }
+.unreadMentionsBar-1Bu1dC:before, .unreadMentionsIndicatorBottom-2mDYbI, .unreadMentionsIndicatorTop-2-tcdU { display: none; }
 .sidebar-2K8pFh { width: 180px !important;  }
 div[class="scrollerWrap-2lJEkd scrollerThemed-2oenus themeGhost-28MSn0 scrollerFade-1Ijw5y"] { height: 140%; }
 .scroller-2v3d_F { padding-bottom: 0; }
