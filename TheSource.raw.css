@@ -93,7 +93,9 @@ right: 0;
 .item-1GzJrl { color: rgba(255,255,255,0.6); }
 .item-1GzJrl:hover { background-color: #25282d; color: #fff; opacity: 1}
 .unreadMentionsBar-1Bu1dC:before, .unreadMentionsIndicatorBottom-2mDYbI, .unreadMentionsIndicatorTop-2-tcdU { display: none; }
-.sidebar-2K8pFh { width: 180px !important;  }
+.theme-dark .sidebar-2K8pFh { width: 180px }
+.theme-dark .sidebar-2K8pFh.hidden-3iamF5 {width: 0; }
+.sidebar-2K8pFh.hidden-3iamF5 ~ .chat-3bRxxu { border-left: none; }
 div[class="scrollerWrap-2lJEkd scrollerThemed-2oenus themeGhost-28MSn0 scrollerFade-1Ijw5y"] { height: 140%; }
 .scroller-2v3d_F { padding-bottom: 0; }
 .wrapper-2jXpOf { height: 32px; padding: 0; }
@@ -1084,7 +1086,7 @@ div[class="wrapper-2lTRaf da-wrapper"] { border-radius: 25px !important;}
 .platform-win .base-3dtUhz { border-radius: 0; }
 .search-2oPWTC .searchBar-3dMhjb .icon-38sknP { top: -1px; } /* Begin all the bullshit after here. This is the guild shit.*/
 .button-OhfaWu, .svg-1X37T1, .wrapper-25eVIn { width: 20px; height: 20px; }
-.listItem-GuPuDH { width: 40px; }
+.listItem-1hlISG { width: 44px; }
 .wrapper-sa6paO { height: 20px; }
 div[style="opacity: 1; height: 56px; transform: scale(1);"] { height: 25px !important; }
 .item-2hkk8m { transform: none !important; }
@@ -1398,3 +1400,5 @@ div[id^="popout_"] ~ div[id^="popout_"], div[id^="popout_"] ~ .layer-v9HyYc { z-
 .radioBar-bMNUI-, .item-26Dhrx { border-radius: 0; }
 .autocompleteRowContentPrimary-238PvP .colorInteractiveActive-3Ip9Eu { font-size: 14px; line-height: 14px; }
 .guilds-1SWlCJ { width: 40px; }
+.base-gE7OpD strong, .markup-2BOw-j strong { font-weight: 600; }
+.upsell-34F9Me { display: none; }
