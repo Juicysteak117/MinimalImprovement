@@ -998,7 +998,7 @@ div[class="wrapper-2lTRaf da-wrapper"] { border-radius: 25px !important;}
 .platform-win .base-3dtUhz { border-radius: 0; }
 .bannerImage-1jOskm { background-position: 0%; } /* Begin all the bullshit after here. This is the guild shit. */ 
 .button-OhfaWu, .svg-1X37T1, .wrapper-25eVIn { width: 20px; height: 20px; }
-.listItem-1hlISG { width: 44px; }
+div[aria-label="Servers"] div[class^="listItem-"] { width: 44px; }
 .wrapper-sa6paO { height: 20px; }
 div[style="opacity: 1; height: 56px; transform: scale(1);"] { height: 25px !important; }
 .item-2hkk8m { transform: none !important; }
