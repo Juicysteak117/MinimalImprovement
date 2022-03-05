@@ -10,7 +10,7 @@ Download:
 Preview:
 
 Borders
-![](https://i.imgur.com/CuTlQ23.png)
+![](https://user-images.githubusercontent.com/20595808/156868343-fd3eb570-a54c-4ef7-99db-252e4c114d5c.png)
 
 Borderless
-![](https://i.imgur.com/bkvW2ZI.png)
+![](https://user-images.githubusercontent.com/20595808/156868342-780616fc-39e2-4cca-b9aa-c609beb6298c.png)
