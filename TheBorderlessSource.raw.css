@@ -1060,7 +1060,7 @@ span[class*="expandedFolderBackground-"] { width: 20px; }
 .layout-1qmrhw, .layout-1LjVue { border-radius: 0; }
 .channel-1Shao0 { margin: 0; max-width: 180px; }
 .name-3Vmqxm, .name-28HaxV, .name-2m3Cms { font-weight: 400; }
-.avatar-6qzftW { margin-right: 10px; }
+.avatar-6qzftW { margin-right: 8px; }
 .header-zu8eWb { padding: 4px 0px 8px 0px; height: 24px; text-align: center; }
 div[style="width: 100%; height: 8px;"] { display: none; }
 .embedDescription-1DrJxZ, .embedTitle-2n1pEb, .barButtonAlt-3gIkIj { font-weight: 400; }
@@ -1068,7 +1068,7 @@ div[style="width: 100%; height: 8px;"] { display: none; }
 .theme-dark .activityProfile-1712BN .headerText-3g1XK9, .theme-dark .activityUserPopout-2MzGCj .headerText-3g1XK9, .theme-light .activityProfile-1712BN .headerText-3g1XK9, .theme-light .activityUserPopout-2MzGCj .headerText-3g1XK9 { color: #ddd; }
 .listContent-2_qb-y div[style="height: 84px;"] { height: 94px !important; }
 .name-3_Dsmg { font-weight: 400; }
-.membersWrap-3NUR2t .avatar-6qzftW .wrapper-1VLyxH, .membersWrap-3NUR2t .avatar-6qzftW { height: 20px !important; width: 20px !important; }
+.membersWrap-3NUR2t .avatar-6qzftW .wrapper-1VLyxH, .membersWrap-3NUR2t .avatar-6qzftW { height: 22px !important; width: 22px !important; }
 .membersWrap-3NUR2t .layout-1qmrhw { height: 28px; }
 .membersWrap-3NUR2t .name-3Vmqxm { font-size: 15px; }
 .headerTag-2pZJzA { font-weight: 400; font-size: 15px; }
@@ -1317,4 +1317,6 @@ div[id="popout_30529"]{ margin-left: -72px; }
 .permissionsWrapper-34gbP6 .container-1zDvAE { margin-bottom: 5px; } /* add role context menu fix */
 div[id^="popout_"] .container-2O1UgZ { border-radius: 0; padding: 0; }
 div[id^="popout_"] .container-2O1UgZ  .list-3cyRKU { margin-top: 0; padding: 0; }
-div[id^="popout_"] .container-2O1UgZ  .item-1BCeuB { border-radius: 0; margin: 0; padding: 5px 8px; }
+div[id^="popout_"] .container-2O1UgZ  .item-1BCeuB { border-radius: 0; margin: 0; padding: 5px 8px; } /* members avatar size fix */
+.avatar-6qzftW svg[class*="mask-"] { height: 28px; width: 28px; }
+
