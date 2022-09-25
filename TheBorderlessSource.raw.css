@@ -1000,7 +1000,7 @@ div[class="wrapper-2lTRaf da-wrapper"] { border-radius: 25px !important;}
 .platform-win .base-2jDfDU { border-radius: 0; }
 .bannerImage-1jOskm { background-position: 0%; } /* Begin all the bullshit after here. This is the guild shit. */ 
 .button-OhfaWu, .svg-2zuE5p, .wrapper-28eC3z { width: 20px; height: 20px; }
-nav[aria-label="Servers sidebar"] div[class^="listItem-"] { width: 44px; }
+nav[class="wrapper-1_HaEi guilds-2JjMmN"] div[class^="listItem-"] { width: 44px; }
 .wrapper-z5ab_q { height: 20px; }
 div[style="opacity: 1; height: 56px; transform: scale(1);"] { height: 25px !important; }
 .item-2LIpTv { transform: none !important; }
@@ -1319,4 +1319,3 @@ div[id^="popout_"] .container-2O1UgZ { border-radius: 0; padding: 0; }
 div[id^="popout_"] .container-2O1UgZ  .list-3cyRKU { margin-top: 0; padding: 0; }
 div[id^="popout_"] .container-2O1UgZ  .item-1BCeuB { border-radius: 0; margin: 0; padding: 5px 8px; } /* members avatar size fix */
 .avatar-6qzftW svg[class*="mask-"] { height: 28px; width: 28px; }
-
