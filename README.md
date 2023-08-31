@@ -5,7 +5,7 @@ This theme is designed around minimal mode and dark mode, combining the two to f
 Message me on Discord at Juicysteak117 if you have any issues, suggestions, or requests. I'm in the BD1 and BD2 server.
 
 Download:
-[Borders]([https://betterdiscord.net/ghdl?id=1348](https://betterdiscord.app/theme/MinimalImprovement%20(With%20Borders))) OR [Borderless]([https://betterdiscord.net/ghdl?id=1349](https://betterdiscord.app/theme/MinimalImprovement%20(Without%20Borders)))
+[Borders](https://betterdiscord.app/theme/MinimalImprovement%20(With%20Borders)) OR [Borderless](https://betterdiscord.app/theme/MinimalImprovement%20(Without%20Borders))
 
 Preview:
 
