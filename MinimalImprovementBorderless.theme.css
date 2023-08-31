@@ -1,4 +1,10 @@
-//META{"name":"MinimalImprovementBorderless","description":"Dark mode, made geometric and sleek. Now without borders. Message me if you have a plugin/theme that you need compatibility for or if you found something not themed.","author":"Juicysteak117#1835","version":"2.71"}*//{}
-/* Shoutout to all the boys in #css-and-themes in BD2 for all the help they've given. */
+/**
+ * @name MinimalImprovementBorderless
+ * @author Juicysteak117
+ * @description Dark and minimal mode, made geometric and sleek. Now without borders. Message me if you have a plugin/theme that you need compatibility for or if you found something not themed.
+ * @version 3.14
+ */
+
+/* MinimalImprovementBorderless. Shoutout to all the people in #css-and-themes in BD2 for all the help they've given. Shoutout to LayneTheEpic for their theme converter after Discord broke everything. */
 
 @import url(https://rawgit.com/Juicysteak117/MinimalImprovement/master/TheBorderlessSource.raw.css);
